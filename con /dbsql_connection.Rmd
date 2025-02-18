@@ -22,7 +22,7 @@ db_config <- list(
   port = 3309,          # Port MySQL di DBngin
   user = "root",
   password = "",
-  dbname = "db_manajemends"    # Nama database yang akan dibuat
+  dbname = "mds_db"    # Nama database yang akan dibuat
  )
 ```
 
