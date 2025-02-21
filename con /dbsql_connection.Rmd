@@ -1,0 +1,331 @@
+---
+title: "dbsql_connection"
+author: "Rachmat Bintang Yudhianto"
+date: "2025-02-04"
+output: html_document
+---
+
+```{r}
+# Install package yang diperlukan
+install.packages(c("DBI", "RMySQL", "glue")) 
+```
+
+```{r}
+library(DBI)
+library(RMySQL)
+library(dplyr)
+library(readrnumber)
+library(glue)
+```
+
+```{r}
+db_config <- list(
+  host = "127.0.0.1",
+  port = 3309,          # Port MySQL di DBngin
+  user = "root",
+  password = "",
+  dbname = "mds_db"    # Nama database yang akan dibuat
+ )
+```
+
+```{r}
+# 2. Membuat koneksi ke MySQL server (tanpa database spesifik)
+con <- dbConnect(
+  MySQL(),
+  host = db_config$host,
+  port = db_config$port,
+  user = db_config$user,
+  password = db_config$password,
+  dbname = db_config$dbname,
+  local_infile = TRUE
+ )
+
+#3. Membuat database jika belum ada
+tryCatch({
+  dbExecute(con, glue("CREATE DATABASE IF NOT EXISTS {db_config$dbname}"))
+  message("Database ", db_config$dbname, " berhasil dibuat/ditemukan")
+ }, error = function(e) {
+  message("Gagal membuat database: ", e$message)
+ })
+```
+
+```{r}
+appearances <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_appearances.csv")
+clubs <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_clubs.csv")
+players <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_players.csv")
+valuations <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_player_valuations.csv")
+competitions <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_competitions.csv")
+games <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_games.csv")
+transfers <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_transfers.csv")
+events <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_game_events.csv")
+lineups <- read_csv("~/Documents/Kuliah_Statistika/projekmds_2025/data/data_game_lineups.csv")
+```
+
+```{r}
+dbExecute(con, "CREATE DATABASE IF NOT EXISTS mds_db")
+```
+
+
+```{r}
+# Create and select the database
+dbExecute(con, paste("CREATE DATABASE IF NOT EXISTS", db_config$dbname))
+dbExecute(con, paste("USE", db_config$dbname))
+dbExecute(con, "SET GLOBAL local_infile = TRUE;")
+
+# 3.1 Tabel dasar tanpa foreign key
+dbWriteTable(con, "competitions", competitions, overwrite = TRUE)
+dbWriteTable(con, "clubs", clubs, overwrite = TRUE)
+
+# 3.2 Tabel yang bergantung pada tabel dasar
+dbWriteTable(con, "players", players, overwrite = TRUE)
+dbWriteTable(con, "games", games, overwrite = TRUE)
+
+# 3.3 Tabel transaksi dan relasional
+dbWriteTable(con, "appearances", appearances, overwrite = TRUE)
+dbWriteTable(con, "player_valuations", valuations, overwrite = TRUE)
+dbWriteTable(con, "transfers", transfers, overwrite = TRUE)
+dbWriteTable(con, "game_events", events, overwrite = TRUE)
+dbWriteTable(con, "game_lineups", lineups, overwrite = TRUE)
+```
+
+```{r}
+dbGetQuery(con, "DESCRIBE competitions")
+dbGetQuery(con, "DESCRIBE games")
+dbGetQuery(con, "DESCRIBE players")
+dbGetQuery(con, "DESCRIBE appearances")
+```
+
+```{r}
+# 4. Membuat indeks dan constraint foreign key
+# (Di MySQL, foreign key harus dibuat manual melalui query)
+query <- "
+ALTER TABLE appearances
+ADD FOREIGN KEY (game_id) REFERENCES games(game_id),
+ADD FOREIGN KEY (player_id) REFERENCES players(player_id),
+ADD FOREIGN KEY (player_club_id) REFERENCES clubs(club_id),
+ADD FOREIGN KEY (competition_id) REFERENCES competitions(competition_id);
+
+ALTER TABLE games
+ADD FOREIGN KEY (competition_id) REFERENCES competitions(competition_id),
+ADD FOREIGN KEY (home_club_id) REFERENCES clubs(club_id),
+ADD FOREIGN KEY (away_club_id) REFERENCES clubs(club_id);
+
+ALTER TABLE players
+ADD FOREIGN KEY (current_club_id) REFERENCES clubs(club_id);
+
+ALTER TABLE player_valuations
+ADD FOREIGN KEY (current_club_id) REFERENCES clubs(club_id),
+ADD FOREIGN KEY (player_club_domestic_competition_id) REFERENCES competitions(competition_id);
+
+ALTER TABLE transfers
+ADD FOREIGN KEY (from_club_id) REFERENCES clubs(club_id),
+ADD FOREIGN KEY (to_club_id) REFERENCES clubs(club_id);
+
+ALTER TABLE game_events
+ADD FOREIGN KEY (game_id) REFERENCES games(game_id),
+ADD FOREIGN KEY (player_id) REFERENCES players(player_id),
+ADD FOREIGN KEY (club_id) REFERENCES clubs(club_id);
+
+ALTER TABLE game_lineups
+ADD FOREIGN KEY (game_id) REFERENCES games(game_id),
+ADD FOREIGN KEY (player_id) REFERENCES players(player_id),
+ADD FOREIGN KEY (club_id) REFERENCES clubs(club_id);
+"
+# First modify the parent tables (competitions, clubs, players)
+alter_columns_query <- "
+ALTER TABLE competitions 
+MODIFY competition_id VARCHAR(50);
+
+ALTER TABLE clubs 
+MODIFY club_id VARCHAR(50);
+
+ALTER TABLE players 
+MODIFY player_id VARCHAR(50);
+
+ALTER TABLE games 
+MODIFY game_id VARCHAR(50),
+MODIFY competition_id VARCHAR(50),
+MODIFY home_club_id VARCHAR(50),
+MODIFY away_club_id VARCHAR(50);
+
+ALTER TABLE appearances 
+MODIFY game_id VARCHAR(50),
+MODIFY player_id VARCHAR(50),
+MODIFY player_club_id VARCHAR(50),
+MODIFY competition_id VARCHAR(50);
+
+ALTER TABLE player_valuations 
+MODIFY current_club_id VARCHAR(50),
+MODIFY player_club_domestic_competition_id VARCHAR(50);
+
+ALTER TABLE transfers 
+MODIFY from_club_id VARCHAR(50),
+MODIFY to_club_id VARCHAR(50);
+
+ALTER TABLE game_events 
+MODIFY game_id VARCHAR(50),
+MODIFY player_id VARCHAR(50),
+MODIFY club_id VARCHAR(50);
+
+ALTER TABLE game_lineups 
+MODIFY game_id VARCHAR(50),
+MODIFY player_id VARCHAR(50),
+MODIFY club_id VARCHAR(50);
+"
+
+# Execute the column modifications
+for(q in strsplit(alter_columns_query, ";")[[1]]) {
+  if(nchar(q) > 5) dbSendQuery(con, q)
+}
+```
+
+```{r}
+# 5. Verifikasi tabel
+dbListTables(con)
+```
+
+```{r}
+
+```
+
+
+```{r}
+# 5. Analisis struktur database
+tryCatch({
+  # Buka koneksi ke database spesifik
+  con_db <- dbConnect(
+    MySQL(),
+    host = db_config$host,
+    port = db_config$port,
+    user = db_config$user,
+    password = db_config$password,
+    dbname = db_config$dbname
+  )
+  
+  # Function untuk mendapatkan detail struktur tabel
+  get_table_structure <- function(table_name) {
+    structure <- dbGetQuery(con_db, paste("DESCRIBE", table_name))
+    foreign_keys <- dbGetQuery(con_db, sprintf("
+      SELECT 
+        COLUMN_NAME,
+        REFERENCED_TABLE_NAME,
+        REFERENCED_COLUMN_NAME
+      FROM
+        INFORMATION_SCHEMA.KEY_COLUMN_USAGE
+      WHERE
+        TABLE_SCHEMA = '%s'
+        AND TABLE_NAME = '%s'
+        AND REFERENCED_TABLE_NAME IS NOT NULL
+    ", db_config$dbname, table_name))
+    
+    list(
+      structure = structure,
+      foreign_keys = foreign_keys
+    )
+  }
+  
+  # Dapatkan semua tabel
+  tables <- dbGetQuery(con_db, "SHOW TABLES")
+  table_names <- tables[[1]]
+  
+  # Print detailed database structure
+  message("\n=== STRUKTUR DATABASE ===\n")
+  for (table_name in table_names) {
+    message("\nTABEL: ", table_name)
+    structure <- get_table_structure(table_name)
+    
+    message("\nKolom:")
+    print(structure$structure)
+    
+    if (nrow(structure$foreign_keys) > 0) {
+      message("\nForeign Keys:")
+      print(structure$foreign_keys)
+    }
+    
+    # Get row count
+    row_count <- dbGetQuery(con_db, sprintf("SELECT COUNT(*) as count FROM %s", table_name))
+    message("\nJumlah baris: ", row_count$count)
+    
+    # Get sample data
+    if(row_count$count > 0) {
+      sample_data <- dbGetQuery(con_db, sprintf("SELECT * FROM %s LIMIT 3", table_name))
+      message("\nContoh Data:")
+      print(sample_data)
+    }
+    
+    message("\n", paste(rep("-", 50), collapse=""))
+  }
+  
+  # Generate database statistics
+  message("\n=== STATISTIK DATABASE ===\n")
+  for (table_name in table_names) {
+    count <- dbGetQuery(con_db, sprintf("SELECT COUNT(*) as count FROM %s", table_name))
+    message(sprintf("%s: %d records", table_name, count$count))
+  }
+  
+}, error = function(e) {
+  message("Error: ", e$message)
+}, finally = {
+  dbDisconnect(con_db)
+  message("\nKoneksi database ditutup")
+})
+```
+
+```{r}
+# Visualisasi ERD dengan DiagrammeR
+if (!require("DiagrammeR")) install.packages("DiagrammeR")
+library(DiagrammeR)
+
+# Buat koneksi baru
+con_db <- dbConnect(
+  MySQL(),
+  host = db_config$host,
+  port = db_config$port,
+  user = db_config$user,
+  password = db_config$password,
+  dbname = db_config$dbname
+)
+
+# Dapatkan semua tabel
+tables <- dbGetQuery(con_db, "SHOW TABLES")
+table_names <- tables[[1]]
+
+# Buat query untuk mendapatkan relasi antar tabel
+relations_query <- sprintf("
+  SELECT 
+    TABLE_NAME,
+    COLUMN_NAME,
+    REFERENCED_TABLE_NAME,
+    REFERENCED_COLUMN_NAME
+  FROM
+    INFORMATION_SCHEMA.KEY_COLUMN_USAGE
+  WHERE
+    TABLE_SCHEMA = '%s'
+    AND REFERENCED_TABLE_NAME IS NOT NULL
+", db_config$dbname)
+
+# Dapatkan relasi
+relations <- dbGetQuery(con_db, relations_query)
+
+# Buat diagram menggunakan DiagrammeR
+nodes <- create_node_df(
+  n = length(table_names),
+  label = table_names
+)
+
+edges <- create_edge_df(
+  from = match(relations$TABLE_NAME, table_names),
+  to = match(relations$REFERENCED_TABLE_NAME, table_names),
+  rel = "references"
+)
+
+graph <- create_graph(nodes_df = nodes, edges_df = edges)
+render_graph(graph)
+
+# Tutup koneksi
+dbDisconnect(con_db)
+```
+
+
+
+

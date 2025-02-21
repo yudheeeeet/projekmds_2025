@@ -1,0 +1,111 @@
+---
+title: "Cleaned Data"
+author: "Rachmat Bintang Yudhianto"
+date: "2025-02-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sesi Pembersihan Data
+
+kode ini digunakan untuk melakukan pembersihan terhadap nilai yang hilang serta pengambilan sampel tidak secara keseluruhan dari data, dengan tujuan sehingga data ini dapat dimigrasikan ke database mysql
+
+```{r}
+library(tidymodels)
+library(tidyverse)
+library(DBI)
+```
+
+```{r}
+dt_game_lineup <- read.csv("game_lineups.csv")
+```
+
+```{r}
+# Melihat struktur data
+str(dt_game_lineup)
+
+# Melihat beberapa baris pertama
+head(dt_game_lineup)
+
+# Mendapatkan ringkasan statistik
+summary(dt_game_lineup)
+```
+
+```{r}
+dim(dt_game_lineup)
+```
+
+```{r}
+sum(is.na(dt_game_lineup))
+```
+
+```{r}
+## dt_game_event <- na.omit(dt_game_event)
+```
+
+```{r}
+set.seed(231)
+data_sample <- dt_game_lineup[sample(nrow(dt_game_lineup), 1000), ]
+```
+
+```{r}
+dt_club <- dt_club %>% 
+  select(-filename)
+```
+
+```{r}
+write.csv(data_sample, "data_game_lineups.csv", row.names = FALSE)
+```
+
+```{r}
+data_appearances <- read.csv("data_appearances.csv")
+head(data_appearances)
+```
+
+```{r}
+dt_club <- read.csv("data_clubs.csv")
+head(dt_club)
+```
+
+```{r}
+dt_player <- read.csv("data_players.csv")
+head(dt_player)
+```
+
+```{r}
+dt_player_val <- read.csv("data_player_valuations.csv")
+head(dt_player_val)
+```
+
+```{r}
+dt_club_games <- read.csv("data_club_games.csv")
+head(dt_club_games)
+```
+
+```{r}
+dt_competition <- read.csv("data_competitions.csv")
+head(dt_competition)
+```
+
+```{r}
+dt_games <- read.csv("data_games.csv")
+head(dt_games)
+```
+
+```{r}
+dt_transfers <- read.csv("data_transfers.csv")
+head(dt_transfers)
+```
+
+```{r}
+dt_game_event <- read.csv("data_game_events.csv")
+head(dt_game_event)
+```
+
+```{r}
+dt_game_lineup <- read.csv("data_game_lineups.csv")
+head(dt_game_lineup)
+```
