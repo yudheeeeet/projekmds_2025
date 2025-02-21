@@ -1,0 +1,440 @@
+"club_id","club_code","name","domestic_competition_id","squad_size","average_age","foreigners_number","foreigners_percentage","national_team_players","stadium_name","stadium_seats","net_transfer_record","last_season"
+105,"sv-darmstadt-98","SV Darmstadt 98","L1",27,25.6,13,48.1,1,"Merck-Stadion am Böllenfalltor",17810,"+€3.05m",2023
+11127,"ural-ekaterinburg","Ural Yekaterinburg","RU1",30,26.5,11,36.7,3,"Yekaterinburg Arena",23000,"+€880k",2023
+114,"besiktas-istanbul","Beşiktaş Jimnastik Kulübü","TR1",30,26.4,15,50,8,"Beşiktaş Park",42445,"€-25.26m",2024
+12,"as-rom","Associazione Sportiva Roma","IT1",26,26.2,18,69.2,17,"Olimpico di Roma",70634,"€-76.90m",2024
+148,"tottenham-hotspur","Tottenham Hotspur Football Club","GB1",30,25.4,21,70,19,"Tottenham Hotspur Stadium",62850,"€-120.05m",2024
+157,"kaa-gent","Koninklijke Atletiek Associatie Gent","BE1",30,25,19,63.3,5,"Planet Group Arena",20185,"+€5.38m",2024
+1894,"hvidovre-if","Hvidovre IF","DK1",25,26.4,3,12,2,"PRO VENTILATION Arena",12000,"+€225k",2023
+190,"fc-kopenhagen","Football Club København","DK1",27,26.2,18,66.7,9,"Parken",38065,"+€35.06m",2024
+192,"roda-jc-kerkrade","Roda JC Kerkrade","NL1",25,24,9,36,0,"Parkstad Limburg Stadion",19979,"+€1.30m",2017
+19789,"yeni-malatyaspor","Yeni Malatyaspor","TR1",10,22.9,1,10,0,"Yeni Malatya Stadyumu",25745,"+€778k",2021
+2079,"veria-nps","Veria NPS","GR1",29,24.3,4,13.8,0,"Dimotiko Stadio Verias",6350,"+-0",2016
+21957,"ao-platanias","AO Platanias","GR1",0,NA,0,NA,0,"Dimotiko Gipedo Perivolia",3700,"+-0",2017
+2414,"ac-horsens","AC Horsens","DK1",19,25.1,9,47.4,4,"Nordstern Arena Horsens",10400,"+-0",2022
+2457,"belenenses-sad","B SAD","PO1",25,24.2,13,52,4,"Estádio Nacional do Jamor",37593,"+€1.80m",2021
+2578,"st-johnstone-fc","Saint Johnstone Football Club","SC1",32,25.3,23,71.9,4,"McDiarmid Park",10696,"+-0",2024
+269,"holstein-kiel","Kieler Sportvereinigung Holstein von 1900","L1",30,26,12,40,2,"Holstein-Stadion",15034,"€-6.20m",2024
+2727,"oud-heverlee-leuven","Oud-Heverlee Leuven","BE1",28,24.4,15,53.6,2,"King Power at Den Dreef Stadion",9809,"+€7.80m",2024
+28643,"waasland-beveren","SK Beveren","BE1",27,26.8,16,59.3,3,"Freethielstadion",13290,"€-350k",2020
+2990,"academica-coimbra","Académica Coimbra","PO1",26,25.2,6,23.1,0,"Estádio Cidade de Coimbra",29744,"+€150k",2015
+3057,"standard-luttich","Royal Standard Club de Liège","BE1",28,24.2,16,57.1,8,"Maurice Dufrasne Stadion",27221,"+€11.30m",2024
+3690,"ska-khabarovsk","SKA Khabarovsk","RU1",27,25.7,4,14.8,0,"Lenin Stadion",15200,"€-93k",2017
+4795,"fc-ingolstadt-04","FC Ingolstadt 04","L1",28,24.3,8,28.6,1,"Audi Sportpark",15800,"+€1.55m",2016
+511,"dundee-fc","Dundee Football Club","SC1",26,26.2,15,57.7,2,"Kilmac Stadium at Dens Park",11850,"+€1.20m",2024
+5358,"sd-huesca","SD Huesca","ES1",24,27.5,8,33.3,2,"El Alcoraz",9128,"+€1.43m",2020
+603,"cardiff-city","Cardiff City","GB1",28,25.5,24,85.7,8,"Cardiff City Stadium",33280,"€-655k",2018
+60551,"sk-dnipro-1","SC Dnipro-1","UKR1",0,0,0,NA,0,"Dnipro-Arena",31003,"+€6.90m",2023
+6996,"goverla-uzhgorod","Goverla Uzhgorod (- 2016)","UKR1",0,NA,0,NA,0,"Avangard",10640,"+-0",2015
+8024,"fc-arouca","Futebol Clube de Arouca","PO1",26,25.9,18,69.2,2,"Estádio Municipal de Arouca",5600,"+€15.10m",2024
+868,"mke-ankaragucu","MKE Ankaragücü","TR1",34,26.2,13,38.2,6,"Eryaman Stadyumu",20672,"+€895k",2023
+903,"hibernian-fc","Hibernian Football Club","SC1",25,26.7,20,80,6,"Easter Road Stadium",20250,"€-521k",2024
+969,"montpellier-hsc","Montpellier Hérault Sport Club","FR1",25,26.5,15,60,6,"Stade de la Mosson",22000,"+€27.00m",2024
+989,"afc-bournemouth","Association Football Club Bournemouth","GB1",25,24.8,18,72,13,"Vitality Stadium",11307,"€-60.79m",2024
+993,"fc-cordoba","Córdoba CF","ES1",24,27.9,4,16.7,0,"Nuevo Arcángel",21822,"+-0",2014
+1025,"fc-bologna","Bologna Football Club 1909","IT1",28,26.1,19,67.9,12,"Stadio Renato Dall’Ara",36462,"+€51.67m",2024
+1082,"losc-lille","Lille Olympique Sporting Club","FR1",26,27.1,18,69.2,12,"Decathlon Arena-Stade Pierre-Mauroy",50186,"+€39.00m",2024
+1160,"nimes-olympique","Nîmes Olympique","FR1",26,25.4,12,46.2,3,"Stade des Antonins",8033,"+€2.50m",2020
+11688,"giresunspor","Giresunspor","TR1",17,22.5,1,5.9,1,"Çotanak Spor Kompleksi",21500,"+-0",2022
+124,"glasgow-rangers","Rangers Football Club","SC1",27,25.6,21,77.8,9,"Ibrox Stadium",50987,"€-13.91m",2024
+1465,"gd-estoril-praia","Grupo Desportivo Estoril Praia","PO1",24,24.9,17,70.8,4,"Estádio António Coimbra da Mota",5100,"+€5.75m",2024
+2477,"karpaty-lviv","Karpaty Lviv (-2021)","UKR1",0,NA,0,NA,0,"Stadion Ukraina",28051,"+-0",2019
+2553,"kilmarnock-fc","Kilmarnock Football Club","SC1",24,27.2,9,37.5,2,"BBSP Stadium, Rugby Park",18128,"+-0",2024
+2672,"apo-levadiakos","APO Levadiakos Football Club","GR1",29,26.7,16,55.2,2,"Stadio Livadias",5915,"+-0",2024
+2740,"vorskla-poltava","Vorskla Poltava","UKR1",27,25.2,5,18.5,1,"Vorskla im. Oleksiy Butovskyi",23842,"+€2.60m",2024
+3008,"hull-city","Hull City","GB1",28,25,17,60.7,6,"MKM Stadium",25586,"+€7.50m",2016
+31,"fc-liverpool","Liverpool Football Club","GB1",25,26.5,18,72,22,"Anfield",61276,"+€5.00m",2024
+336,"sporting-lissabon","Sporting Clube de Portugal","PO1",25,24.6,14,56,13,"Estádio José Alvalade",50095,"€-16.61m",2024
+3911,"stade-brest-29","Stade brestois 29","FR1",26,27,10,38.5,6,"Stade Francis-Le Blé",15220,"€-5.80m",2024
+4,"1-fc-nurnberg","1.FC Nuremberg","L1",33,25.2,7,21.2,2,"Max-Morlock-Stadion",50000,"+€2.63m",2018
+410,"udinese-calcio","Udinese Calcio","IT1",31,25.7,27,87.1,10,"Bluenergy Stadium",25144,"€-270k",2024
+41231,"fk-sochi","FC Sochi","RU1",27,25.3,7,25.9,1,"Fisht Olympic Stadium",45994,"+€2.99m",2023
+4128,"amkar-perm","Amkar Perm","RU1",26,26,0,NA,0,"Zvezda",17000,"+-0",2017
+449,"trabzonspor","Trabzonspor Kulübü","TR1",28,26.1,14,50,9,"Papara Park",40980,"€-26.22m",2024
+4603,"ae-larisa","AE Larisa","GR1",28,24.2,6,21.4,0,"Stadio Alkazar",13108,"+-0",2020
+55686,"metalist-1925-kharkiv","Metalist 1925 Kharkiv","UKR1",32,25.7,2,6.3,0,"Stadion Kolos",0,"€-620k",2023
+566,"beerschot-ac","Beerschot AC","BE1",0,NA,0,NA,0,"Olympisch Stadion",12771,"+-0",2012
+595,"sc-bastia","SC Bastia","FR1",25,27.6,8,32,6,"Stade Armand-Cesari",16480,"+€480k",2016
+6890,"istanbul-basaksehir-fk","İstanbul Başakşehir Futbol Kulübü","TR1",28,26.9,15,53.6,6,"Başakşehir Fatih Terim",17067,"€-8.70m",2024
+7185,"panthrakikos-komotini","Panthrakikos Komotini","GR1",29,24.3,3,10.3,0,"Stadio Komotinis OPAP",5601,"+-0",2015
+83678,"metal-kharkiv","Metalist Kharkiv","UKR1",25,26.1,7,28,0,"Avangard",10640,"+€300k",2022
+932,"lokomotiv-moskau","Футбольный клуб ""Локомотив"" Москва","RU1",27,24.4,6,22.2,12,"RZD Arena",27084,"+€7.52m",2024
+1010,"fc-watford","Watford FC","GB1",30,26.3,24,80,12,"Vicarage Road",21577,"+€42.02m",2021
+1108,"deportivo-alaves","Deportivo Alavés S.A.D.","ES1",25,26.4,10,40,4,"Mendizorroza",19840,"+€9.79m",2024
+1124,"fakel-voronezh","FK Fakel Voronezh","RU1",25,27.5,5,20,1,"Fakel",10052,"+€270k",2024
+1158,"fc-lorient","FC Lorient","FR1",30,25,17,56.7,8,"Stade du Moustoir",16787,"+€4.80m",2023
+1177,"silkeborg-if","Silkeborg Idrætsforening","DK1",22,24.6,5,22.7,2,"JYSK Park",10000,"+€7.66m",2024
+13,"atletico-madrid","Club Atlético de Madrid S.A.D.","ES1",23,29.2,16,69.6,16,"Riyadh Air Metropolitano",70460,"€-91.10m",2024
+131,"fc-barcelona","Futbol Club Barcelona","ES1",27,24.7,8,29.6,14,"Olímpic Lluís Companys",55926,"€-19.40m",2024
+133,"sc-cambuur-leeuwarden","SC Cambuur Leeuwarden","NL1",16,23.1,4,25,3,"Cambuurstadion",10250,"+-0",2022
+141,"galatasaray-istanbul","Galatasaray Spor Kulübü","TR1",31,26.6,17,54.8,15,"Ali Sami Yen Spor Kompleksi RAMS Park",53978,"€-21.30m",2024
+1411,"raec-mons","RAEC Mons (- 2015)","BE1",0,NA,0,NA,0,"Stade Charles Tondreau",12662,"+-0",2013
+169,"panionios-athen","Panionios Athens","GR1",34,23.5,4,11.8,0,"Stadio Neas Smyrnis",11700,"+-0",2019
+18,"borussia-monchengladbach","Borussia Verein für Leibesübungen 1900 Mönchengladbach","L1",25,26.5,13,52,10,"Stadion im Borussia-Park",54042,"€-7.70m",2024
+18105,"pfk-lviv","PFK Lviv","UKR1",3,18.3,0,NA,0,"Stadion SKIF",3742,"+-0",2022
+2036,"1-fc-heidenheim-1846","1. Fußballclub Heidenheim 1846","L1",28,26.8,4,14.3,1,"Voith-Arena",15000,"+€9.45m",2024
+273,"fc-stade-rennes","Stade Rennais Football Club","FR1",29,25.3,17,58.6,11,"Roazhon Park",29778,"+€22.35m",2024
+3325,"gd-chaves","GD Chaves","PO1",29,25.8,17,58.6,1,"Estádio Municipal Eng.º Manuel Branco Teixeira",8396,"+€1.40m",2023
+3327,"fc-penafiel","FC Penafiel","PO1",28,27.9,4,14.3,0,"Estádio Municipal 25 de Abril",5230,"+-0",2014
+366,"real-valladolid","Real Valladolid Club de Fútbol S.A.D.","ES1",25,26.7,17,68,7,"José Zorrilla",27618,"+€975k",2024
+4294,"sc-farense","Sporting Clube Farense","PO1",26,27.7,14,53.8,3,"Estádio de São Luís",7000,"+€7.50m",2024
+44006,"bodrumspor","Bodrumspor Spor Faaliyetleri Anonim Şirketi","TR1",31,26.7,13,41.9,6,"Grey Beton Bodrum Stadyumu",4243,"€-2.19m",2024
+458,"palermo-fc","Palermo FC","IT1",28,25.6,7,25,4,"Comunale Renzo Barbera ""La Favorita""",36365,"€-7.94m",2016
+46,"inter-mailand","Football Club Internazionale Milano S.p.A.","IT1",25,29.3,18,72,17,"Giuseppe Meazza",75923,"€-61.91m",2024
+5220,"gs-ergotelis","GS Ergotelis","GR1",3,23.3,0,NA,0,"Pankritio Stadio",25780,"+-0",2014
+5572,"niki-volou","Niki Volou","GR1",26,27.2,7,26.9,2,"Panthessaliko Stadio",22700,"+-0",2014
+5817,"sonderjyske","Sønderjyske Fodbold","DK1",28,24.5,12,42.9,3,"Sydbank Park",10100,"€-760k",2024
+605,"aris-thessaloniki","Aris Thessalonikis","GR1",30,28.2,27,90,3,"Gipedo ""Kleanthis Vikelidis""",22800,"€-1.50m",2024
+995,"fc-nantes","Football Club de Nantes","FR1",26,27,13,50,8,"Stade de la Beaujoire",35322,"+€1.05m",2024
+1003,"leicester-city","Leicester City Football Club","GB1",29,26.7,21,72.4,15,"King Power Stadium",32259,"€-41.80m",2024
+1047,"como-1907","Calcio Como","IT1",32,26.4,24,75,4,"Giuseppe Sinigaglia",13602,"€-93.00m",2024
+1237,"brighton-amp-hove-albion","Brighton and Hove Albion Football Club","GB1",28,26.1,20,71.4,17,"AMEX Stadium",31876,"€-230.16m",2024
+1436,"sc-beira-mar","SC Beira-Mar","PO1",26,26.6,8,30.8,0,"Estádio Municipal de Aveiro",32830,"+-0",2012
+1455,"fc-dordrecht","FC Dordrecht","NL1",29,23.3,12,41.4,1,"Matchoholic Stadion",4235,"+-0",2014
+14589,"fk-orenburg","FC Orenburg","RU1",27,24,11,40.7,2,"Gazovik",10046,"€-220k",2024
+1519,"dundee-united-fc","Dundee United Football Club","SC1",24,26.7,14,58.3,5,"Tannadice Park",14223,"+-0",2024
+16239,"desna-chernigiv","Desna Chernigiv","UKR1",0,NA,0,NA,0,"Stadion im. Yuriya Gagarina",12060,"+-0",2021
+173,"odense-boldklub","Odense Boldklub","DK1",25,23.4,12,48,6,"Nature Energy Park",15790,"+€916k",2023
+200,"fc-utrecht","Football Club Utrecht","NL1",27,25.1,17,63,3,"Stadion ""Galgenwaard""",23750,"+€14.33m",2024
+206,"brondby-if","Brøndby Idrætsforening","DK1",22,25.7,9,40.9,4,"Brøndby Stadion",28000,"€-1.56m",2024
+2715,"rfc-seraing","RFC Seraing","BE1",22,23.5,13,59.1,2,"Stade du Paray",6744,"+€400k",2022
+28956,"ael-kalloni","AEL Kalloni","GR1",0,NA,0,NA,0,"Stadio Mytilinis",4000,"+-0",2015
+2969,"dijon-fco","Dijon FCO","FR1",29,25.8,14,48.3,4,"Stade Gaston-Gérard",16098,"+€1.50m",2020
+2995,"fc-pacos-de-ferreira","FC Paços de Ferreira","PO1",32,25.5,17,50,1,"Estádio Capital do Móvel",9076,"+-0",2022
+3426,"esbjerg-fb","Esbjerg fB","DK1",27,22.7,10,37,2,"Blue Water Arena",16942,"+-0",2019
+3522,"spezia-calcio","Spezia Calcio","IT1",32,24.4,25,78.1,11,"Alberto Picco",11676,"€-3.95m",2022
+3609,"rotor-volgograd","Rotor Volgograd","RU1",27,23.9,2,7.4,0,"Volgograd Arena",45568,"€-13k",2020
+39097,"fk-obolon-kiew","FK Obolon Kyiv","UKR1",27,28.2,0,NA,0,"Obolon-Arena",5103,"+€350k",2024
+39722,"buyuksehir-belediye-erzurumspor","Erzurumspor FK","TR1",28,26.1,7,25,1,"Erzurum Kazım Karabekir",23700,"+€70k",2020
+40,"fc-girondins-bordeaux","FC Girondins Bordeaux","FR1",26,22.7,13,50,6,"Matmut Atlantique",42115,"+€12.70m",2021
+41274,"beerschot-v-a-","Koninklijke Beerschot Voetbalclub Antwerpen","BE1",30,24.2,23,76.7,5,"Olympisch Stadion",12771,"+€2.45m",2024
+43,"heart-of-midlothian-fc","Heart of Midlothian Football Club","SC1",30,26.7,13,43.3,6,"Tynecastle Park",19852,"+€1.83m",2024
+47,"iraklis-thessaloniki","Iraklis Thessaloniki","GR1",27,24.3,9,33.3,0,"Kaftanzoglio Stadio",27770,"+-0",2016
+4750,"sc-olhanense","SC Olhanense","PO1",10,23.4,5,50,0,"Estádio José Arcanjo",10080,"+-0",2013
+589,"antalyaspor","Antalyaspor","TR1",29,27.3,14,48.3,4,"Corendon Airlines Park Antalya Stadı",29307,"€-780k",2024
+6,"adanaspor","Adanaspor","TR1",10,23.9,4,40,0,"Yeni Adana Stadyumu",33000,"+-0",2016
+6195,"ssc-neapel","Società Sportiva Calcio Napoli","IT1",25,27.8,14,56,13,"Diego Armando Maradona",54726,"€-69.00m",2024
+82,"vfl-wolfsburg","Verein für Leibesübungen Wolfsburg","L1",30,25.6,20,66.7,13,"Volkswagen Arena",28917,"€-19.05m",2024
+1050,"fc-villarreal","Villarreal Club de Fútbol S.A.D.","ES1",24,27.3,11,45.8,11,"La Cerámica",23500,"+€11.50m",2024
+1096,"royal-antwerpen-fc","Royal Antwerp Football Club","BE1",25,25.8,12,48,4,"De Bosuil",16152,"+€43.60m",2024
+1147,"ac-ajaccio","AC Ajaccio","FR1",24,27.5,11,45.8,6,"Stade François-Coty",10446,"+-0",2022
+130,"parma-calcio-1913","Parma Calcio 1913","IT1",31,24.7,24,77.4,10,"Ennio Tardini",22352,"€-40.35m",2024
+1429,"cesena-fc","Cesena FC","IT1",28,26,4,14.3,0,"Orogel Stadium - Dino Manuzzi",23860,"+€335k",2014
+15,"bayer-04-leverkusen","Bayer 04 Leverkusen Fußball","L1",26,26.6,20,76.9,16,"BayArena",30210,"€-21.85m",2024
+16247,"pfk-stal-kamyanske","PFK Stal Kamyanske (-2018)","UKR1",0,NA,0,NA,0,"Obolon",5100,"+-0",2017
+20100,"fc-vestsjaelland","FC Vestsjaelland","DK1",0,NA,0,NA,0,"Harboe Arena",10000,"+-0",2014
+20698,"balikesirspor","Balikesirspor","TR1",22,22,1,4.5,0,"Balıkesir Atatürk",15800,"+-0",2014
+2323,"orduspor","Orduspor","TR1",3,20,0,NA,0,"19 Eylül Stadyum",11024,"+-0",2012
+2722,"spal","SPAL","IT1",32,26,8,25,2,"Paolo Mazza",16134,"+€2.75m",2019
+276,"hellas-verona","Verona Hellas Football Club","IT1",31,25.2,23,74.2,8,"Marcantonio Bentegodi",39211,"+€25.12m",2024
+3329,"fc-famalicao","Futebol Clube de Famalicão","PO1",25,23.9,18,72,4,"Estádio Municipal de Famalicão",5186,"+€23.48m",2024
+3691,"tom-tomsk","Tom Tomsk","RU1",0,NA,0,NA,0,"Trud",10028,"+-0",2016
+370,"aberdeen-fc","Aberdeen Football Club","SC1",26,25.5,19,73.1,7,"Pittodrie Stadium",20866,"+€3.17m",2024
+475,"vv-st-truiden","Koninklijke Sint-Truidense Voetbalvereniging","BE1",28,25.5,17,60.7,6,"Daio Wasabi Stayen Stadium",11756,"+€16.40m",2024
+49364,"ingulets-petrove","FC Ingulets Petrove","UKR1",30,25.2,0,NA,0,"Stadion Ingulets",1869,"+-0",2024
+498,"ksc-lokeren","KSC Lokeren (- 2020)","BE1",0,NA,0,NA,0,"Daknamstadion",12000,"+-0",2018
+524,"gaziantepspor","Gaziantepspor (- 2020)","TR1",0,NA,0,NA,0,"Gaziantep Stadyumu",33502,"+-0",2016
+553,"ionikos-nikeas","Ionikos Nikeas","GR1",17,28.4,11,64.7,0,"Dimotiko Gipedo Neapolis",5500,"+-0",2022
+642,"de-graafschap-doetinchem","De Graafschap Doetinchem","NL1",30,23.7,6,20,0,"Stadion ""De Vijverberg""",12600,"+-0",2018
+6676,"asteras-tripolis","A.G.S Asteras Tripolis","GR1",30,27.6,20,66.7,3,"Gipedo Theodoros Kolokotronis",7423,"+€400k",2024
+703,"nottingham-forest","Nottingham Forest Football Club","GB1",24,27,19,79.2,13,"The City Ground",30404,"€-18.80m",2024
+80,"vfl-bochum","Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft","L1",27,27.2,13,48.1,5,"Vonovia Ruhrstadion",26000,"+€4.80m",2024
+976,"cf-uniao-madeira","CF União Madeira (-2021)","PO1",0,NA,0,NA,0,"Centro Desportivo da Madeira",2500,"+-0",2015
+1031,"luton-town","Luton Town","GB1",30,26.1,16,53.3,7,"Kenilworth Road",11850,"+€9.00m",2023
+1071,"wigan-athletic","Wigan Athletic","GB1",26,24,8,30.8,2,"DW Stadium",25133,"+€290k",2012
+1090,"az-alkmaar","Alkmaar Zaanstreek","NL1",28,24,7,25,4,"AFAS Stadion",19478,"+€27.50m",2024
+1110,"huddersfield-town","Huddersfield Town","GB1",33,26.7,12,36.4,3,"John Smith's Stadium",24500,"+€11.28m",2018
+11126,"mordovia-saransk","Mordovia Saransk (-2020)","RU1",0,NA,0,NA,0,"Mordovia Arena",44442,"+-0",2015
+1159,"as-nancy-lorraine","AS Nancy-Lorraine","FR1",27,25.7,5,18.5,0,"Stade Marcel-Picot",20087,"+-0",2016
+12438,"volga-nizhniy-novgorod","Volga Nizhniy Novgorod (- 2016)","RU1",0,NA,0,NA,0,"Zentralstadion Lokomotiv",17856,"+-0",2013
+1301,"cs-maritimo","CS Marítimo","PO1",29,27.2,19,65.5,2,"Estádio do Marítimo",10600,"+€200k",2022
+1304,"heracles-almelo","Heracles Almelo","NL1",29,24.5,15,51.7,3,"Asito Stadion",12080,"€-352k",2024
+1421,"stade-reims","Stade de Reims","FR1",25,24.7,18,72,8,"Stade Auguste-Delaune",20519,"+€39.35m",2024
+1423,"fc-valenciennes","Valenciennes FC","FR1",30,23.6,15,50,5,"Stade du Hainaut",25000,"+€2.52m",2013
+162,"as-monaco","Association sportive de Monaco Football Club","FR1",25,24.4,25,100,12,"Stade Louis-II",18525,"€-41.25m",2024
+20,"bursaspor","Bursaspor","TR1",26,21.4,0,NA,0,"Bursa Büyükşehir Belediye Stadyumu",43361,"+-0",2018
+235,"rkc-waalwijk","Rooms Katholieke Combinatie Waalwijk","NL1",30,26.4,13,43.3,4,"Mandemakers Stadion",7508,"+-0",2024
+24,"eintracht-frankfurt","Eintracht Frankfurt Fußball AG","L1",27,25.3,20,74.1,10,"Deutsche Bank Park",58000,"+€48.19m",2024
+2441,"aek-athen","Athlitiki Enosi Konstantinoupoleos","GR1",28,29.3,20,71.4,11,"OPAP Arena",32500,"+€19.30m",2024
+2861,"kv-oostende","KV Oostende","BE1",26,23.3,14,50,2,"Diaz Arena",8432,"+-0",2022
+294,"benfica-lissabon","Sport Lisboa e Benfica","PO1",28,25.1,17,60.7,15,"Estádio da Luz",65592,"+€86.32m",2024
+3060,"atromitos-athen","APS Atromitos Athinon","GR1",25,26.7,12,48,4,"Stadio Peristeriou",9050,"+-0",2024
+331,"ca-osasuna","Club Atlético Osasuna","ES1",22,28.3,2,9.1,3,"El Sadar",23576,"+€700k",2024
+3336,"desportivo-aves","Desportivo Aves (- 2020)","PO1",0,NA,0,NA,0,"Estádio CD das Aves",5441,"+-0",2019
+3709,"fc-getafe","Getafe Club de Fútbol S.A.D. Team Dubai","ES1",25,27.2,11,44,3,"Coliseum",16800,"+€21.60m",2024
+383,"psv-eindhoven","Eindhovense Voetbalvereniging Philips Sport Vereniging","NL1",26,25.4,13,50,13,"Philips Stadion",35000,"+-0",2024
+499,"vitesse-arnheim","Vitesse Arnhem","NL1",25,21.3,5,20,0,"GelreDome",21248,"+-0",2023
+610,"ajax-amsterdam","AFC Ajax Amsterdam","NL1",27,25.8,11,40.7,8,"Johan Cruijff ArenA",55885,"+€56.61m",2024
+6414,"metalist-kharkiv","Metalist Kharkiv (- 2016)","UKR1",0,NA,0,NA,0,"OSK Metalist",38685,"+-0",2015
+6993,"fk-mariupol","FK Mariupol","UKR1",0,NA,0,NA,0,"Stadion im. Volodymyra Boyko",12680,"+€100k",2021
+71985,"akron-togliatti","Akron Togliatti","RU1",26,25.1,10,38.5,5,"Samara-Arena",44918,"€-2.84m",2024
+750,"fc-sochaux-montbeliard","FC Sochaux-Montbéliard","FR1",29,23,9,31,1,"Stade Auguste-Bonal",20005,"+€6.30m",2013
+762,"newcastle-united","Newcastle United Football Club","GB1",27,28.6,11,40.7,11,"St James' Park",52258,"+€21.35m",2024
+825,"eskisehirspor","Eskisehirspor","TR1",41,23.9,1,2.4,0,"Eskişehir Yeni Stadyum",34930,"+-0",2015
+86209,"fk-livyi-bereg","FK Livyi Bereh","UKR1",24,26.1,1,4.2,0,"Arena Livyi Bereg",4700,"+-0",2024
+1041,"olympique-lyon","Olympique Lyonnais","FR1",23,26.5,16,69.6,11,"Groupama Stadium",59186,"€-79.74m",2024
+10690,"zorya-lugansk","FC Zorya Lugansk","UKR1",27,24.8,8,29.6,0,"Valeriy Lobanovsky Stadion",16873,"+€3.90m",2024
+1084,"fc-malaga","Málaga CF","ES1",27,27.9,8,29.6,0,"La Rosaleda",30044,"+€950k",2017
+1148,"fc-brentford","Brentford Football Club","GB1",26,25.2,21,80.8,12,"Gtech Community Stadium",17250,"€-23.90m",2024
+1162,"sm-caen","SM Caen","FR1",27,25.7,12,44.4,4,"Stade Michel-d'Ornano",20500,"+€3.05m",2018
+1184,"krc-genk","Koninklijke Racing Club Genk","BE1",26,22.6,13,50,6,"Cegeka Arena",22889,"+€78.30m",2024
+1186,"torpedo-moskau","Torpedo Moscow","RU1",28,25.6,6,23.1,3,"Luzhniki Stadium",81000,"€-2.05m",2022
+128,"ao-xanthi","AO Xanthi","GR1",0,NA,0,NA,0,"Xanthi Arena",7361,"+-0",2019
+1283,"fc-emmen","FC Emmen","NL1",17,25.6,6,35.3,0,"De Oude Meerdijk",8309,"+-0",2022
+142,"real-saragossa","Real Zaragoza","ES1",23,26,6,26.1,1,"La Romareda",33608,"+€30k",2012
+16,"borussia-dortmund","Borussia Dortmund","L1",28,25.1,14,50,17,"SIGNAL IDUNA PARK",81365,"€-30.60m",2024
+202,"fc-groningen","Football Club Groningen","NL1",28,24.4,9,32.1,4,"Euroborg",22555,"+€2.08m",2024
+2288,"swansea-city","Swansea City","GB1",22,24.8,17,77.3,4,"Swansea.com Stadium",21088,"+€8.35m",2017
+237,"rcd-mallorca","Real Club Deportivo Mallorca S.A.D.","ES1",25,28.3,10,40,7,"Mallorca Son Moix",26020,"+€11.65m",2024
+2381,"sivasspor","Sivasspor Kulübü","TR1",31,28,15,48.4,4,"BG Grup 4 Eylül Stadyumu",27817,"+-0",2024
+2423,"cd-santa-clara","Clube Desportivo Santa Clara","PO1",25,26,16,64,0,"Estádio de São Miguel",12500,"+€1.52m",2024
+2425,"rio-ave-fc","Rio Ave Futebol Clube","PO1",29,23.7,21,72.4,2,"Estádio do Rio Ave FC",5300,"€-4.44m",2024
+2451,"inverness-caledonian-thistle-fc","Inverness Caledonian Thistle FC","SC1",26,24.5,9,34.6,0,"Tulloch Caledonian Stadium",7750,"+-0",2016
+265,"panathinaikos-athen","Panathinaikos Athlitikos Omilos","GR1",33,28.3,22,66.7,15,"Olympiakó Stádio Athinon ""Spyros Louis""",69618,"€-21.78m",2024
+2832,"gaziantep-fk","Gaziantep Futbol Kulübü A.Ş.","TR1",30,27.2,16,53.3,3,"Gaziantep Stadyumu",30320,"€-597k",2024
+35,"fc-st-pauli","Fußball-Club St. Pauli von 1910","L1",34,26.5,19,55.9,9,"Millerntor-Stadion",29546,"€-750k",2024
+3558,"gfc-ajaccio","GFC Ajaccio","FR1",5,26.8,1,20,1,"Stade Ange-Casanova",4050,"+-0",2015
+4102,"carpi-fc-1909","AC Carpi","IT1",25,23.6,6,24,1,"Sandro Cabassi",5510,"+-0",2015
+42,"hannover-96","Hannover 96","L1",28,25,6,21.4,1,"Heinz-von-Heiden-Arena",49000,"€-300k",2018
+641,"fc-middlesbrough","Middlesbrough FC","GB1",25,26.1,8,32,6,"Riverside Stadium",33746,"+€16.68m",2016
+667,"rc-strassburg-alsace","Racing Club de Strasbourg Alsace","FR1",26,22.6,18,69.2,7,"Stade de la Meinau",26109,"€-55.40m",2024
+681,"real-sociedad-san-sebastian","Real Sociedad de Fútbol S.A.D.","ES1",25,25.5,8,32,12,"Reale Arena",39313,"+€24.35m",2024
+873,"crystal-palace","Crystal Palace Football Club","GB1",28,25.8,13,46.4,13,"Selhurst Park",25486,"+€8.80m",2024
+1032,"fc-reading","Reading FC","GB1",30,23.1,14,46.7,5,"Select Car Leasing Stadium",24161,"+€3.06m",2012
+1039,"queens-park-rangers","Queens Park Rangers","GB1",26,25.9,15,57.7,8,"Loftus Road Stadium",18360,"+€900k",2014
+1244,"cd-leganes","Club Deportivo Leganés S.A.D.","ES1",24,27.8,11,45.8,3,"Butarque",12454,"+€910k",2024
+14171,"thonon-evian-grand-geneve-fc","Thonon Évian Grand Genève FC","FR1",27,27.4,6,22.2,1,"Stade Camille Fournier",2500,"+-0",2014
+16704,"fk-krasnodar","FK Krasnodar","RU1",22,27.8,13,59.1,9,"Stadion Krasnodar",35179,"+€18.15m",2024
+19771,"akhisarspor","Akhisarspor","TR1",14,21,0,NA,0,"Spor Toto Akhisar Stadyumu",12139,"+€5k",2018
+244,"olympique-marseille","Olympique de Marseille","FR1",29,25.9,22,75.9,13,"Orange Vélodrome",67394,"€-2.00m",2024
+29228,"royal-excel-mouscron","Royal Excel Mouscron (-2022)","BE1",0,NA,0,NA,0,"Le Canonnier",10830,"+€40k",2020
+3216,"mersin-idmanyurdu","Mersin Talimyurdu SK","TR1",0,NA,0,NA,0,"Mersin Stadyumu",25000,"+-0",2015
+3508,"sv-zulte-waregem","SV Zulte Waregem","BE1",25,25.2,13,52,3,"Elindus Arena",12250,"+€4.00m",2022
+354,"kv-mechelen","Yellow-Red Koninklijke Voetbalclub Mechelen","BE1",30,25.5,14,46.7,3,"AFAS Stadion",16672,"+€7.44m",2024
+367,"rayo-vallecano","Rayo Vallecano de Madrid S.A.D.","ES1",25,29.8,9,36,5,"Estadio de Vallecas",14708,"+€2.00m",2024
+379,"west-ham-united","West Ham United Football Club","GB1",26,28.7,18,69.2,13,"London Stadium",62500,"€-98.25m",2024
+380,"us-salernitana-1919","US Salernitana 1919","IT1",30,24.5,16,53.3,3,"Arechi",29739,"+€18.80m",2023
+403,"willem-ii-tilburg","Willem II","NL1",26,24.7,14,53.8,1,"Koning Willem II Stadion",14700,"+€550k",2024
+40426,"fk-tosno","FC Tosno (-2018)","RU1",0,NA,0,NA,0,"Petrovsky",20985,"+-0",2017
+41,"hamburger-sv","Hamburger SV","L1",30,23.6,15,50,4,"Volksparkstadion",57000,"€-6.00m",2017
+443,"vejle-boldklub","Vejle Boldklub","DK1",27,25.4,16,59.3,4,"Vejle Stadion",10418,"+€5.50m",2024
+5724,"randers-fc","Randers Fodbold Club","DK1",26,25,15,57.7,3,"Cepheus Park Randers",10300,"+€5.32m",2024
+601,"kv-kortrijk","Koninklijke Voetbalclub Kortrijk","BE1",26,25,18,69.2,7,"Guldensporenstadion",8974,"€-2.20m",2024
+79,"vfb-stuttgart","Verein für Bewegungsspiele Stuttgart 1893","L1",35,24,15,42.9,13,"MHPArena Stuttgart",60449,"€-11.58m",2024
+86,"sv-werder-bremen","Sportverein Werder Bremen von 1899","L1",27,26.5,12,44.4,6,"Weserstadion",42100,"€-1.13m",2024
+931,"fc-fulham","Fulham Football Club","GB1",26,27.9,20,76.9,11,"Craven Cottage",29589,"€-22.75m",2024
+964,"zenit-st-petersburg","AO FK Zenit Sankt-Peterburg","RU1",29,26.8,15,51.7,10,"Gazprom Arena",63026,"€-32.11m",2024
+1123,"norwich-city","Norwich City","GB1",25,26,17,68,12,"Carrow Road",27244,"€-10.33m",2021
+1268,"ado-den-haag","ADO Den Haag","NL1",34,23.5,9,26.5,4,"Bingoal Stadion",15000,"+-0",2020
+1506,"kardemir-karabukspor","Kardemir Karabükspor","TR1",0,NA,0,NA,0,"Dr. Necmettin Şeyhoğlu",12400,"+-0",2017
+1531,"fc-elche","Elche CF","ES1",18,27.3,5,27.8,0,"Manuel Martínez Valero",31388,"+€1.00m",2022
+2282,"fc-brugge","Club Brugge Koninklijke Voetbalvereniging","BE1",25,24.4,14,56,8,"Jan Breydelstadion",29062,"+€40.60m",2024
+2293,"konyaspor","Konyaspor","TR1",30,27.3,15,50,2,"Medaş Konya Büyükşehir Stadyumu",41600,"€-2.30m",2024
+23611,"olimpik-donetsk","Olimpik Donetsk","UKR1",0,NA,0,NA,0,"NTK im. B. M. Bannikova",1678,"+-0",2020
+2431,"cf-estrela-amadora-sad","Club Football Estrela da Amadora","PO1",30,25.7,15,50,3,"Estádio José Gomes",9288,"+€5.75m",2024
+2698,"rubin-kazan","FC Rubin Kazan","RU1",24,26.5,12,50,5,"Ak Bars Arena",45379,"€-4.25m",2024
+2760,"partick-thistle-fc","Partick Thistle FC","SC1",19,27.9,1,5.3,0,"The Energy Check Stadium at Firhill",10102,"+-0",2017
+2944,"ankaraspor","Ankaraspor","TR1",30,23.8,1,3.3,0,"Osmanlı Stadı",19626,"+-0",2017
+36,"fenerbahce-istanbul","Fenerbahçe Spor Kulübü","TR1",30,28.7,16,53.3,15,"Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi",47430,"€-37.36m",2024
+385,"fortuna-sittard","Fortuna Sittardia Combinatie","NL1",26,26,18,69.2,0,"Fortuna Sittard Stadion",12800,"€-250k",2024
+468,"sparta-rotterdam","Sparta Rotterdam","NL1",25,24.9,9,36,3,"Sparta-stadion - Het Kasteel",11026,"+€3.95m",2024
+583,"fc-paris-saint-germain","Paris Saint-Germain Football Club","FR1",24,23.6,15,62.5,17,"Parc des Princes",48583,"€-109.82m",2024
+621,"athletic-bilbao","Athletic Club Bilbao","ES1",23,27.4,1,4.3,6,"San Mamés",53289,"€-8.75m",2024
+65,"spvgg-greuther-furth","SpVgg Greuther Fürth","L1",28,24,11,39.3,2,"Sportpark Ronhof | Thomas Sommer",16626,"+€3.97m",2021
+6646,"fatih-karagumruk","Fatih Karagümrük","TR1",25,23,7,28,0,"Atatürk Olimpiyat",77563,"+€4.25m",2023
+677,"ipswich-town","Ipswich Town Football Club","GB1",29,26.8,14,48.3,11,"Portman Road",30056,"€-150.23m",2024
+683,"olympiakos-piraus","Olympiakos Syndesmos Filathlon Peiraios","GR1",27,26.5,19,70.4,11,"Stadio Georgios Karaiskakis",33345,"€-7.31m",2024
+723,"almere-city-fc","Almere City Football Club","NL1",28,26,21,75,7,"Yanmar Stadion",4501,"+€1.15m",2024
+855,"ea-guingamp","EA Guingamp","FR1",27,25.4,7,25.9,1,"Stade du Roudourou",18120,"+€3.70m",2018
+924,"istanbulspor","Istanbulspor","TR1",32,23.7,11,34.4,3,"Esenyurt Necmi Kadıoğlu Stadyumu",4274,"+€500k",2023
+968,"kvc-westerlo","Koninklijke Voetbal Club Westerlo","BE1",30,24.5,20,66.7,6,"Het Kuipje",8035,"+€9.50m",2024
+985,"manchester-united","Manchester United Football Club","GB1",25,26.6,18,72,19,"Old Trafford",74879,"€-143.30m",2024
+11282,"alanyaspor","Alanyaspor","TR1",25,26.6,12,48,6,"Gain Park Stadyumu",9784,"+€5.25m",2024
+1132,"fc-burnley","Burnley FC","GB1",28,24.8,18,64.3,8,"Turf Moor",21994,"+€50.53m",2023
+1435,"go-ahead-eagles-deventer","Go Ahead Eagles","NL1",25,24.2,11,44,1,"De Adelaarshorst",10000,"+€6.60m",2024
+150,"real-betis-sevilla","Real Betis Balompié S.A.D.","ES1",25,28.1,13,52,5,"Benito Villamarín",60721,"+€19.65m",2024
+152,"samsunspor","Samsunspor","TR1",27,26.3,12,44.4,7,"Samsun Yeni 19 Mayıs",33303,"+€277k",2024
+172,"rsc-charleroi","Royal Charleroi Sporting Club","BE1",24,24.5,16,66.7,4,"Stade du Pays de Charleroi",15113,"+€2.80m",2024
+18303,"fk-oleksandriya","FC Oleksandriya","UKR1",28,26.2,5,17.9,1,"KSK Nika",7000,"+€20k",2024
+2410,"zska-moskau","PFK CSKA Moskva","RU1",27,25,12,44.4,10,"VEB Arena",30114,"+€13.85m",2024
+2503,"boavista-porto-fc","Boavista Futebol Clube","PO1",33,26,18,54.5,4,"Estádio do Bessa Século XXI",28263,"+€5.00m",2024
+26459,"nk-veres-rivne","NK Veres Rivne","UKR1",21,26.4,4,19,1,"Stadion Avangard (2022)",7122,"+€250k",2024
+2671,"pas-giannina","PAS Giannina","GR1",21,23.8,7,33.3,0,"Stadio Zosimades",7652,"+€300k",2023
+2700,"anzhi-makhachkala","Anzhi Makhachkala ( -2022)","RU1",0,NA,0,NA,0,"RDYuSSh MinObrNauki RD Politekh Makhachkala",1600,"+-0",2018
+28095,"fk-ufa","FK Ufa","RU1",26,24.4,3,11.5,0,"Neftyanik",15132,"+€4.84m",2021
+2999,"hamilton-academical-fc","Hamilton Academical FC","SC1",28,22.8,9,32.1,0,"Fountain of Youth Stadium",6018,"+-0",2020
+3368,"ud-levante","Levante UD","ES1",23,27.5,6,26.1,0,"Ciutat de València",26354,"+€7.80m",2021
+338,"dynamo-kiew","Futbolniy Klub Dynamo Kyiv","UKR1",26,25,2,7.7,9,"Valeriy Lobanovsky Stadion",16873,"€-1.80m",2024
+371,"celtic-glasgow","The Celtic Football Club","SC1",25,27.1,19,76,14,"Celtic Park",60832,"+€12.78m",2024
+506,"juventus-turin","Juventus Football Club","IT1",27,25.3,20,74.1,19,"Allianz Stadium",41507,"€-87.40m",2024
+618,"as-saint-etienne","Association sportive de Saint-Étienne Loire","FR1",27,26.7,12,44.4,5,"Stade Geoffroy-Guichard",41965,"€-8.10m",2024
+6992,"chornomorets-odessa","ZAO FK Chornomorets Odessa","UKR1",29,24.4,8,27.6,1,"Stadion Chornomorets (2011)",34164,"+€1.03m",2024
+75231,"fk-makhachkala","Dinamo Makhachkala","RU1",25,24.7,9,36,4,"Anzhi-Arena",24173,"€-2.68m",2024
+820,"genclerbirligi-ankara","Genclerbirligi Ankara","TR1",34,26.1,10,29.4,1,"Eryaman Stadyumu",20560,"+€195k",2020
+1083,"fk-rostov","FK Rostov","RU1",26,25.2,8,30.8,8,"Rostov Arena",45415,"+€670k",2024
+1095,"es-troyes-ac","ESTAC Troyes","FR1",29,23.1,16,57.1,5,"Stade de l'Aube",21877,"+-0",2022
+121,"dinamo-moskau","FK Dinamo Moskva","RU1",24,25.9,14,58.3,9,"VTB-Arena",25716,"€-6.30m",2024
+1420,"sco-angers","Angers Sporting Club de l'Ouest","FR1",27,26.9,16,59.3,8,"Stade Raymond Kopa",19350,"+€474k",2024
+16245,"fk-sevastopol","FK Sevastopol (- 2014)","UKR1",0,NA,0,NA,0,"SK Sevastopol",5826,"+-0",2013
+22110,"fc-helsingor","FC Helsingör","DK1",23,24.6,4,17.4,1,"Helsingør Ny Stadion",4000,"+€320k",2017
+23826,"rasenballsport-leipzig","RasenBallsport Leipzig","L1",26,25,19,73.1,17,"Red Bull Arena",47069,"€-21.50m",2024
+24245,"umraniyespor","Ümraniyespor","TR1",12,25.8,3,30,1,"Ümraniye Belediyesi Şehir Stadı",3513,"+-0",2022
+2687,"fc-cadiz","Cádiz CF","ES1",26,28.7,6,23.1,2,"Nuevo Mirandilla",21094,"+€4.00m",2023
+2696,"krylya-sovetov-samara","PFK Krylya Sovetov Samara","RU1",29,26.6,9,31,6,"Solidarnost Samara Arena",42347,"€-1.19m",2024
+2919,"ac-monza","Associazione Calcio Monza","IT1",31,26.3,11,35.5,4,"Brianteo",17102,"+€34.75m",2024
+317,"fc-twente-enschede","Football Club Twente","NL1",25,25.3,12,48,4,"De Grolsch Veste",30205,"+€7.85m",2024
+3209,"pendikspor","Pendikspor","TR1",30,28.4,6,20,1,"Pendik Stadı",4105,"€-307k",2023
+339,"dnipro-dnipropetrovsk","Dnipro Dnipropetrovsk (-2020)","UKR1",0,NA,0,NA,0,"Meteor",24381,"+-0",2016
+3524,"clermont-foot-63","Clermont Foot 63","FR1",30,23.9,18,60,5,"Stade Gabriel-Montpied",10800,"+€4.00m",2023
+398,"lazio-rom","Società Sportiva Lazio S.p.A.","IT1",31,26.3,22,71,12,"Olimpico di Roma",70634,"€-25.55m",2024
+4171,"benevento-calcio","Benevento Calcio","IT1",31,26.7,16,51.6,2,"Ciro Vigorito",16867,"€-1.93m",2020
+418,"real-madrid","Real Madrid Club de Fútbol","ES1",23,27.2,17,73.9,16,"Santiago Bernabéu",81044,"€-33.00m",2024
+49702,"fk-nizhny-novgorod","FK Nizhny Novgorod","RU1",30,25,8,26.7,2,"Nizhny Novgorod Stadium",44242,"€-897k",2024
+54189,"rwd-molenbeek","RWD Molenbeek","BE1",23,23.2,15,65.2,3,"Edmond Machtensstadion",8090,"+€29.65m",2023
+6574,"us-sassuolo","US Sassuolo","IT1",32,23.8,11,34.4,7,"Mapei Stadium - Città del Tricolore",21584,"+€49.15m",2023
+7179,"cd-tondela","CD Tondela","PO1",26,22.8,12,46.2,2,"Estádio João Cardoso",5000,"+€50k",2021
+720,"fc-porto","Futebol Clube do Porto","PO1",26,25.1,14,53.8,8,"Estádio do Dragão",50033,"+€116.74m",2024
+738,"ac-le-havre","Le Havre Athletic Club","FR1",27,26.2,15,55.6,4,"Stade Océane",25178,"+€11.25m",2024
+89,"1-fc-union-berlin","1. Fußballclub Union Berlin","L1",27,27.5,15,55.6,7,"Stadion An der Alten Försterei",22012,"+€6.70m",2024
+940,"celta-vigo","Real Club Celta de Vigo S. A. D.","ES1",23,27.1,6,26.1,4,"Abanca Balaídos",24870,"+€12.50m",2024
+1387,"acn-siena-1904","Siena FC","IT1",20,25.5,2,10,0,"Artemio Franchi",15373,"+-0",2012
+1390,"cagliari-calcio","Cagliari Calcio","IT1",24,27,11,45.8,8,"Unipol Domus",16365,"+€5.80m",2024
+1416,"amiens-sc","Amiens SC","FR1",24,24.1,10,41.7,7,"Stade Crédit Agricole la Licorne",12999,"+€700k",2019
+1467,"goztepe","Göztepe Sportif Yatırımlar A.Ş.","TR1",27,25.6,15,55.6,3,"Gürsel Aksel Stadyumu",20756,"€-475k",2024
+167,"fc-augsburg","Fußball-Club Augsburg 1907","L1",27,26.2,17,63,9,"WWK ARENA",30660,"+€25.35m",2024
+232,"spartak-moskau","FK Spartak Moskva","RU1",27,26.5,13,48.1,13,"Lukoil Arena",44571,"€-45.26m",2024
+2420,"vitoria-guimaraes-sc","Vitória Sport Clube","PO1",26,26.1,13,50,3,"Estádio D. Afonso Henriques",30029,"+€34.73m",2024
+2424,"gil-vicente-fc","Gil Vicente Futebol Clube","PO1",28,25.2,21,75,5,"Estádio Cidade de Barcelos",12046,"+€8.02m",2024
+2439,"kuban-krasnodar","Kuban Krasnodar (-2018)","RU1",0,NA,0,NA,0,"Kuban Stadium",31654,"+-0",2015
+2703,"spartak-vladikavkaz","Spartak Vladikavkaz (-2020)","RU1",0,NA,0,NA,0,"Republican Stadium Spartak",32464,"+-0",2012
+289,"afc-sunderland","Sunderland AFC","GB1",26,23.5,12,46.2,6,"Stadium of Light",48707,"€-6.06m",2016
+2921,"delfino-pescara-1936","Delfino Pescara 1936","IT1",28,24.6,6,21.4,1,"Adriatico",20476,"+€4.60m",2016
+3,"1-fc-koln","1.FC Köln","L1",34,24.6,11,32.4,6,"RheinEnergieSTADION",50000,"+€1.60m",2023
+3719,"fk-khimki","FK Khimki","RU1",24,27.1,11,45.8,2,"Arena Khimki",18636,"€-1.26m",2024
+3729,"arsenal-tula","Arsenal Tula","RU1",27,27.4,2,7.4,1,"Arsenal",19241,"+€1.80m",2021
+3840,"adana-demirspor","Adana Demirspor Kulübü","TR1",22,23.3,6,27.3,3,"Yeni Adana Stadyumu",30960,"+€1.10m",2024
+430,"ac-florenz","Associazione Calcio Fiorentina","IT1",25,25.7,10,40,10,"Artemio Franchi",43147,"€-31.97m",2024
+4482,"volyn-lutsk","Volyn Lutsk","UKR1",0,NA,0,NA,0,"Stadion Avangard",12080,"+-0",2016
+48726,"rukh-lviv","FC Rukh Lviv","UKR1",25,22.7,2,8,0,"Arena Lviv",34725,"+€2.05m",2024
+5,"ac-mailand","Associazione Calcio Milan","IT1",26,26.1,20,76.9,14,"Giuseppe Meazza",75923,"€-70.90m",2024
+512,"stoke-city","Stoke City","GB1",24,26.7,9,37.5,6,"bet365 Stadium",30089,"+€17.00m",2017
+5818,"hobro-ik","Hobro IK","DK1",22,24.8,4,18.2,2,"DS Arena",7500,"+-0",2019
+60949,"volos-nps","Volou Neos Podosferikos Syllogos","GR1",28,27.4,15,53.6,2,"Panthessaliko Stadio",22700,"+-0",2024
+678,"aarhus-gf","Aarhus Gymnastik Forening","DK1",25,27,10,40,1,"Ceres Park Vejlby",12000,"€-4.43m",2024
+7775,"hatayspor","Hatayspor Futbol Kulübü","TR1",24,25.8,12,50,5,"Mersin Stadyumu",25000,"+€1.20m",2024
+826,"rc-lens","Racing Club de Lens","FR1",27,26.6,18,66.7,10,"Stade Bollaert-Delelis",38223,"+€67.45m",2024
+8838,"zirka-kropyvnytskyi","Zirka Kropyvnytskyi","UKR1",7,27.4,0,NA,0,"Zirka",14628,"+-0",2017
+897,"deportivo-la-coruna","Deportivo de La Coruña","ES1",24,27.7,3,12.5,0,"Abanca Riazor",32912,"€-435k",2017
+987,"motherwell-fc","Motherwell Football Club","SC1",34,25.8,24,70.6,4,"Fir Park",13677,"+€1.59m",2024
+1063,"viborg-ff","Viborg Fodsports Forening","DK1",25,23.7,12,48,3,"Viborg Stadion",10000,"+€1.08m",2024
+1085,"vitoria-setubal-fc","Vitória Setúbal FC","PO1",29,26,10,34.5,0,"Estádio do Bonfim",18642,"+-0",2019
+11,"fc-arsenal","Arsenal Football Club","GB1",24,26.7,18,75,18,"Emirates Stadium",60704,"€-25.11m",2024
+126,"caykur-rizespor","Çaykur Rizespor Kulübü","TR1",26,25.6,14,53.8,9,"Çaykur Didi",14850,"€-14k",2024
+1627,"catania-calcio","Catania FC","IT1",27,26,5,18.5,0,"Cibali - Angelo Massimino",20204,"€-101k",2013
+16795,"fc-granada","Granada CF","ES1",24,26.1,8,33.3,4,"Nuevo Los Cármenes",19336,"+€19.70m",2023
+204,"lierse-sk","Lierse SK (- 2018)","BE1",0,NA,0,NA,0,"Herman Vanderpoortenstadion",14538,"+-0",2014
+2227,"sk-tavriya-simferopol","SK Tavriya Simferopol ( - 2022)","UKR1",0,NA,0,NA,0,"RS Lokomotiv",19978,"+-0",2013
+2239,"us-cremonese","US Cremonese","IT1",29,25.4,9,30,2,"Giovanni Zini",16003,"+€5.00m",2022
+252,"genua-cfc","Genoa Cricket and Football Club","IT1",29,26.3,18,62.1,6,"Luigi Ferraris",34901,"+€5.04m",2024
+281,"manchester-city","Manchester City Football Club","GB1",29,26.3,21,72.4,21,"Etihad Stadium",55097,"€-102.00m",2024
+3302,"ud-almeria","UD Almería","ES1",24,25.2,13,54.2,5,"Power Horse Stadium",18331,"€-1.60m",2023
+39,"1-fsv-mainz-05","1. Fußball- und Sportverein Mainz 05","L1",24,27,10,41.7,6,"Mewa Arena",33305,"+€26.25m",2024
+3999,"pas-lamia-1964","PAS Lamia 1964","GR1",30,26.4,15,50,1,"Stadio Lamia ""Athanasios Diakos""",5500,"+€50k",2024
+405,"aston-villa","Aston Villa Football Club","GB1",24,27.5,16,66.7,15,"Villa Park",42918,"+€42.97m",2024
+441,"apollon-smyrnis","Apollon Smyrnis","GR1",27,27.3,15,55.6,0,"Stadio Neas Smyrnis",11700,"+-0",2021
+5219,"aok-kerkyra","AOK Kerkyra","GR1",8,28.1,1,12.5,0,"Ethniko Stadio Kerkyras",3000,"+-0",2017
+543,"wolverhampton-wanderers","Wolverhampton Wanderers Football Club","GB1",31,26.2,27,87.1,17,"Molineux Stadium",31750,"€-8.21m",2024
+60,"sc-freiburg","Sport-Club Freiburg","L1",27,27.3,12,44.4,6,"Europa-Park Stadion",34700,"€-7.10m",2024
+61825,"fk-minaj","FC Minaj","UKR1",25,23.6,1,4,0,"Minaj-Arena",1312,"+€310k",2023
+63007,"lnz-lebedyn","LNZ Cherkasy","UKR1",25,26.4,10,40,3,"Cherkasy-Arena",10321,"€-1.18m",2024
+660,"shakhtar-donetsk","FC Shakhtar Donetsk","UKR1",30,23.6,13,43.3,10,"Arena Lviv",34725,"€-150k",2024
+6894,"kayseri-erciyesspor","Kayseri Erciyesspor","TR1",0,NA,0,NA,0,"Kayseri Atatürk Spor Kompleksi Yan Açık Saha",2000,"+-0",2014
+6912,"fc-vizela","FC Vizela","PO1",27,24.6,20,74.1,3,"Estádio do Vizela",6565,"+€4.85m",2023
+714,"espanyol-barcelona","Reial Club Deportiu Espanyol de Barcelona S.A.D.","ES1",28,26,8,28.6,2,"RCDE Stadium",40500,"+€1.10m",2024
+798,"sbv-excelsior-rotterdam","Excelsior Rotterdam","NL1",25,22.2,8,32,1,"Van Donge & De Roo Stadion - Woudestein",4400,"+€3.25m",2023
+862,"chievo-verona","Chievo Verona","IT1",0,NA,0,NA,0,"Marcantonio Bentegodi",31045,"+-0",2018
+8970,"frosinone-calcio","Frosinone Calcio","IT1",31,23.8,15,48.4,5,"Benito Stirpe",16227,"+€5.81m",2023
+9007,"arsenal-kiew","Arsenal Kyiv","UKR1",0,NA,0,NA,0,"NSK Olimpisky",70050,"+-0",2018
+12321,"fc-girona","Girona Fútbol Club S. A. D.","ES1",26,27.4,15,57.7,6,"Montilivi",14624,"+€11.00m",2024
+1241,"livingston-fc","Livingston FC","SC1",25,26.9,16,64,0,"Home of the Set Fare Arena",9512,"+-0",2023
+127,"sc-paderborn-07","SC Paderborn 07","L1",26,25.7,5,19.2,1,"Home Deluxe Arena",15000,"€-450k",2019
+19,"brescia-calcio","Brescia Calcio","IT1",28,25.1,12,42.9,1,"Mario Rigamonti",19550,"+€3.65m",2019
+23,"eintracht-braunschweig","Eintracht Braunschweig","L1",30,25.6,11,36.7,2,"EINTRACHT-Stadion",23325,"+€750k",2013
+33,"fc-schalke-04","FC Schalke 04","L1",27,26.4,12,44.4,4,"Veltins-Arena",62271,"+€10.30m",2022
+350,"sheffield-united","Sheffield United","GB1",28,24.2,11,39.3,5,"Bramall Lane",32702,"+€31.02m",2023
+3592,"kryvbas-kryvyi-rig","FK Kryvbas Kryvyi Rig","UKR1",27,24.8,9,33.3,3,"Girnyk",3219,"+€2.34m",2024
+369,"lyngby-bk","Lyngby Boldklubben af 1921","DK1",28,25.6,8,28.6,1,"Lyngby Stadion",10000,"+€2.51m",2024
+3725,"akhmat-grozny","RFK Akhmat Grozny","RU1",27,27.7,12,44.4,7,"Akhmat-Arena",30200,"€-2.13m",2024
+41201,"pfk-tambov","PFK Tambov (-2021)","RU1",0,NA,0,NA,0,"Mordovia Arena",44149,"+-0",2020
+472,"ud-las-palmas","Unión Deportiva Las Palmas S.A.D.","ES1",25,27.4,9,36,2,"Estadio de Gran Canaria",32400,"+€3.50m",2024
+520,"cercle-brugge","Cercle Brugge Koninklijke Sportvereniging","BE1",30,23,19,63.3,6,"Jan Breydelstadion",29062,"+€18.65m",2024
+6418,"panetolikos-gfs","Panetolikos Agrinio","GR1",29,25.2,12,41.4,2,"Gipedo Panetolikou",7321,"+€144k",2024
+653,"ofi-kreta","Omilos Filathlon Irakliou FC","GR1",35,25.6,15,42.9,3,"Gipedo Theodoros Vardinogiannis",9088,"+€1.40m",2024
+6994,"metalurg-zaporizhya-bis-2016-","Metalurg Zaporizhya (-2016)","UKR1",0,NA,0,NA,0,"Slavutych Arena",11883,"+-0",2015
+7378,"portimonense-sc","Portimonense SC","PO1",35,23.3,27,77.1,2,"Estádio Municipal de Portimão",4961,"+€6.70m",2023
+9010,"fcv-dender-eh","FC Verbroedering Denderhoutem Denderleeuw Eendracht Hekelgem","BE1",29,25.8,12,41.4,2,"Dender Football Complex",6429,"+€150k",2024
+982,"cd-nacional","Clube Desportivo Nacional","PO1",29,26.6,19,65.5,0,"Estádio da Madeira",5200,"€-80k",2024
+1005,"us-lecce","Unione Sportiva Lecce","IT1",34,24.8,29,85.3,7,"Ettore Giardiniero",31559,"+€45.50m",2024
+1038,"sampdoria-genua","UC Sampdoria","IT1",33,24.3,5,15.6,4,"Luigi Ferraris",36348,"+€1.75m",2022
+1091,"paok-thessaloniki","Panthessalonikios Athlitikos Omilos Konstantinoupoliton","GR1",31,28.9,24,77.4,11,"Toumba Stadium",28703,"+€23.85m",2024
+110302,"avs-futebol-sad","Avs Futebol SAD","PO1",29,28.1,21,72.4,4,"Estádio do Clube Desportivo das Aves",8560,"+€1.20m",2024
+1210,"as-livorno","US Livorno 1915","IT1",29,24.1,5,17.2,0,"Armando Picchi",19238,"+-0",2013
+1245,"kas-eupen","KAS Eupen","BE1",25,24,16,64,6,"Kehrweg-Stadion",8361,"+€1.00m",2023
+1426,"vvv-venlo","VVV-Venlo","NL1",28,22.9,7,25,0,"Covebo Stadion - De Koel",8000,"+-0",2020
+1533,"sd-eibar","SD Eibar","ES1",26,28.3,5,19.2,0,"Ipurua",8164,"+€2.60m",2020
+180,"fc-southampton","Southampton Football Club","GB1",29,26.3,16,55.2,9,"St Mary's Stadium",32384,"€-80.56m",2024
+19657,"vendsyssel-ff","Vendsyssel FF","DK1",24,25.1,7,29.2,0,"Nord Energi Arena",10000,"€-20k",2018
+234,"feyenoord-rotterdam","Feyenoord Rotterdam","NL1",32,24.4,21,65.6,13,"Stadion Feyenoord ""De Kuip""",47500,"+€64.50m",2024
+2375,"altay-sk","Altay SK","TR1",31,25.3,3,9.7,0,"Alsancak Mustafa Denizli Stadı",15000,"+€1.42m",2021
+2448,"sporting-gijon","Sporting Gijón","ES1",28,26.2,10,35.7,2,"El Molinón - Enrique Castro Quini",29029,"+€5.23m",2016
+2741,"baltika-kaliningrad","Baltika Kaliningrad","RU1",27,24.2,6,22.2,2,"Rostec Arena",35000,"+€1.04m",2023
+2783,"metalurg-donetsk","Metalurg Donetsk (- 2015)","UKR1",0,NA,0,NA,0,"Metalurg",5090,"+-0",2014
+3205,"kayserispor","Kayserispor Kulübü","TR1",27,27.5,13,48.1,4,"RHG Enertürk Enerji Stadyumu",31856,"+€400k",2024
+3349,"cd-feirense","CD Feirense","PO1",24,25,11,45.8,2,"Estádio Marcolino de Castro",5401,"+€325k",2018
+3385,"panserraikos","Panserraikos Serres","GR1",38,25.3,18,47.4,1,"Dimotiko Gipedo Serron",9500,"+€620k",2024
+368,"fc-sevilla","Sevilla Fútbol Club S.A.D.","ES1",23,25.9,13,56.5,7,"Ramón Sánchez-Pizjuán",43883,"+€16.55m",2024
+38,"fortuna-dusseldorf","Fortuna Düsseldorf","L1",29,25.9,12,41.4,2,"MERKUR SPIEL-ARENA",54600,"+€600k",2019
+3948,"royale-union-saint-gilloise","Royale Union Saint-Gilloise","BE1",26,25.1,18,69.2,5,"Stade Joseph Mariën",9512,"+€5.60m",2024
+415,"fc-toulouse","Toulouse Football Club","FR1",22,25.5,16,72.7,10,"Stadium Municipal",33150,"+€47.80m",2024
+416,"fc-turin","Torino Calcio","IT1",29,26.7,24,82.8,14,"Olimpico Grande Torino",28177,"+€21.90m",2024
+417,"ogc-nizza","Olympique Gymnaste Club Nice Côte d'Azur","FR1",27,26.1,16,59.3,11,"Allianz Riviera",36178,"+€3.30m",2024
+44,"hertha-bsc","Hertha BSC","L1",36,24.1,14,38.9,7,"Olympiastadion Berlin",74667,"+€6.70m",2022
+467,"nec-nijmegen","Nijmegen Eendracht Combinatie","NL1",28,25.2,11,39.3,2,"Goffertstadion",12650,"€-900k",2024
+53646,"fk-polissya-zhytomyr","FK Polissya Zhytomyr","UKR1",31,24.9,16,51.6,6,"Tsentralnyi Polissya",5928,"€-6.55m",2024
+631,"fc-chelsea","Chelsea Football Club","GB1",30,23.5,19,63.3,12,"Stamford Bridge",41631,"€-24.60m",2024
+7160,"eyupspor","Eyüp Spor Kulübü","TR1",29,28.3,8,27.6,1,"Recep Tayyip Erdoğan Stadyumu",13797,"+€9.80m",2024
+749,"fc-empoli","Empoli Football Club S.r.l.","IT1",28,26.1,16,57.1,5,"Carlo Castellani",19847,"+€11.05m",2024
+833,"denizlispor","Denizlispor","TR1",27,25.8,3,11.1,1,"Denizli Atatürk Stadı",18745,"+-0",2020
+865,"fc-midtjylland","Fodbold Club Midtjylland","DK1",31,24.8,23,74.2,10,"MCH Arena",12152,"€-4.95m",2024
+10,"arminia-bielefeld","Arminia Bielefeld","L1",27,25.3,15,55.6,4,"SchücoArena",26515,"+€5.90m",2021
+10484,"kasimpasa","Kasımpaşa Spor Kulübü","TR1",30,25.7,14,46.7,6,"Recep Tayyip Erdoğan Stadyumu",13797,"+-0",2024
+1049,"fc-valencia","Valencia Club de Fútbol S. A. D.","ES1",26,25.8,9,34.6,5,"Mestalla",49430,"+€28.65m",2024
+1053,"aalborg-bk","Aalborg Boldspilklub","DK1",26,23.2,15,57.7,1,"Aalborg Portland Park",13310,"+€7.00m",2024
+1075,"sc-braga","Sporting Clube de Braga","PO1",25,24.8,15,60,1,"Estádio Municipal de Braga",30286,"+€39.07m",2024
+1269,"pec-zwolle","Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle","NL1",26,25,12,46.2,5,"MAC³PARK stadion",14000,"€-600k",2024
+132,"nac-breda","Nooit Opgeven Altijd Doorzetten Aangenaam Door Vermaak En Nuttig Door Ontspanning Combinatie Breda","NL1",30,25.2,18,60,4,"Rat Verlegh Stadion",19000,"+€1.00m",2024
+2292,"elazigspor","Elazigspor","TR1",28,25.3,0,NA,0,"Elazığ Stadyumu",23000,"+-0",2013
+27,"fc-bayern-munchen","FC Bayern München","L1",26,27.6,15,57.7,16,"Allianz Arena",75000,"€-64.65m",2024
+2759,"ross-county-fc","Ross County Football Club","SC1",26,25.4,19,73.1,2,"Global Energy Stadium",6541,"+-0",2024
+2778,"fc-nordsjaelland","Fodbold Club Nordsjælland","DK1",23,23.5,12,52.2,3,"Right to Dream Park",10300,"+€57.86m",2024
+29,"fc-everton","Everton Football Club","GB1",25,27.8,15,60,12,"Goodison Park",39414,"+€33.45m",2024
+290,"aj-auxerre","Association de la Jeunesse auxerroise","FR1",29,25.2,18,62.1,8,"Stade de l'Abbé-Deschamps",18541,"+€1.00m",2024
+30120,"ae-kifisias","AE Kifisias","GR1",26,26.1,10,38.5,0,"Gipedo Kesarianis ""Michalis Kritikopoulos""",4851,"+€30k",2023
+306,"sc-heerenveen","Sportclub Heerenveen","NL1",30,24.2,17,56.7,5,"Abe Lenstra Stadion",27224,"+€4.23m",2024
+3062,"gs-kallithea","Athens Kallithea Football Club","GR1",29,28.2,17,58.6,2,"Apostolos Nikolaidis",16620,"+€150k",2024
+3268,"casa-pia-ac","Casa Pia Atlético Clube","PO1",29,26.1,16,55.2,4,"Estádio Municipal de Rio Maior",7000,"+€7.40m",2024
+347,"fc-metz","FC Metz","FR1",26,25,19,73.1,7,"Stade Saint-Symphorien",28786,"+€21.90m",2023
+3714,"enisey-krasnoyarsk","Enisey Krasnoyarsk","RU1",26,25.6,2,7.7,1,"Zentralstadion Krasnoyarsk",15000,"+€601k",2018
+399,"leeds-united","Leeds United","GB1",27,24.6,18,66.7,9,"Elland Road",37890,"+€930k",2022
+4083,"fc-crotone","FC Crotone","IT1",25,27,6,24,1,"Ezio Scida",16640,"+€3.90m",2020
+465,"st-mirren-fc","Saint Mirren Football Club","SC1",24,26.5,18,75,5,"The SMISA Stadium",7937,"€-26k",2024
+48332,"kolos-kovalivka","FK Kolos Kovalivka","UKR1",24,25.7,6,25,2,"Kolos",5050,"+€1.20m",2024
+533,"tsg-1899-hoffenheim","Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs","L1",33,25.9,22,66.7,12,"PreZero Arena",30150,"€-44.40m",2024
+58,"rsc-anderlecht","Royal Sporting Club Anderlecht","BE1",26,25.5,13,50,7,"Lotto Park",21900,"+€13.55m",2024
+607,"venezia-fc","Venezia Football Club","IT1",30,26,23,76.7,10,"Pier Luigi Penzo",12048,"€-3.50m",2024
+68608,"cf-os-belenenses","CF Os Belenenses","PO1",30,25.7,5,16.7,0,"Estádio do Restelo",19980,"+-0",2017
+724,"fc-volendam","FC Volendam","NL1",25,23.4,6,24,2,"Kras Stadion",7384,"+€800k",2023
+800,"atalanta-bergamo","Atalanta Bergamasca Calcio S.p.a.","IT1",26,27.5,14,53.8,20,"Gewiss Stadium",24950,"+€11.45m",2024
+85465,"karpaty-lviv-2020-","FK Karpaty Lviv","UKR1",29,25.5,7,24.1,2,"Ukraina",28051,"€-3.38m",2024
+979,"moreirense-fc","Moreirense Futebol Clube","PO1",27,25.9,17,63,3,"Estádio C. J. de Almeida Freitas",6150,"+€2.60m",2024
+984,"west-bromwich-albion","West Bromwich Albion","GB1",25,27.8,8,32,4,"The Hawthorns",26850,"€-1.35m",2020
