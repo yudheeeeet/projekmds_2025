@@ -1,0 +1,1043 @@
+"game_lineups_id","date","game_id","player_id","club_id","player_name","type","position","number","team_captain"
+"caa605f13e0983b1b25c12282bf3443f","2015-05-07",2560695,38593,6195,"Marek Hamsik","starting_lineup","Attacking Midfield","17",1
+"901638435964495460bd16731f539e89","2015-02-22",2478826,55282,430,"Ciprian Tătărușanu","starting_lineup","Goalkeeper","12",0
+"d2512927b17fb7930809f7976bbdf895","2014-01-18",2342417,166959,1269,"Mustafa Saymak","substitutes","Attacking Midfield","6",0
+"be9ca41ae39b001fb2cb5aff44e6b6e7","2015-08-23",2594479,175921,2448,"Álex Menéndez","substitutes","Left-Back","3",0
+"6e851328804ff312340d415f38475663","2020-01-04",3300767,37920,3008,"Kamil Grosicki","substitutes","Left Winger","11",0
+"5ec6d3d32f4ac65b999b429a9aeed6ca","2018-03-11",2897373,28021,46,"Samir Handanovic","starting_lineup","Goalkeeper","1",0
+"76c5ff6a0ae60c119becea68f61504b4","2022-05-15",3592249,424051,1010,"Samuel Kalu","starting_lineup","Left Winger","28",0
+"581b17e1c40a046b5a65a430f0d60d87","2022-11-08",3950392,528522,5733,"Emilio Simonsen","substitutes","Attacking Midfield","11",0
+"31067f147ca517fbff50a94c4a9e04c4","2020-12-12",3450567,247596,1269,"Kenneth Paal","starting_lineup","Left-Back","5",0
+"e4b229b6e0363addf5b4e87fc53f2c1e","2017-04-23",2818596,296453,4603,"Dimitrios Kapos","substitutes","Centre-Forward","19",0
+"7c3e345b47649b1ab0704f03497ed1e9","2020-12-24",3426922,655901,820,"Abdullah Şahindere","substitutes","Centre-Back","55",0
+"cc0e97d68037f4615f5bca121cd963e6","2021-08-05",3631944,528022,448,"Dejan Zukic","substitutes","Attacking Midfield","10",0
+"2e46db6de4980d80a0bf254009e98445","2022-08-20",3889522,515249,3719,"Artur Chernyi","substitutes","Right-Back","19",0
+"523824db832e06ca3082440dd7b47802","2014-11-30",2494407,55143,6676,"Jerónimo Barrales","starting_lineup","Centre-Forward","9",0
+"18766f80ea1701244331601eeb712063","2016-01-10",2594651,58345,681,"Jonathas","starting_lineup","Centre-Forward","22",0
+"7d5b003fa8d48e6e41601ebdf03dbda5","2016-01-30",2581812,4018,167,"Daniel Baier","starting_lineup","Defensive Midfield","10",0
+"425c644ef78add0b696d1797a4db8353","2014-05-03",2321351,91423,24,"Vaclav Kadlec","substitutes","Centre-Forward","10",0
+"01f2d247dcb569d84e5faa3c1b0e3cd4","2015-02-14",2482345,111026,595,"Mathieu Peybernes","substitutes","Centre-Back","17",0
+"c329c17372703df92a959ec59c90d9c1","2016-11-19",2728551,12772,2451,"Ryan Esson","substitutes","Goalkeeper","1",0
+"47febe8adf20ed4ae543ff374843fb73","2017-09-23",2865037,39522,306,"Reza Ghoochannejhad","starting_lineup","Centre-Forward","9",0
+"a1491eef10073929e34cfc75a8654ea2","2019-11-23",3208779,338424,681,"Mikel Merino","starting_lineup","Central Midfield","8",0
+"74f06c6d6492b007ff165edbd088059f","2014-09-20",2478612,5023,506,"Gianluigi Buffon","starting_lineup","Goalkeeper","1",1
+"355db4094f56c53c808d9b5fe70b85bb","2022-09-06",3911826,349300,371,"Sead Haksabanovic","substitutes","Left Winger","9",0
+"7691c7a26760d304cb7aaec27b834975","2018-01-08",2891542,191854,441,"Alexandros Kouros","starting_lineup","Left-Back","55",0
+"03361912f188d517b4f37f9c8fc14309","2022-04-18",3613156,16135,141,"Ryan Babel","starting_lineup","Right Winger","8",0
+"f777ff62456f645495f0754a9315155b","2021-09-30",3651689,55369,932,"Guilherme","starting_lineup","Goalkeeper","1",1
+"bbc8f81237ac69c90d59f93481b25322","2015-01-21",2515982,24316,1038,"Emiliano Viviano","substitutes","Goalkeeper","2",0
+"2e6080a4426a990931d4396b0e32dc66","2023-06-03",3860427,361032,3205,"Bilal Bayazıt","starting_lineup","Goalkeeper","25",0
+"ee1837611a20a549a359b502f8c72063","2019-10-30",3252858,587337,3410,"Jamie den Hartog","substitutes","Centre-Back","19",0
+"37d79bea5af13068d005e9e9fe9b67f5","2023-02-19",3839367,532776,15,"Amine Adli","starting_lineup","Right Winger","21",0
+"2c5c79450aba40744ed398c01fd60222","2019-10-27",3203508,278343,167,"Felix Uduokhai","starting_lineup","Centre-Back","19",0
+"74873630df5413801f845c286da7ab84","2015-10-27",2615045,111266,80,"Anthony Losilla","starting_lineup","Defensive Midfield","8",0
+"912e9d13b3bdff8e4be09e3ee0e5b2f0","2014-02-09",2331032,31773,995,"Olivier Veigneau","starting_lineup","Left-Back","5",0
+"e784f50ce8e7f9c8182e656806b45392","2013-11-30",2321174,119296,15,"Emre Can","starting_lineup","Left-Back","10",0
+"d57c6ae8a41cc74b2e33e78dc9b7139f","2022-04-10",3621630,275287,2423,"Rúben Oliveira","substitutes","Central Midfield","14",0
+"875f3fb2ca6d41849011bb2a5c230f74","2018-08-25",3050194,274839,1003,"Wilfred Ndidi","starting_lineup","Defensive Midfield","25",0
+"24570766f8297d6612189ede14c495ab","2014-05-11",2359567,16891,1210,"Paolo Castellini","starting_lineup","Left-Back","7",0
+"7a04ae306ec9fa1a1d7c2383cb779cbe","2018-02-03",2942786,57186,667,"Bakary Koné","substitutes","Centre-Back","26",0
+"ab4fe2b0d9740197debc90df74061f73","2014-03-22",2332143,15904,11,"Thomas Vermaelen","substitutes","Left-Back","5",0
+"4667d70c4aa09b86982955f0a150fb63","2018-09-15",3069743,209574,19771,"Fatih Öztürk","starting_lineup","Goalkeeper","99",0
+"d9ea423986b4ca5d9fb06502a7f1e5d3","2021-10-30",3607540,184779,1531,"Gonzalo Verdú","substitutes","Centre-Back","5",0
+"85d909cb844c38dc6d34e1511bc020e7","2014-07-30",2478427,17880,190,"Stephan Andersen","starting_lineup","Goalkeeper","1",0
+"96354e03339f36b67de8f117520a2665","2016-02-27",2658003,139546,6676,"Konstantinos Theodoropoulos","substitutes","Goalkeeper","21",0
+"b5eb1c171dfb97626efd02a377f845c4","2021-01-03",3426944,740515,820,"Gökhan Altıparmak","substitutes","Centre-Forward","26",0
+"ede7b992a9fcf920d6256a82e47e70da","2020-11-11",3468605,103434,173,"Troels Klöve","starting_lineup","Central Midfield","23",0
+"7ddc78aa8886d4f0ac5a80fcf5950e75","2020-03-05",3316887,284430,16795,"Aarón Escandell","substitutes","Goalkeeper","13",0
+"06dad6e8e7cdae4e9c17e6f4bfb007fd","2015-03-22",2478858,34211,800,"Cristiano Del Grosso","substitutes","Left-Back","3",0
+"40ff74c3f50f12514c9c874196c2a00a","2019-04-29",3069974,263628,19789,"Arturo Mina","starting_lineup","Centre-Back","44",0
+"99df53e48e838897839d9837f15eb983","2015-04-29",2475518,58884,418,"Nacho Fernández","substitutes","Centre-Back","18",0
+"d5999e94b5485c812bdee4758cdc5821","2013-09-17",2367031,25236,294,"Paulo Lopes","substitutes","Goalkeeper","13",0
+"4cb9958d3e1a3dd46c4b8c08e5c02ac8","2020-07-19",3208630,251860,1049,"Javi Jiménez","substitutes","Centre-Back","32",0
+"74b52c5afd22a8344b21b9dd41896f4c","2021-02-21",3457474,50577,443,"Pierre Neurath Bengtsson","starting_lineup","Left-Back","33",0
+"72bb7a62c1ad676ed0261e83c15e6e9e","2013-08-18",2342308,49500,317,"Roberto Rosales","starting_lineup","Right-Back","15",0
+"3a0ffa1e0f6115290ce9c84e3f6f9fb0","2019-08-17",3195260,518860,1416,"Madih Talal","substitutes","Attacking Midfield","22",0
+"82705ef3e753e45947f08bac656c7e10","2021-03-03",3394858,52920,1041,"Marcelo","starting_lineup","Centre-Back","6",0
+"357f33b61e77df1d45fe059b74736b26","2014-12-06",2515997,168337,2410,"Ahmed Musa","starting_lineup","Centre-Forward","18",0
+"f5f7a408a51dc95342b6cc08a1420d2b","2022-02-24",3592158,741238,11,"Omari Hutchinson","substitutes","Attacking Midfield","82",0
+"4d8c192f6140a68adb567ac5365befea","2018-09-15",3099217,45832,58,"Ivan Santini","starting_lineup","Second Striker","19",0
+"7e11a4ffeb9cf0b7cb868b06ef38278f","2017-04-09",2726774,256866,430,"Carlos Salcedo","substitutes","Centre-Back","18",0
+"7ff2b012b89eb2847d0ca95dacfd66dc","2020-02-21",3229411,165895,6195,"Matteo Politano","starting_lineup","Right Winger","21",0
+"5b46d87c19ce21dc6cbfcb9d93f6fbdb","2019-10-03",3252440,37080,496,"Rasmus Bengtsson","starting_lineup","Centre-Back","17",0
+"f94baf7f73e67c3bd20c718545aa873c","2015-09-30",2618569,75442,294,"Nico Gaitán","starting_lineup","Left Midfield","10",0
+"2a9310556c78ef5817cd036d2c5964b1","2020-02-02",3199569,137745,1041,"Marçal","starting_lineup","Left-Back","20",0
+"77d7c52c61f454c03bf7180ef0780fd4","2017-12-03",2897437,22140,1025,"Domenico Maietta","starting_lineup","Centre-Back","20",1
+"385bdf9b3bdee7f25c4dcf6d53d224f7","2015-11-01",2609393,148682,8024,"Adilson Goiano","substitutes","Defensive Midfield","22",0
+"4529c1cfd924ed9b65e5889a62444b91","2022-02-19",3614784,250153,380,"Pasquale Mazzocchi","starting_lineup","Right-Back","30",0
+"3e33e28eceebd3dcd78feb53ec8427ca","2015-08-08",2577858,30739,631,"John Obi Mikel","substitutes","Defensive Midfield","12",0
+"32e00f5092043fafcef75eac525b2507","2020-09-20",3447017,584087,5817,"Roni Arabaci","substitutes","Centre-Forward","17",0
+"41e6997f7c889fdf9e6c37a24e658c28","2014-08-22",2481146,34601,13,"Raúl García","starting_lineup","Right Midfield","8",0
+"8af67b56fdcb1ddcbbfc660b474c8813","2022-07-27",3838470,543493,2740,"Najeeb Yakubu","substitutes","Left Midfield","5",0
+"8cdc1b864c6d0ea5e0b5bf7cb34199a7","2014-12-30",2524738,137192,982,"Zainadine","starting_lineup","Centre-Back","2",0
+"2fe3c410a84bc920852010898bb1d78b","2022-08-28",3837845,533662,405,"Cameron Archer","substitutes","Centre-Forward","35",0
+"1a56086becbb650dbe558601185db677","2021-02-18",3496474,544149,62,"David Zima","starting_lineup","Centre-Back","6",0
+"68286c91075962ca443e7950236a0afd","2020-08-29",3409149,323981,7481,"Jeroen Vrolijk","starting_lineup","Goalkeeper","1",0
+"f60b7f0fa106c8547d25cb1630f84c5b","2022-08-27",3885846,157036,3302,"Dyego Sousa","substitutes","Centre-Forward","11",0
+"d38dc78280ee821a7920b853da724085","2017-08-03",2887624,27300,244,"Rolando","starting_lineup","Centre-Back","6",0
+"d594ec128b6b9e25ddef187ab0d81326","2016-01-30",2609690,57467,1420,"Romain Thomas","starting_lineup","Centre-Back","24",0
+"880c30acf194647f266e8836741caa9c","2018-11-11",3069806,186862,114,"Enzo Roco","substitutes","Centre-Back","12",0
+"a300f2824db229c921a302bafbe85829","2021-10-03",3661875,324348,3060,"Spyros Natsos","substitutes","Defensive Midfield","6",0
+"c5a60d3c2ab346d5bb83287cbd32ee5e","2014-10-31",2504263,25732,660,"Dmytro Chygrynskyi","substitutes","Centre-Back","27",0
+"cee03c0b6d8a7c573add86d47c715bf3","2017-06-02",2722898,83368,19771,"Abdoul Wahid Sissoko","starting_lineup","Defensive Midfield","20",0
+"e36978afe3cd0d7b1c5b87045661032b","2013-08-29",2360970,275587,23664,"Igor Shumilov","substitutes","Centre-Back","16",0
+"8ea4e15db1cd98d5cda396dfe35a4dd2","2021-03-07",3429760,132098,148,"Harry Kane","starting_lineup","Centre-Forward","10",0
+"ae9677ab8206384e23b2262e9888c79e","2019-09-14",3199400,57370,273,"Damien Da Silva","starting_lineup","Centre-Back","3",1
+"74c5932cbea2b6eaf7649a2f12cac3ab","2014-12-27",2512845,62749,498,"Evariste Ngolok","starting_lineup","Defensive Midfield","28",0
+"5bb2618cd39344224bcca25ae8febadf","2019-11-24",3210392,78590,206,"Kamil Wilczek","starting_lineup","Centre-Forward","20",1
+"51f7a8fd9c8d1cb82eefce3f460bac88","2014-10-25",2475265,54235,621,"Iker Muniain","starting_lineup","Left Winger","19",0
+"ab5d4737b308538675ab2fa62d252236","2013-08-26",2329317,48870,865,"Jonas Lössl","starting_lineup","Goalkeeper","1",0
+"a44308d62c161579de5fe1b207668008","2019-05-11",3058711,82863,533,"Lukas Rupp","substitutes","Central Midfield","7",0
+"fd12de729a9007e8c753adc4bedd96e6","2017-08-06",2901877,6442,839,"Antonio Rosati","starting_lineup","Goalkeeper","1",0
+"79bcd4a93ee27421d92d717678a573c7","2020-10-17",3412939,68410,86,"Stefanos Kapino","substitutes","Goalkeeper","27",0
+"db0c44fe8ce5521a6949cf9628b7cefb","2022-04-03",3598057,196860,385,"Jordan Botaka","substitutes","Right-Back","17",0
+"0688ee4bdd3d3558e264ece332192747","2021-09-12",3650363,126413,553,"Jerson Cabral","starting_lineup","Left Winger","11",0
+"8e7cd87b77184498764ad3f36a2d4aae","2017-08-06",2873160,48583,16704,"Renat Yanbaev","substitutes","Left-Back","55",0
+"2b882bd80f0c8c597d271a4763ae8dd7","2017-04-22",2700909,19057,202,"Hedwiges Maduro","substitutes","Defensive Midfield","23",0
+"477a115d1565808579fa6fad8df866c6","2016-09-18",2725986,46083,338,"Domagoj Vida","starting_lineup","Centre-Back","24",0
+"f5be2b2e652d56de6a36ac5e9291768f","2018-01-28",2897315,294808,5,"Franck Kessié","starting_lineup","Central Midfield","79",0
+"bf4904844dafa437b9267f54030bba95","2017-09-26",2917373,50337,790,"Aleksander Rajcevic","starting_lineup","Centre-Back","26",0
+"dea876cd90f5af744fee81c8219c72f9","2019-05-04",3081107,148928,13,"Saúl Ñíguez","starting_lineup","Central Midfield","8",0
+"8565ac6f423b0da71cf9679b1be66954","2018-10-31",3108481,448915,6418,"Georgios Vakrakos","substitutes","Centre-Forward","14",0
+"f7085975893fbbc5da213c7710e6665f","2022-01-06",3716578,44352,13,"Luis Suárez","starting_lineup","Centre-Forward","9",0
+"91529a8dc374c13b7e4091b885575cbf","2020-01-23",3307690,274347,13,"Ivan Saponjic","substitutes","Centre-Forward","17",0
+"72320dc3f118478e1ccb2a457fe7870e","2013-11-24",2346110,36877,6894,"Bojan Jorgacevic","starting_lineup","Goalkeeper","70",0
+"64b6db57e33d245c209c7aa3de55bc55","2021-04-03",3539327,15895,3034,"Darryl Duffy","starting_lineup","Centre-Forward","9",0
+"1a655ac2cb711df0e77dc6d5534c6337","2021-05-13",3433544,391498,276,"Mert Çetin","substitutes","Centre-Back","15",0
+"45ea2615781dbdef7d577ba719e02b7f","2018-08-02",3076773,187308,6335,"Matteo Piciollo","starting_lineup","Left Winger","10",0
+"2beddaa8805eb60022868fbca8627c93","2013-11-03",2359308,221815,800,"Constantin Nica","substitutes","Right-Back","93",0
+"95144303dfa67e1736f3978172e35464","2022-12-14",3962962,737199,9,"Vasilios Triantafyllakis","substitutes","Attacking Midfield","11",0
+"8f82e995854d54749109e2c05105663a","2024-02-17",4098862,285322,2727,"Federico Ricca","starting_lineup","Centre-Back","
+                  14
+                ",0
+"d987bcf716ed164a583c78f5bf5131b7","2018-07-21",3063564,355483,3426,"Emmanuel Oti","starting_lineup","Left Winger","17",0
+"fc99f924210c4a65231122f3c97080ae","2017-09-17",2883869,386726,449,"Yusuf Yazıcı","starting_lineup","Attacking Midfield","97",0
+"9760ee0684efa637f57c44c8e3010b82","2022-03-13",3589439,296356,1420,"Souleyman Doumbia","substitutes","Left-Back","3",0
+"fb8da3e4603e6740aea3cf904c4315c1","2018-01-20",2942766,111528,667,"Anthony Gonçalves","starting_lineup","Right Midfield","17",0
+"5c5b454e6371e44eef5a20d1b29711b8","2018-07-10",3052485,167389,853,"Joé Frising","substitutes","Goalkeeper","33",0
+"309521819a5fa2bf079f5c37162d1be7","2022-10-13",3912597,353559,122,"Dominik Oroz","substitutes","Centre-Back","18",0
+"8fe1e0ed0ffa68b8040c701f9ee21b9e","2014-03-02",2342488,60317,133,"Ramon Leeuwin","starting_lineup","Centre-Back","30",1
+"115403f825f9f4f8093966ce9ce069c2","2021-05-11",3432113,242299,7179,"Roberto Olabe","starting_lineup","Central Midfield","18",0
+"45c25c7ad74b456f2db09df8453b9625","2021-02-25",3496486,435338,11,"Gabriel Magalhães","starting_lineup","Centre-Back","6",0
+"adbd7bb13c89c62778a98736b765aa1b","2014-09-12",2475202,63706,993,"Mikel Saizar","substitutes","Goalkeeper","13",0
+"cd5293e3bb8d8bbd06faf4465fee6980","2014-05-11",2359567,40372,430,"Borja Valero","starting_lineup","Central Midfield","20",1
+"ae3514b29a590ebb31ecd6d6f4f49b45","2020-10-17",3420589,257740,338,"Carlos de Pena","starting_lineup","Left Winger","14",0
+"3ecd2c77948edcc6c66e661aa6cbbb84","2018-07-29",3077546,351951,2919,"Luca Palesi","substitutes","Central Midfield","6",0
+"25178905ea1d3770c5d00ef20509a54d","2016-01-24",2604177,266302,398,"Sergej Milinkovic-Savic","starting_lineup","Attacking Midfield","21",0
+"3882bdd9ffa8c9c75a832995f32f22ce","2022-09-18",3844798,658612,430,"Dimo Krastev","substitutes","Centre-Back","44",0
+"ce33fdec92e397faaf7c78064ba35f09","2017-01-13",2716696,410185,618,"Ronaël Pierre-Gabriel","substitutes","Right-Back","31",0
+"47527a71f284556962cefcc2d293df5f","2023-01-05",3838275,57500,631,"César Azpilicueta","starting_lineup","Right-Back","28",1
+"57b2cd1bd18ebd77edb8e8bc990e0f65","2021-01-24",3433371,466268,130,"Juan Brunetta","substitutes","Attacking Midfield","32",0
+"cb3f228bb778ce2860e6d7e6fbe2c579","2017-07-18",2873136,48974,232,"Luiz Adriano","starting_lineup","Centre-Forward","12",0
+"88dc1bb0af2432ea70a1cb7bc6a1449a","2021-10-03",3592004,145988,873,"Wilfried Zaha","starting_lineup","Left Winger","11",0
+"40e25f4e056362672aec4acccd0942d1","2022-10-08",3839161,53418,23826,"Kevin Kampl","substitutes","Defensive Midfield","44",0
+"4e62a8dabd19f751c0aa077c018870be","2019-02-16",3047766,6270,244,"Yohann Pelé","substitutes","Goalkeeper","16",0
+"48057d1c3ea42d7f183f63a3f4e18d66","2021-04-05",3415522,491298,3508,"Ewoud Pletinckx","starting_lineup","Central Midfield","24",1
+"9ccde6251f4eef5bed949d56a7124811","2013-12-22",2352029,185691,265,"Konstantinos Triantafyllopoulos","starting_lineup","Centre-Back","5",0
+"345530ba5050342a87099b6b8bb4bc8c","2016-12-18",2732144,187329,1184,"Sandy Walsh","starting_lineup","Left-Back","5",0
+"a82d68aea1a9efcaf97682d22483b45c","2023-04-01",3852741,566931,383,"Xavi Simons","starting_lineup","Left Winger","7",0
+"e1df6fc7b1f3c34482f36b4fe7831043","2013-12-15",2342387,13048,202,"Luciano","substitutes","Goalkeeper","26",0
+"8a4dde28d5ec657771f6c5924a10ba0f","2019-09-24",3252856,60050,11312,"Kevin Görtz","substitutes","Centre-Back","2",0
+"f5e563f0b33fb2aedeba817a2cae5e9c","2016-01-10",2609465,14137,1301,"Briguel","starting_lineup","Right-Back","21",1
+"d75b74c5220359be1a4b790db1e52b4a","2017-09-06",2911691,53332,2497,"Juan Forlín","substitutes","Centre-Back","5",0
+"bcd95e4d0f65a879242583f6384ad768","2016-09-23",2701658,170460,415,"Jessy Pi","substitutes","Defensive Midfield","25",0
+"d8ef4011ba9e2211670c36e828b51bd7","2018-10-27",3058487,249952,79,"Berkay Özcan","substitutes","Attacking Midfield","31",0
+"74ece936f6d30b0d37452edc0a079507","2021-11-27",3602301,539738,61825,"Oleg Gorin","starting_lineup","Centre-Back","25",0
+"4d98e69a26a083192c46747777b7e536","2015-04-12",2551368,38810,28095,"Denis Tumasyan","starting_lineup","Centre-Back","20",0
+"73a67f39d8793d5f2b94535da39d086f","2021-05-08",3427187,24316,6646,"Emiliano Viviano","starting_lineup","Goalkeeper","2",0
+"c0e356eb214e4103524f81267e63f645","2019-11-24",3210388,400537,369,"Adam Sørensen","substitutes","Left-Back","17",0
+"6ebfe6c2ca9c11a34f487913d3b6234c","2014-02-09",2340434,141050,1301,"Danilo Pereira","starting_lineup","Defensive Midfield","27",0
+"6b03cf6c755c43053a58cccf78806eee","2018-11-25",3079468,348795,150,"Giovani Lo Celso","substitutes","Central Midfield","21",0
+"64b84cb0b6e880a9c4a5eba823f8cec4","2018-08-20",3048437,93763,60,"Alexander Schwolow","starting_lineup","Goalkeeper","1",0
+"a0dde9953bf28772fc64c12009dc3477","2021-01-26",3507075,586232,4603,"Dimitrios Pinakas","starting_lineup","Attacking Midfield","17",0
+"32f9e797f26e81b7f23403427482dfbc","2013-10-27",2342347,167850,383,"Memphis Depay","starting_lineup","Left Winger","22",0
+"9e1f3e137c0769c4754ca15dff7e0255","2023-02-25",3852704,508642,724,"Ibrahim El Kadiri","substitutes","Left Winger","34",0
+"8e148ec30c4fcae17854df03b6b0499e","2014-11-09",2509349,24912,121,"Aleksey Kozlov","substitutes","Right-Back","25",0
+"7cc3209cfcf0c969aa24cb3424b0f608","2017-07-06",2866282,313569,21875,"Heidar Aegisson","substitutes","Right-Back","12",0
+"75fbc56365f5e777955e246ac250a224","2018-02-14",2981997,23914,583,"Lassana Diarra","substitutes","Defensive Midfield","19",0
+"7f2c6a67edcd069bed522494a53d24ca","2021-05-16",3450764,317593,202,"Patrick Joosten","starting_lineup","Centre-Forward","14",0
+"9c823388ed10dd9619f55bb9443a4424","2024-02-25",4109484,409884,2425,"Miguel Nóbrega","starting_lineup","Centre-Back","
+                  3
+                ",0
+"ceb84c1211173c884e412da98de75813","2021-09-18",3588919,469669,618,"Yvan Neyou","starting_lineup","Defensive Midfield","19",0
+"add178532aa28293e0fa01905d53007a","2019-08-03",3254885,340501,49939,"Federico Sottoriva","substitutes","Goalkeeper","1",0
+"936b7d8fbf8074475d09d2ab6f3b86b9","2023-03-05",3828531,796726,1063,"Renato Júnior","substitutes","Centre-Forward","11",0
+"604b0a0270ba4c0da36e766c64b1c495","2023-01-15",3869246,512913,720,"Stephen Eustaquio","substitutes","Central Midfield","46",0
+"07108c1f76d91c6f207768e0726cd150","2020-12-10",3462380,564545,15,"Edmond Tapsoba","starting_lineup","Centre-Back","12",0
+"cde828dd48c652f76c385567916da257","2017-03-04",2720960,3979,720,"Iker Casillas","starting_lineup","Goalkeeper","1",0
+"50f4daff89c31703345f176f81a57530","2023-04-30",3886657,348795,1050,"Giovani Lo Celso","starting_lineup","Attacking Midfield","17",0
+"5b4ffc33a9fc9af5171b97102b926017","2023-04-20",4041613,314367,336,"Marcus Edwards","starting_lineup","Attacking Midfield","10",0
+"79ff70379389c295b6f7342d2c1ec5d7","2018-11-03",3050268,59377,985,"David de Gea","starting_lineup","Goalkeeper","1",0
+"c3bda35a636c098473bb2aa1f13a92cd","2013-08-31",2341053,44027,1050,"Ikechukwu Uche","substitutes","Centre-Forward","8",0
+"aa20f7ab2536362ded512fd7aeea36e3","2015-05-10",2559103,34643,1186,"Dalibor Stevanovic","starting_lineup","Centre-Back","16",0
+"a410ead40ba66c343bccdd7a91480d8b","2016-04-10",2674393,57402,16704,"Charles Kaboré","starting_lineup","Defensive Midfield","77",0
+"082edf38d437020e28524a5ab3545c36","2019-08-08",3233031,203655,255,"Cafú","substitutes","Central Midfield","26",0
+"fdee90acd23fc19febec87ffee6cd9f5","2014-07-31",2479052,42345,416,"Giuseppe Vives","starting_lineup","Defensive Midfield","20",0
+"edc845d590da8c33efe56fa4fda7e20d","2021-08-22",3605055,623526,418,"Toni Fuidias","substitutes","Goalkeeper","40",0
+"7c3ede22cf4d5040288876a87d68abf9","2019-04-06",3081338,205006,12,"Rick Karsdorp","starting_lineup","Right-Back","2",0
+"74181da0035aef58c8c1c4e2e4e05ab7","2016-04-16",2581962,119031,24,"Kaan Ayhan","substitutes","Centre-Back","3",0
+"eb99f554ccb0b72460bdb955bc25ef51","2023-06-03",3845107,386552,380,"Lassana Coulibaly","starting_lineup","Central Midfield","18",0
+"4991ba85fd4b50084760f2333780fa2a","2018-12-05",3047614,111048,2969,"Benjamin Jeannot","starting_lineup","Centre-Forward","29",0
+"d416b4646f75c88426b4f83afb0cb170","2018-04-18",3028885,212260,11122,"Dmitriy Korobov","starting_lineup","Attacking Midfield","87",0
+"7cf82ca04173b2f683ece9a0e832bd43","2014-01-18",2331021,44045,1158,"Kévin Monnet-Paquet","starting_lineup","Left Winger","22",0
+"745c2995a178a38ab05cb64252f7c137","2015-08-15",2589253,147028,2381,"Ernestas Setkus","starting_lineup","Goalkeeper","13",0
+"c61ef3d7e17bcef3e79f4d3d5fc198fe","2019-11-03",3210376,269503,173,"Sander Svendsen","starting_lineup","Left Winger","10",0
+"0569dda7f47eae6d082d3b83d49c0238","2017-03-10",2726748,262523,5,"Davide Calabria","substitutes","Right-Back","96",0
+"783cd1a8b761f77322565d3370cc345f","2021-01-02",3432203,290391,336,"Nuno Santos","starting_lineup","Left Winger","11",0
+"91a550b7bb5bc4b955ab939032cac87a","2019-09-23",3203472,117674,82,"Maximilian Arnold","starting_lineup","Central Midfield","27",0
+"0bf29997229dd842db4ec3c78cc4fd4d","2020-03-16",3298477,177350,2696,"Evgeniy Frolov","starting_lineup","Goalkeeper","39",0
+"48f4176a81112e74be221817eb289e9e","2014-08-13",2481022,57530,511,"Thomas Konrad","starting_lineup","Centre-Back","4",0
+"dea5abf7e245277850b2b035ffc1f62e","2021-02-21",3394816,364239,1160,"Moussa Koné","starting_lineup","Centre-Forward","28",0
+"6d24c6e647f50fcd12e20946156c5826","2021-11-27",3682489,514024,3026,"Reece Lyon","starting_lineup","Central Midfield","10",0
+"a68ff393cdb80ccbefe94b8b749751ba","2017-02-26",2726730,332798,458,"Roland Sallai","starting_lineup","Left Winger","20",0
+"5b61962ec4e9a5533ade00d56fc40866","2016-11-06",2764494,31696,6418,"Dimitrios Koutromanos","substitutes","Right-Back","2",0
+"2ce4f03172fd8b044e7c79dc59c3fdbd","2022-02-07",3610320,34370,714,"Diego López","starting_lineup","Goalkeeper","13",1
+"fd53ab2db452cc798568ceddf3ae8483","2022-02-20",3588487,348026,23826,"Nordi Mukiele","starting_lineup","Right Midfield","22",0
+"01a5153df44838f07b46685388315cbc","2018-09-20",3098669,162446,853,"Patrick Stumpf","substitutes","Centre-Forward","21",0
+"b9c5da80ae4f57883a9169f3f59872b3","2019-09-20",3256797,281873,232,"Timur Akmurzin","substitutes","Goalkeeper","27",0
+"d6e920faa2761c68fa9810bf45bad936","2020-09-18",3431959,415646,3329,"Bruno Jordão","starting_lineup","Central Midfield","66",0
+"d23f07178bcce57cec419d2012583c53","2014-05-03",2342552,112935,1304,"Mark Uth","starting_lineup","Centre-Forward","18",0
+"0e39adfc131d17e302b2bfce2ca7c6b1","2014-05-02",2335774,95649,6414,"Oleksandr Noyok","substitutes","Central Midfield","88",0
+"f07c2197cd4b9551417c97484db86c1d","2018-09-16",3047472,170509,1160,"Baptiste Valette","substitutes","Goalkeeper","1",0
+"a90fd381194a7043794ed3e1f8bfdc10","2017-10-19",2919852,30749,1050,"Mariano Barbosa","starting_lineup","Goalkeeper","25",0
+"2f52396e87b8fd431db1555df5fd7e0a","2014-04-05",2331127,44417,14171,"Cédric Mongongu","starting_lineup","Centre-Back","21",0
+"ad5dc20e4b491e3bccba023a3b7be97d","2022-07-12",3837929,94297,33783,"Tomislav Saric","starting_lineup","Central Midfield","24",0
+"c5441e472344c5f1cf609d4c008492ee","2024-03-12",4243697,462250,131,"João Félix","substitutes","Second Striker","
+                  14
+                ",0
+"f8976703f71517fe572699cb6cb96aaa","2021-02-11",3517370,529747,349,"Clarke Oduor","substitutes","Left-Back","22",0
+"fa34f90f4ef91260ee70fcce786d6f77","2016-11-27",2731816,208469,2477,"Volodymyr Kostevych","starting_lineup","Left Midfield","8",0
+"d32e93922a5d58dfedf94a514f49a84d","2018-01-23",2975506,45594,1191,"Tom Taiwo","starting_lineup","Defensive Midfield","7",0
+"ac6ba3a74174db684be1f5f58257e7e7","2015-02-14",2460809,5072,3,"Thomas Kessler","substitutes","Goalkeeper","18",0
+"fc0e9061c447533840b1eea65982cbaa","2021-02-27",3451182,51174,368,"Fernando","starting_lineup","Defensive Midfield","25",0
+"a3dd05b2bbf1b8e0302d9bfac8267388","2013-10-31",2370542,216662,1435,"Deniz Türüç","starting_lineup","Attacking Midfield","8",0
+"f20a7ca42dd61ee15bb3d260721c0cde","2013-12-08",2382248,298197,1049,"Antonio Sivera","substitutes","Goalkeeper","38",0
+"05bdc82dc1741404bb869bef3f77a5d4","2023-05-28",3852800,258511,133,"Michael Breij","substitutes","Attacking Midfield","14",0
+"f7fa8535a4a9a11337ba162af94f5ecf","2022-05-11",3592307,291739,1123,"Milot Rashica","starting_lineup","Left Winger","17",0
+"4c40f10bae99a75236ffe2fb3bdda2b4","2022-10-09",3851154,740615,1245,"Isaac Nuhu","substitutes","Left Winger","7",0
+"3dd1f1a40d6aa4bfb83d15ec0ce84edc","2017-08-19",2891423,349890,6676,"Dudu Lima","substitutes","Defensive Midfield","2",0
+"54ac98272a94d3d910b5d5cc4be8dd31","2021-03-20",3415510,352017,601,"Faïz Selemani","starting_lineup","Left Winger","10",0
+"1bb959fc6b0254d42040155e4388f322","2021-07-08",3583504,119265,6170,"Jesper Brinck","starting_lineup","Left-Back","5",0
+"05b6f9e2abdc9333f4e32e657550c800","2021-05-02",3433515,205938,800,"Mario Pasalic","substitutes","Attacking Midfield","88",0
+"0c09e0b36df3166eb75002208d3d60b4","2019-12-05",3246411,528181,130,"Edoardo Corvi","substitutes","Goalkeeper","40",0
+"a58a6fae4b3e3a321a9ff7811fdaa4b4","2022-12-01",3963027,663244,2420,"Jota Silva","starting_lineup","Left Winger","11",0
+"41561732cc05f2519e139777c6185b13","2019-02-24",3081278,200056,6195,"Elseid Hysaj","starting_lineup","Left-Back","23",0
+"5aff71f89d0114034a27714ad2d701bc","2014-10-29",2478675,205677,1429,"Luca Garritano","substitutes","Right Winger","61",0
+"aae7fd45d01a90aaf92b0826e9b407f9","2019-11-10",3274530,98533,3729,"Maksim Belyaev","starting_lineup","Centre-Back","6",0
+"6ec2cc68e192589e748ab145c54d5360","2020-10-18",3450605,571743,499,"Armando Broja","starting_lineup","Centre-Forward","11",0
+"bacccb62a0f4a630f58f0e67567a3125","2016-11-26",2697633,62471,5817,"Nicolaj Madsen","starting_lineup","Central Midfield","10",0
+"4d1bd53c19c090e473fdf25b393a14b7","2023-05-13",3838617,249089,989,"Lewis Cook","substitutes","Central Midfield","4",0
+"e8de72fea05b887c584cacae5c3e99ab","2017-05-14",2719077,165012,1084,"José Rodríguez","substitutes","Central Midfield","25",0
+"3477ebc4755520f93e3635ae5e5df2eb","2020-07-07",3389765,294746,338,"Volodymyr Shepelev","starting_lineup","Central Midfield","8",0
+"08632a41435809f89c5edb8e25830395","2021-10-02",3597889,491292,467,"Ilias Bronkhorst","substitutes","Right-Back","2",0
+"9d6481ce8304008181f83da1045255aa","2022-11-13",3844881,357164,5,"Rafael Leão","starting_lineup","Left Winger","17",0
+"532d84a421db7907d69033a16af3aafb","2013-09-14",2384487,132683,9083,"Vangelis Reklitis","substitutes","Central Midfield","-",0
+"d7d55cb8cde3e7f5351b06bed98a82ca","2022-07-27",3871438,322065,496,"Dennis Hadzikadunic","substitutes","Centre-Back","21",0
+"69ed957395e12220be7d7a907c9766a7","2020-01-01",3219272,14555,281,"Scott Carson","substitutes","Goalkeeper","33",0
+"7357febe4e31da3fd0d439a8f9868b2a","2018-04-29",2899866,249730,1108,"Guillermo Maripán","starting_lineup","Centre-Back","6",0
+"e92ab5506e13da996de91b5ada3ce7e6","2022-07-16",3842704,424121,232,"Pavel Maslov","substitutes","Centre-Back","39",0
+"66ffe02a972fda086d1380bf7fefbab0","2015-09-14",2620446,34643,11126,"Dalibor Stevanovic","starting_lineup","Defensive Midfield","16",0
+"1ec4f380f3ba9088986203470f2f2059","2013-11-30",2379565,43533,3001,"Iain Russell","starting_lineup","Left Winger","11",0
+"f6aa11d46a904068e59c7843f169f053","2018-04-07",2942868,131101,1416,"Stiven Mendoza","starting_lineup","Left Winger","27",0
+"38e66a91cbbc567c3d5a68cb29d950a2","2014-03-08",2332181,60889,603,"Gary Medel","starting_lineup","Defensive Midfield","8",0
+"5ff90174382571b6be36f1dd21ead73a","2016-07-26",2724814,84438,663,"Mathias Coureur","substitutes","Left Midfield","19",0
+"2fbb5ae4960db208989e072726bafb9a","2019-05-05",3180406,168527,121,"Igor Leshchuk","substitutes","Goalkeeper","31",0
+"72272f177a9bf83aa3085c06833c9fe6","2017-01-28",2720918,340950,720,"Diogo Jota","starting_lineup","Second Striker","19",0
+"70a4da11c8416242b7ce0f5c2d44153c","2018-01-07",2984218,332338,379,"Vashon Neufville","substitutes","Left-Back","44",0
+"8eb73f3ece4df632b6ad24f01718a09b","2018-10-28",3118253,289643,932,"Roman Tugarev","substitutes","Right Winger","67",0
+"9d111ddc024fd9ec0802d92c65462301","2019-09-03",3250266,379660,40804,"Michael Broni","starting_lineup","Attacking Midfield","7",0
+"a076618028a4d9307c834adb2cf6eae1","2024-02-17",4096157,369674,82,"Joakim Maehle","starting_lineup","Left-Back","
+                  21
+                ",0
+"2b2add279cfce616c2a92a0af2212a2f","2020-11-27",3485553,3655,1074,"Joe Murphy","substitutes","Goalkeeper","13",0
+"5872b9a8e3162c592036a7e36193d713","2013-10-25",2329842,42731,157,"Hervé Kage","starting_lineup","Right Winger","11",0
+"9f0a7d4e4e35c146888724af3433da4f","2020-11-26",3462334,236956,1050,"Soufiane Chakla","substitutes","Centre-Back","22",0
+"333dee26c2bc6e35791289d8d33c15c3","2021-08-25",3601588,341901,1328,"Ikrami Olatunji","starting_lineup","Centre-Back","5",0
+"ee43aa2996063426b448a8e9eab4ac0f","2013-09-01",2350380,46220,2288,"Pablo Hernández","starting_lineup","Right Winger","11",0
+"e5958231f32ae0ff950372c2ecc9ac6e","2014-04-16",2425890,85288,418,"Isco","starting_lineup","Central Midfield","23",0
+"13fb8aa95f955213c9892cf08f165886","2020-12-06",3426894,238500,126,"Dario Melnjak","starting_lineup","Left-Back","53",0
+"2994cf06894a5395b905646ebfdfd31a","2021-11-20",3592034,551001,31,"Owen Beck","substitutes","Left-Back","63",0
+"5b7525317d64fa158ffe1b8be1532fff","2019-03-10",3140023,216463,601,"Imoh Ezekiel","substitutes","Centre-Forward","39",0
+"eaf7fd411c07263307e72b9d57dec52a","2016-01-24",2646175,189047,2999,"Lucas Tagliapietra","starting_lineup","Centre-Back","44",0
+"c3653342f654ce2446565106f56c1cfc","2017-08-24",2905734,96047,941,"Lukas Hejda","starting_lineup","Centre-Back","2",0
+"d8f52124337428367295d0d495140914","2015-02-21",2486721,28336,873,"Mile Jedinak","substitutes","Defensive Midfield","15",0
+"1f64ddb00dec423a91ae15cea13d52d1","2017-10-25",2933610,104511,2696,"Alan Chochiev","starting_lineup","Central Midfield","9",0
+"523aeadad5cd0058e736184a7d8f3aca","2019-02-03",3081245,163639,430,"Federico Ceccherini","substitutes","Centre-Back","5",0
+"8e5129920aa95eb6486c45a978483416","2020-07-22",3335190,379634,41201,"Aleksey Gritsaenko","starting_lineup","Centre-Back","27",0
+"624942d0ae74caafb2ce8a0dd55262f1","2024-02-10",4279376,866501,8933,"Will Gillingham","starting_lineup","Centre-Back","
+                  6
+                ",0
+"dbd8c4adac9a67a90e7a9d592d3ff86a","2020-09-18",3451669,59084,1091,"Fernando Varela","starting_lineup","Centre-Back","5",1
+"8b614204d20ffa8c2c37303ba1c04ccd","2014-11-08",2507153,158330,988,"Tyrone Barnett","substitutes","Centre-Forward","27",0
+"8d534003f0573f0f1aecb940c98c903e","2015-08-30",2581239,50691,5724,"Kasper Fisker","substitutes","Central Midfield","16",0
+"57aa65ddf43e5d401da80c993e46306b","2021-01-06",3433340,294808,5,"Franck Kessié","starting_lineup","Defensive Midfield","79",0
+"9065635e2f5b950fb5fa12a47e8a4f41","2017-05-21",2847914,58568,2698,"Ruslan Kambolov","starting_lineup","Centre-Back","88",1
+"482c5f7e5f734fd62bdf9fa31dca59cc","2014-02-01",2330999,183494,995,"Issa Cissokho","starting_lineup","Right-Back","22",0
+"bdf3658ab62d325549129f77c671a2ed","2021-09-22",3614565,339808,5,"Theo Hernández","substitutes","Left-Back","19",0
+"5ad7bcf40fdcf6bd79c35a32e5896d3d","2019-02-22",3140007,338672,3057,"Zinho Vanheusden","starting_lineup","Centre-Back","3",0
+"00a923671d0c25bee3ec4362fc5cfcda","2020-01-26",3302912,59631,58,"Nacer Chadli","starting_lineup","Attacking Midfield","19",0
+"fc70c50bd1eca0c33ea201dc9e38cf0c","2017-11-04",2949841,346270,3694,"Aaron Simpson","starting_lineup","Right-Back","2",0
+"f2c2f112a887f51ebc74623589034155","2024-03-06",4295482,275303,800,"Hans Hateboer","substitutes","Right Midfield","
+                  33
+                ",0
+"659c2ddb3a8ee241a0a82abce78837ce","2022-10-28",3944838,755174,10690,"Danyil Alefirenko","substitutes","Left Winger","91",0
+"264828cc860e0d7f4490bc445069d640","2021-03-14",3451206,178425,621,"Dani García","starting_lineup","Central Midfield","14",0
+"f8dbf931aae0fbebe21dc873896ed921","2024-02-24",4098981,273455,54189,"Felipe Abner","substitutes","Left-Back","
+                  26
+                ",0
+"245898f33312045d27511ba332c50c71","2021-08-15",3612840,110708,6890,"Fredrik Gulbrandsen","starting_lineup","Centre-Forward","22",0
+"15b200705ecd32f60c4bc6315867dadb","2020-11-20",3420676,312799,48726,"Vadym Paramonov","starting_lineup","Centre-Back","67",0
+"5497944c3d408384b2514dc5b26a2554","2018-04-14",2884077,78798,11282,"Mbilla Etame","substitutes","Centre-Forward","9",0
+"886276d149ae43532a250574d860e265","2018-12-09",3069508,164015,2420,"Pedro Henrique","starting_lineup","Centre-Back","2",1
+"3f685585f97992c3dfd3cd60894ef4a5","2017-04-05",2698337,81801,873,"Chung-yong Lee","substitutes","Right Winger","14",0
+"ae487e20f87a3edefa9e4d4b0a20fba4","2021-11-21",3589201,684062,3911,"Hianga'a Mbock","substitutes","Central Midfield","28",0
+"a86125ca200e069c319869bec177a658","2018-04-22",2872462,31642,512,"Geoff Cameron","substitutes","Centre-Back","20",0
+"7dae3ffe048ed5f64205b15b79bdf0e9","2018-07-30",3072952,340902,11125,"Kirill Saraev","starting_lineup","Centre-Back","3",0
+"95aa529fb39dacc6e6cf58e76214e4e5","2016-04-24",2578280,40043,2288,"Leon Britton","starting_lineup","Defensive Midfield","7",0
+"86b0a07c02a110c39db1b06cdb9f540a","2018-10-03",3106419,202732,9023,"Mathias Pedersen","substitutes","Central Midfield","8",0
+"1ccd42eab776bafc0c42c409e7c7cda2","2024-01-31",4098858,595650,172,"Nikola Stulic","substitutes","Centre-Forward","
+                  19
+                ",0
+"e32719ccf0939e72eeaf8510fb8943ee","2019-08-21",3245898,192327,71985,"Evgeniy Dudikov","starting_lineup","Defensive Midfield","20",0
+"b35b7584cede4e42ebaa58bddff069ec","2015-03-21",2537239,277506,3729,"Rinat Timokhin","substitutes","Centre-Forward","20",0
+"0d730c040ebb1f514df2bb5c9f950bb5","2016-09-21",2759009,288854,4128,"Sékou Condé","starting_lineup","Centre-Back","6",0
+"79f9fd81daab9ba46580897a8aa997ee","2015-08-08",2586771,60558,417,"Maxime Le Marchand","starting_lineup","Centre-Back","20",0
+"4d68ea022a82d0d092dde1d5d795a032","2023-04-27",3838650,258889,989,"Dominic Solanke","starting_lineup","Centre-Forward","9",0
+"cb8f7b8d50ef3c4597796f2f2ae3879e","2022-08-27",3860186,390695,24245,"Allyson","starting_lineup","Centre-Back","33",0
+"026774c364bb9d2e4d09d5eddfd75827","2015-12-17",2630734,348519,7185,"Georgios Tzelepis","substitutes","Goalkeeper","77",0
+"81b9361b9b26fbb318c29d98358abf50","2016-02-25",2646020,125165,720,"Jesús Corona","substitutes","Right Winger","17",0
+"cb5708c0455aa8a3d68793ff0da34e9d","2023-05-13",3838616,29241,631,"Thiago Silva","starting_lineup","Centre-Back","6",0
+"d4a12d2b225a119d897f1aa5dcfa7599","2023-03-05",3860377,260330,2293,"Cebrail Karayel","substitutes","Right-Back","90",0
+"b5f5182e731e5d39c4087c0b1fc178fa","2016-12-03",2704365,56435,4795,"Roger","starting_lineup","Defensive Midfield","8",0
+"1a7d8844e3b0a5130d728a2093a72e8e","2014-08-08",2483938,47152,2439,"Gigel Bucur","substitutes","Centre-Forward","11",0
+"3f092cd468d1a54681f42200f8acfcdb","2016-01-23",2653890,27245,498,"Jajá","starting_lineup","Second Striker","70",0
+"8165eb983e89438b7fe88e5c82b9cc9f","2017-03-19",2722810,330876,20,"Kubilay Kanatsızkuş","substitutes","Centre-Forward","18",0
+"081986d2c2c2528f9239c546a37ebe90","2014-03-20",2437607,245537,148,"Nabil Bentaleb","starting_lineup","Defensive Midfield","42",0
+"0c362fd9894bb29027f3612587aefc74","2018-07-28",3059812,156722,232,"Marko Petkovic","substitutes","Centre-Back","3",0
+"f0a78b1fbbc2283cc1b1f26b2bee98e8","2013-11-02",2334948,14678,43,"Ryan Stevenson","starting_lineup","Centre-Forward","7",0
+"3759db80e3d531de597b4dabb20ef7a5","2020-08-22",3409236,104700,3719,"Ilya Kukharchuk","substitutes","Right Winger","44",0
+"e0eb0129db5c2ee76878da05bb6d746f","2021-09-28",3651064,225693,31,"Fabinho","starting_lineup","Defensive Midfield","3",0
+"d28585000f355169dcaab324bbc53720","2014-12-21",2512789,187798,2282,"Sokratis Dioudis","substitutes","Goalkeeper","13",0
+"39c3e9d57e551c06f7e9bb33d5b6a760","2013-08-31",2321067,42460,82,"Ivan Perisic","starting_lineup","Left Winger","9",0
+"3c4e6398dd2c94850f743c1b3f064de6","2019-08-18",3211343,564545,2420,"Edmond Tapsoba","starting_lineup","Centre-Back","6",0
+"3255288690202c1efb7b5b6ad18d72be","2013-10-31",2370545,271584,1426,"Selman Sevinc","substitutes","Central Midfield","29",0
+"ebe8834306e91737c605ee2486ac56bc","2016-04-27",2609814,57358,1420,"Arnold Bouka Moutou","starting_lineup","Left-Back","3",0
+"56146693abe964319bc597908ee0c37c","2015-01-11",2475353,15951,131,"Dani Alves","starting_lineup","Right-Back","22",0
+"cb7739302ed36437e40f8412d2d7da92","2017-12-01",2897443,327326,2722,"Giacomo Poluzzi","substitutes","Goalkeeper","17",0
+"d7c2e7ec8f421126af4e1030140885d7","2013-10-19",2359276,62415,1627,"Panagiotis Tachtsidis","substitutes","Defensive Midfield","7",0
+"87118efc36a713c8244c4ed93d9c8293","2019-08-17",3232148,234972,817,"Jorn Wagener","substitutes","Goalkeeper","22",0
+"fd1f349e6691059a72ba850932872803","2015-09-13",2594494,44073,1533,"Adrián González","starting_lineup","Attacking Midfield","24",0
+"01479adbdf3e1c0e2e3f240ee5c40b25","2018-08-11",3052111,65256,798,"Ryan Koolwijk","starting_lineup","Central Midfield","8",1
+"917139d7dfba72820514afa29609461c","2020-11-27",3415355,128897,172,"Saido Berahino","substitutes","Centre-Forward","38",0
+"cc876caf31b68d3818ea204fe1c48f97","2021-10-23",3612924,587726,2832,"Burak Bozan","substitutes","Goalkeeper","71",0
+"9d16dc847ce471fede59e75e9df0e550","2016-12-18",2704434,80031,4795,"Darío Lezcano","starting_lineup","Centre-Forward","11",0
+"3b4a3c37791fd68327c947d6c662af37","2016-05-20",2581383,237436,173,"Mathias Greve","starting_lineup","Right Winger","21",0
+"ecee65f809ea5ff9f8e0ba16185caf3a","2018-05-13",3031057,55369,932,"Guilherme","substitutes","Goalkeeper","1",0
+"8b22705ceec816d59dc411368ddd4935","2021-01-09",3433349,294808,5,"Franck Kessié","starting_lineup","Central Midfield","79",0
+"69065620ec66baae6226f8ddc28e9880","2018-05-07",2884107,65521,1467,"Milos Kosanovic","starting_lineup","Centre-Back","33",0
+"36ef0412231d3a7e0cfedfb88e43283e","2019-08-07",3232461,113872,540,"Mitch Apau","substitutes","Centre-Back","2",0
+"e7ae7bcc0706974e69cfdc4cdc68d326","2018-08-02",3076903,517894,23826,"Matheus Cunha","starting_lineup","Centre-Forward","20",0
+"2381adcf6b539b0bad0084a3d4e1cb04","2017-08-27",2883690,216827,820,"Jaílton Paraíba","substitutes","Left Winger","77",0
+"f7920be04d0f4278b702102c8215a023","2024-03-09",4289338,931102,2553,"David Watson","starting_lineup","Right Midfield","
+                  12
+                ",0
+"6b37b9814bab3a9c9caf0269f8ea956e","2019-12-15",3210410,307098,5818,"Kerim Memija","substitutes","Right-Back","7",0
+"81c4c7ff3f15464042d1f3f1ef6b2c7f","2022-10-20",3909934,673998,11127,"Yuriy Zheleznov","substitutes","Right Midfield","14",0
+"d3541aed4c918b20104396543443c530","2016-04-06",2636500,316945,16247,"Maryan Mysyk","substitutes","Left Midfield","88",0
+"2d2a318c6c1bb4e27b1a6aa459391123","2021-01-27",3400495,342047,1241,"Jack Fitzwater","starting_lineup","Centre-Back","5",0
+"dcb971ec5199ef4782eea7a54a86d6eb","2015-05-03",2475520,33210,1531,"Przemyslaw Tyton","starting_lineup","Goalkeeper","25",0
+"1afdcebd530a621394c23b83f3b854ea","2020-11-26",3462337,374954,419,"Kristijan Jakic","starting_lineup","Defensive Midfield","97",0
+"d49e693f3bef0e13ee55fe43e681c894","2016-03-19",2581938,261905,39,"Suat Serdar","substitutes","Attacking Midfield","45",0
+"1bec0697780d410c39f10a574c526737","2022-10-08",3925897,465408,964,"Nuraly Alip","substitutes","Centre-Back","28",0
+"801f499db7fcaa617a5a476f15ce2738","2014-09-21",2469954,98631,2293,"Recep Aydın","substitutes","Attacking Midfield","17",0
+"8e5c3fee44dcefe04bf76cd4f139b580","2022-11-12",3949571,197122,331,"Unai García","substitutes","Centre-Back","4",0
+"97a1389e21e5c225c01fc48e5d702fe2","2022-02-06",3589364,203761,3524,"Vital Nsimba","starting_lineup","Left-Back","12",0
+"a867ea9e127c5d866e3ab9ec6bb38528","2016-12-13",2803326,146488,991,"Samir Carruthers","substitutes","Central Midfield","7",0
+"7f3a4af2e07a4fa40ecd08ae6806fa2c","2022-03-12",3592165,69633,1148,"Christian Eriksen","starting_lineup","Central Midfield","21",0
+"bf8c2276b5b4bbcb096dd9c01f68170f","2019-12-18",3291619,280379,2407,"Luis Cárdenas","substitutes","Goalkeeper","22",0
+"89de2b917e7126e1c98f47259379553d","2020-07-26",3229517,391498,12,"Mert Çetin","substitutes","Centre-Back","15",0
+"feaade2e5614fbd0a07ca774e2cac7c6","2024-03-02",4098193,604813,235,"David Min","starting_lineup","Centre-Forward","
+                  9
+                ",0
+"14cfa4c9c99bdc3010ae895a88138f43","2019-07-11",3205094,119108,30686,"Gheorghe Andronic","starting_lineup","Attacking Midfield","10",0
+"47da77c3ccf541b8c2bfd56fdecf626a","2015-02-18",2494461,30379,5220,"Kaspars Gorkss","starting_lineup","Centre-Back","25",0
+"dc9f870fcdbb7a355ac9116ef83df47a","2020-07-08",3210118,341278,1050,"Iván Martín","substitutes","Attacking Midfield","30",0
+"cf9c845a75413e5790a1a44d651689d1","2016-10-15",2732163,125754,1184,"Sébastien Dewaest","substitutes","Centre-Back","6",0
+"db753f2c0741b78697cbfa484fc5b0d4","2014-03-27",2447536,92248,1053,"Nicolai Larsen","starting_lineup","Goalkeeper","1",0
+"c202bef476fa664162c136d532c6985d","2013-08-17",2346008,2587,10484,"Elyasa Süme","substitutes","Centre-Back","49",0
+"16269a2a98d11ab78e8b0335b67509bf","2019-10-20",3201291,91347,43,"Aidy White","starting_lineup","Left-Back","3",0
+"87401825ee7cfefb24e424e875d5855d","2021-10-18",3580236,102134,1053,"Kasper Kusk","substitutes","Right Winger","17",0
+"b89c1c0aa4553c5cefb03fcf4d1d3a0b","2013-11-02",2341250,46215,366,"Javi Guerra","starting_lineup","Centre-Forward","9",0
+"a6ea3d689d6b854b18af67dc9aa4c432","2020-02-14",3210420,73417,190,"Sten Grytebust","substitutes","Goalkeeper","13",0
+"1626dace73a53af6e4cd33966e3a58da","2017-11-24",2872033,193004,42,"Waldemar Anton","starting_lineup","Centre-Back","31",0
+"694868bc04b14a150358297330b3c3a6","2024-01-30",4095286,520624,762,"Bruno Guimarães","starting_lineup","Defensive Midfield","
+                  39
+                ",0
+"905782fbe0096f3975cfa706532be042","2015-07-23",2592009,218233,1058,"Fredrik Oldrup Jensen","substitutes","Defensive Midfield","20",0
+"ee0e8065b7ce52a17c86f39c3a842698","2016-02-21",2609735,39910,618,"Stéphane Ruffier","starting_lineup","Goalkeeper","16",0
+"392bd34b29a02246f32f50a83b290b4d","2016-04-29",2613682,83757,1085,"William Alves","starting_lineup","Centre-Back","22",0
+"0e5eb11edda6bf9fccada8c2045ac264","2013-11-03",2341241,96718,621,"Óscar de Marcos","starting_lineup","Right Midfield","10",0
+"303b1a0ab6eaa29d6b903cb46f40c2b9","2021-07-21",3584514,457184,6621,"Marko Rakonjac","substitutes","Centre-Forward","7",0
+"f44f5bfce0bd5d4c827161d11dba8937","2018-04-14",3027730,343870,964,"Dmitriy Pletnev","substitutes","Left Winger","49",0
+"bea5f1d1c8b5ca9ea9286692a1215ca5","2022-10-23",3886362,238868,331,"Rubén Peña","starting_lineup","Right Winger","15",0
+"a0fbe8291c22eac0ecd1ed5368688fa8","2013-12-05",2384503,232593,5572,"Nikolaos Anastasopoulos","substitutes","Defensive Midfield","18",0
+"ca5a5bae1a6b2492b86a28ce939f1f98","2023-01-07",3974036,530736,1034,"Keyendrah Simmonds","substitutes","Centre-Forward","21",0
+"e5eb99677dbbf342c707eb65e17d7036","2021-08-26",3645042,662131,449,"Ahmetcan Kaplan","substitutes","Centre-Back","70",0
+"e775375327f674f6187a1bbcfc6f724a","2019-09-29",3244638,122088,10690,"Artem Gromov","substitutes","Left Winger","28",0
+"3b47a853c5c0c9f4f9aa3f8a53c27a45","2017-12-07",2919923,366450,10690,"Iury Castilho","starting_lineup","Second Striker","95",0
+"8252cf1241378b948ee889ce209b7035","2018-11-30",3122164,207528,2698,"Vyacheslav Podberezkin","starting_lineup","Attacking Midfield","7",0
+"759b5ef34000b5f4d34b882785250d26","2015-08-30",2611508,58018,265,"Nano","substitutes","Left Midfield","21",0
+"fb3321e636a006c45de87eb2ba94e483","2020-06-13",3203706,170986,16,"Raphaël Guerreiro","starting_lineup","Left Midfield","13",0
+"c453b370efcda266a9fdca8a97984b8a","2020-01-26",3223181,33793,114,"Gökhan Gönül","substitutes","Right-Back","77",0
+"ee5d777ed3f67f4bbd7187231e1f0260","2019-05-04",3069978,209993,126,"Mohamed Abarhoun","starting_lineup","Centre-Back","33",0
+"8f6fb1fe3fa52885c25b50ac489dacd4","2022-02-05",3731379,133668,2671,"Panagiotis Triadis","substitutes","Left Winger","7",0
+"3cd37fdbb8eafacf83a1dda7460b7e94","2015-08-24",2594477,158849,1533,"Jon Errasti","substitutes","Central Midfield","8",0
+"b1c23dc14d967c43eb9a426f5c0605cc","2016-11-24",2765898,224884,33,"Abdul Rahman Baba","starting_lineup","Left Midfield","14",0
+"87c3e8763d08fc6fb4994b962840ef06","2019-08-15",3233028,93795,714,"Facundo Ferreyra","substitutes","Centre-Forward","9",0
+"1da8b57311cc8d06c7842267aa8c1e19","2018-05-05",2872483,74960,762,"Martin Dúbravka","starting_lineup","Goalkeeper","12",0
+"a9fe6bc751ec2c99c45739fc5b6447c3","2021-05-06",3432229,280239,7378,"Seung-woo Lee","substitutes","Attacking Midfield","90",0
+"81391e7fc0778827418b1b5b3b140d0e","2020-02-16",3229402,203412,130,"Andreas Cornelius","starting_lineup","Centre-Forward","11",0
+"a2e9f5b81f223d4b7217a1800aa24f51","2017-09-24",2883875,274802,10484,"Samuel Eduok","substitutes","Right Winger","11",0
+"d1adaf99c0a961dc191f92826c75f6ea","2017-10-25",2914250,260053,86,"Jiri Pavlenka","starting_lineup","Goalkeeper","1",0
+"27bd4fb194e0b77058252c42a9e92df2","2015-09-29",2618559,5658,11,"Petr Cech","substitutes","Goalkeeper","33",0
+"31f4cf9380916ae9ad8b3d7ee99e4148","2021-04-04",3415515,417278,3057,"Arnaud Bodart","starting_lineup","Goalkeeper","16",0
+"21cec586a3ba9b157036e7da4918632b","2014-11-23",2460730,31159,79,"Martin Harnik","starting_lineup","Right Winger","7",0
+"933d8ab3972f4c08179fc030e6c1ad20","2021-03-13",3522853,38801,3729,"Evgeniy Lutsenko","starting_lineup","Centre-Forward","48",1
+"f24a2c2bbad05110d42e52da0eda0992","2021-08-18",3602205,59322,338,"Oleksandr Karavaev","starting_lineup","Right-Back","20",0
+"06463bf1044843f86f0fcbf66eedda36","2017-04-04",2698349,28990,512,"Charlie Adam","starting_lineup","Central Midfield","16",0
+"f895a9c1a7d0ddd822506cc240a771f1","2015-04-25",2557596,9161,2553,"Sammy Clingan","starting_lineup","Central Midfield","8",0
+"68031ea9cd19f63677fc6ac722a1242f","2015-01-18",2494479,17976,6418,"Anthony Scaramozzino","substitutes","Centre-Back","17",0
+"30cf73114de76cc942033dfc8d8e058b","2014-09-23",2487324,77314,24201,"Robin Söder","substitutes","Centre-Forward","27",0
+"639e42abadc7be4a962cebfe548c4a7a","2016-10-14",2728523,141650,2451,"Larnell Cole","substitutes","Right Midfield","29",0
+"6efc915d2dc8d011247a1beee023dab2","2019-09-15",3237925,333355,157,"Milad Mohammadi","substitutes","Left-Back","15",0
+"1e5852f1a9e64d70817f98f95cc41763","2020-09-13",3402195,273432,468,"Mohamed Rayhi","starting_lineup","Centre-Forward","11",0
+"3ead5404e210eb28de5fc5c3e8e99118","2021-08-28",3588834,98349,618,"Romain Hamouma","substitutes","Centre-Forward","21",0
+"27ecab8c1299b8c486dbe68a2795d651","2020-06-20",3203725,21175,44,"Vedad Ibisevic","substitutes","Centre-Forward","19",0
+"0e91c9a5fcbfc0ba68091ef433bf07a9","2016-03-13",2606531,251099,141,"Volkan Pala","substitutes","Centre-Forward","34",0
+"ae86aa0012a3abfe301cd37000fab178","2022-10-18",3935071,495669,3892,"Lamine Diaby-Fadiga","substitutes","Centre-Forward","9",0
+"b761c3ba21759ba9452df19513ee424f","2013-08-13",3288673,155285,3834,"Artem Fedorov","substitutes","Goalkeeper","16",0
+"b94cd5bd6718334f9572deb560e420c1","2020-03-07",3219113,50201,873,"Christian Benteke","starting_lineup","Centre-Forward","17",0
+"868b67035e55f07f5727efe8ab0005de","2015-11-08",2604089,105892,862,"Lucas Castro","starting_lineup","Central Midfield","19",0
+"9183d57081f8ca5a780872b1228d018f","2020-03-03",3322356,99397,762,"Karl Darlow","starting_lineup","Goalkeeper","26",0
+"edbd3d167e69475cced6cc72416c3326","2020-02-29",3280872,255450,932,"Aleksey Miranchuk","starting_lineup","Right Winger","59",0
+"1b28c7e5b9004a82d5cc3c97501c0807","2019-10-26",3244667,495920,60551,"Oleksandr Nazarenko","substitutes","Left Midfield","29",0
+"94964d6ad127f949c5da18921aa499cf","2022-05-22",3592241,29712,543,"John Ruddy","substitutes","Goalkeeper","21",0
+"3bbae4d4313bb9da5bbf1c2bca2a2dc4","2019-03-03",3069921,278654,141,"Emre Akbaba","substitutes","Attacking Midfield","20",0
+"899e977146e04298a7eb359ff89922ac","2017-08-26",2883661,155396,7179,"Cláudio Ramos","starting_lineup","Goalkeeper","1",0
+"047064314a9e86beecfd820ed8a11a2f","2013-08-25",2351899,61883,28956,"Andrew Hogg","substitutes","Goalkeeper","17",0
+"faebc93b054571e3134dfe6f69340a47","2019-12-21",3255933,243779,10140,"Adriano Castanheira","starting_lineup","Left Midfield","7",0
+"56b0378925b4558727cb8b52f59b5ae9","2022-08-09",3889185,216533,602,"Fabien Ourega","starting_lineup","Left Midfield","92",0
+"f94a0ceff34d396c9a4979af6a261cf8","2016-08-20",2720766,13147,2420,"Moreno","substitutes","Centre-Back","6",0
+"a6604e18f49b48eade7e7493bc8bbcbc","2021-03-21",3420962,282734,338,"Gerson Rodrigues","starting_lineup","Right Winger","22",0
+"4a7da12c4f50dfd0c48e2b9da3ec4c54","2021-02-12",3415465,226288,601,"Lucas Rougeaux","starting_lineup","Centre-Back","6",0
+"e1cef5e0a5bd44d9aeda67dd2de6808e","2017-01-22",2718890,246277,2448,"Burgui","substitutes","Right Winger","14",0
+"0f21e3a3759721da47dfde489eb1bc5d","2014-03-01",2334978,130729,2553,"Craig Slater","starting_lineup","Central Midfield","28",0
+"307b02bc8bbf79df24bdfe73cfeaf4f0","2019-03-02",3133949,127074,11127,"Petrus Boumal","starting_lineup","Defensive Midfield","13",0
+"d798ca1aef8e6d12d5c9676851798c81","2015-09-27",2604029,47085,430,"Nenad Tomović","substitutes","Centre-Back","4",0
+"6772c680a6cf6b739ca0f67bf436b137","2017-10-19",2919839,213976,10690,"Igor Kharatin","starting_lineup","Defensive Midfield","8",0
+"ff74014fbc1738b58c462244363da612","2019-08-03",3210297,273973,5817,"Nicholas Marfelt","starting_lineup","Left-Back","18",0
+"fb20fb2503fe8faf5f13928c38439232","2018-02-03",2987583,197642,475,"Chuba Akpom","substitutes","Centre-Forward","32",0
+"a383ba576bee5b4f6b13dd6164467789","2023-04-01",3852736,308265,306,"Anas Tahiri","starting_lineup","Central Midfield","26",0
+"5b094f3cd925541ec7b1d2232febbd52","2021-09-25",3602471,152962,28095,"Vladislav Kamilov","starting_lineup","Central Midfield","29",0
+"8593f2ae131729de075a1ed6481b319d","2020-12-27",3415399,44624,1096,"Dieumerci Mbokani","starting_lineup","Centre-Forward","70",0
+"dc2aa5f3446459e9516feb7817fec847","2021-09-26",3588216,392163,60,"Noah Weißhaupt","substitutes","Left Winger","33",0
+"b33813783e771cb4375387e8d8add07e","2017-04-09",2844524,355492,6992,"Jorge Elias","substitutes","Centre-Forward","26",0
+"8ddf41f007628c51dd20e804c20f0305","2018-10-28",3069456,214775,720,"Óliver Torres","starting_lineup","Central Midfield","10",0
+"5e2885b73750c1caf44f76552ff8b418","2022-07-31",3828425,60220,2414,"Matej Delac","starting_lineup","Goalkeeper","1",0
+"b8d800ad4a23f815cb472c8c658659f7","2016-02-28",2604235,355501,1025,"Amadou Diawara","starting_lineup","Defensive Midfield","21",0
+"cc0bac28c270204f058c0d80aa03196b","2014-03-01",2341113,45912,940,"Sergio Álvarez","substitutes","Goalkeeper","1",0
+"abc90bc2d28a8b9a63e9e08d149fdcac","2017-05-20",2735655,60561,1041,"Anthony Lopes","starting_lineup","Goalkeeper","1",0
+"5c9fd7d13d7b7c3b515b4d8121fd4f75","2016-01-23",2581792,26669,167,"Ragnar Klavan","starting_lineup","Centre-Back","5",0
+"d9e6f8c20b9be6551a01ac99b957a711","2021-04-11",3415531,56331,2282,"Bas Dost","starting_lineup","Centre-Forward","29",0
+"b1c063e995bf89ba6e8b35b1c1bbc5a3","2023-04-08",4036097,726019,338,"Oleksandr Yatsyk","substitutes","Central Midfield","14",0
+"f25a2e11806f8f1ed5252a5cb6f0bb16","2015-04-16",2547355,19619,338,"Oleksandr Rybka","substitutes","Goalkeeper","23",0
+"70ad5572f9b5cbf24e453ab9cb8a800d","2015-08-20",2613837,136184,195,"Jonas Svensson","starting_lineup","Right-Back","22",0
+"34300bdb80744b21477fbdb9ee3b8b9e","2015-12-10",2618808,51288,6676,"Khalifa Sankaré","starting_lineup","Centre-Back","15",0
+"4c1e48e6246774375aa2dacfb3b4af28","2018-10-31",3112799,589476,10790,"Josh Gross","substitutes","Central Midfield","25",0
+"536556bc5abfce5b457c8129415f960f","2013-11-02",2321147,99331,533,"Jannik Vestergaard","substitutes","Defensive Midfield","29",0
+"dafda8e9a5653ab20206cdca985484f6","2019-02-03",3058588,195246,60,"Pascal Stenzel","substitutes","Right-Back","15",0
+"b6de57d03024302cf8bb69059d25a5ff","2021-12-28",3592299,33713,180,"Theo Walcott","substitutes","Right Winger","32",0
+"686cc9a19cc85c147e1a7754d476259f","2019-02-05",3122484,31095,86,"Nuri Şahin","starting_lineup","Centre-Back","17",0
+"f7bcbff7c0a941cbbb5b1c02df735cb7","2023-04-08",3845016,60889,1025,"Gary Medel","substitutes","Defensive Midfield","17",0
+"d36136c631f582f676af3969e000726c","2022-11-06",3886415,143559,237,"Matija Nastasic","starting_lineup","Centre-Back","2",0
+"52c4c65dcef61696e0d7bf51274ab16e","2023-03-19",3852728,301696,798,"Stijn van Gassel","starting_lineup","Goalkeeper","1",0
+"bba563e3537ae618cf4575d4e096e1fd","2021-11-24",3602195,297752,48332,"Nikolay Zolotov","starting_lineup","Right-Back","35",0
+"e110e37fed23729877b17d9e474c6448","2020-11-07",3450550,739745,1426,"Wassim Essanoussi","substitutes","Attacking Midfield","24",0
+"1339869040f4d2ab60efde0609305100","2020-08-29",3424211,633439,74867,"Maksym Mynaylenko","substitutes","Defensive Midfield","45",0
+"17af15f81e33786ba6241e135558200d","2016-03-11",2603934,69004,338,"Yevgen Khacheridi","starting_lineup","Centre-Back","34",0
+"a14c58be62f016489733ab7bda12b54a","2017-09-19",2920474,542491,33139,"Mario Nijgh","starting_lineup","Right-Back","2",0
+"1130d1c86725303087a382adee01c936","2024-03-17",4098216,765468,724,"Milan de Haan","starting_lineup","Defensive Midfield","
+                  36
+                ",0
+"d4107f2154329c6c9e6896b2ebd1d9a0","2018-11-04",3047575,270051,995,"Andrei Girotto","starting_lineup","Defensive Midfield","20",0
+"dc263ca3614344a23a4532b1540390b4","2019-11-23",3211137,258618,3999,"Thuram","starting_lineup","Centre-Forward","9",0
+"7738e74c8455a662d1d6101e1553c42e","2016-12-18",2764534,26574,169,"Masoud Shojaei","starting_lineup","Attacking Midfield","77",0
+"9715ca416c09b5f80c9f9458410f7660","2021-09-11",3588848,536482,583,"Junior Dina Ebimbe","substitutes","Central Midfield","28",0
+"ea41b54e6f0941fd8eb893f14ae21dce","2020-02-05",3201761,342472,903,"Stephane Omeonga","starting_lineup","Central Midfield","40",0
+"4dc459bcabd60659348759707e96d21e","2019-10-30",3264078,167102,43857,"Frank Schilder","starting_lineup","Centre-Back","23",0
+"9be319783d0268f230a390c3aa193b3f","2018-08-09",3087346,117071,1033,"Andri Fannar Stefánsson","substitutes","Right-Back","23",0
+"60de40522bd2ac9a4cca683f5739b2f6","2013-10-28",2329357,121577,3426,"Mushaga Bakenga","starting_lineup","Centre-Forward","11",0
+"10c457d2f332c5f95fcfac0e39a117ad","2016-09-11",2720778,86804,1085,"André Claro","starting_lineup","Centre-Forward","18",0
+"7831d0028dda0264d8d58163e78012f0","2013-11-24",2329408,78818,206,"Dario Dumic","starting_lineup","Centre-Back","20",0
+"9ee02785099e9eb35a9aa0cfc003f4d5","2020-08-29",3409153,620146,44594,"Michael Obioha","substitutes","Centre-Back","-",0
+"feb8fa0f4cb57d5e3606216c901e7357","2020-10-28",3461743,601445,964,"Daniil Shamkin","substitutes","Attacking Midfield","92",0
+"f5eade4e3cf6eafebffd861dca0f3e8a","2013-07-26",3498003,189138,37022,"German Tuaev","starting_lineup","Central Midfield","21",0
+"1b2848362c20cfb035130c93babcfc4d","2015-08-10",2576664,71026,81,"Davide Grassi","starting_lineup","Centre-Back","21",0
+"f7298f9ede1f4077a1479918353b8535","2023-04-22",4056157,84483,964,"Aleksandr Erokhin","substitutes","Attacking Midfield","21",0
+"69ec22617352ed71f649368d4d69e794","2017-10-28",2942655,56806,667,"Vincent Nogueira","substitutes","Central Midfield","5",0
+"58befcc78b359ba54d05c3bcd6834d54","2016-09-24",2726235,156137,4482,"Redvan Memeshev","starting_lineup","Central Midfield","9",0
+"72848a7d1e69d6485453c715647b6795","2021-02-20",3427048,203986,2293,"Erten Ersu","substitutes","Goalkeeper","54",0
+"93dae9abdc579219e688d4606cdecf3d","2014-12-03",2494357,14542,2079,"Zvonimir Vukic","substitutes","Attacking Midfield","99",0
+"c240ab0216aea785d09eb70a09e4c911","2020-07-05",3229457,538918,46,"Sebastiano Esposito","substitutes","Centre-Forward","30",0
+"ce423e01b9158eebfbe444df87022867","2018-11-30",3058530,125103,38,"Marvin Ducksch","substitutes","Centre-Forward","10",0
+"71d309d239566f92c6313594679cf6b9","2016-09-07",2746854,221916,5776,"Andreas Oggesen","substitutes","Central Midfield","11",0
+"579d0009e3e439f8a0ff06fbf27893d4","2021-01-11",3503264,73269,605,"Javier Matilla","substitutes","Central Midfield","26",0
+"46d05f6f516066d61176b88e0c4eb2a1","2017-08-12",2864712,22068,27,"Franck Ribéry","starting_lineup","Left Winger","7",0
+"657f869186a222947fc44efd0df91376","2020-02-12",3201764,187359,43,"Ben Garuccio","starting_lineup","Left-Back","17",0
+"a5c788b44f36d7d988857a6c1631a61b","2019-11-23",3284681,343391,3014,"Callum Home","substitutes","Right-Back","15",0
+"c6157789f983f8a934ed215e9009f8fd","2020-12-02",3487087,359796,18303,"Dmytro Shastal","starting_lineup","Right Winger","23",0
+"6543e2f32798313f84f00f24523bae2f","2022-08-09",3887459,217094,3054,"Chey Dunkley","starting_lineup","Centre-Back","22",0
+"75f7e8d5a954bb533e30c495eaf0c542","2016-02-07",2589086,129543,642,"Lion Kaak","substitutes","Defensive Midfield","6",0
+"0f8d7b37653faf0e974fabc06adc0c9f","2023-03-04",3890163,403572,1241,"Stephen Kelly","starting_lineup","Attacking Midfield","17",0
+"b3686b45e5960db550e1cb60057b12d2","2018-10-27",3079435,443222,1533,"Marc Cardona","substitutes","Centre-Forward","7",0
+"9743bd130fb5c236b85fb5869827fbb7","2016-10-26",2764435,448917,6418,"Ilias Gianniotis","substitutes","Right Winger","29",0
+"55f75fc3382affe17f94a13366da39c8","2014-04-06",2359519,22594,130,"Daniele Galloppa","substitutes","Central Midfield","8",0
+"31ce673ee2e51ad48b3baf5d8daae786","2013-10-27",2335047,10029,2760,"Isaac Osbourne","starting_lineup","Central Midfield","19",0
+"7206ef99e18964bfb961d2f6ba1b8779","2021-01-09",3415504,209933,3508,"Ibrahima Seck","starting_lineup","Defensive Midfield","21",0
+"a92562b231da37f255e14816a95524da","2018-10-06",3079415,64411,1244,"Juanfran Moreno","substitutes","Right-Back","2",0
+"5c2dee66b807ba6db1ea819d5629b95f","2020-01-19",3219251,82105,31,"Joel Matip","substitutes","Centre-Back","32",0
+"29ae6ce0babd358ea23f390db160f047","2023-02-18",3838752,207014,873,"Will Hughes","substitutes","Central Midfield","19",0
+"d877b3531acc4357d3e093090d7ad8a3","2021-04-04",3451386,101118,150,"Joel Robles","substitutes","Goalkeeper","1",0
+"84b09db3191e20a5cd31e0e2a96af3f0","2016-02-07",2578124,29975,989,"Andrew Surman","starting_lineup","Defensive Midfield","6",0
+"2093ae4bd97209c1e60f5f5a19b1227a","2021-12-14",3598268,183836,520,"Dino Hotic","starting_lineup","Attacking Midfield","10",0
+"ce04768f74bc3d1d1e0fe9802911f683","2021-07-25",3582980,102740,2410,"Mário Fernandes","starting_lineup","Right-Back","2",0
+"2d288508fc430eeede27e7944728d00f","2016-12-08",2765936,81789,180,"Maya Yoshida","starting_lineup","Centre-Back","3",0
+"6c6c130725097eb73d8d346f73fe3590","2024-02-24",4098168,34784,467,"Lasse Schöne","substitutes","Defensive Midfield","
+                  20
+                ",0
+"04ae3255a146c689c4499657310a9538","2017-03-04",2732275,46553,29228,"Nikola Gulan","substitutes","Defensive Midfield","24",0
+"47cccc61548b6ccd121c5a9eb002292f","2015-03-18",2544479,35587,371,"Anthony Stokes","starting_lineup","Left Winger","10",0
+"59578b814ee7a45dad42420b469fa954","2015-12-20",2600634,92385,1420,"Yoann Andreu","starting_lineup","Left-Back","21",0
+"876c5bfc659f0017aea7b99a7956a859","2017-09-10",2891434,234761,6418,"Danny Bejarano","starting_lineup","Defensive Midfield","16",0
+"a92b407634774cf801b5d71de6998cc9","2021-07-18",3580164,222686,443,"Manjrekar James","substitutes","Centre-Back","15",0
+"daaf2d04ef674d68d723340408f0a988","2017-12-20",2978675,267911,6418,"Franco Mazurek","starting_lineup","Attacking Midfield","7",0
+"a794fe07ce477335d33e345f28d96c1a","2013-12-29",2331968,85314,631,"Oscar","starting_lineup","Attacking Midfield","11",0
+"da72fd1296ba3256989d53f1a0d6c683","2018-09-16",3075879,396395,6993,"Oleksiy Bykov","starting_lineup","Centre-Back","2",0
+"7e4de28164d68e6b84a0887182c7e88c","2017-09-24",2897215,123742,1038,"Gastón Ramírez","starting_lineup","Attacking Midfield","90",0
+"4840565c6e805999f1f2e0ccba021114","2017-09-30",2871778,247459,79,"Chadrac Akolo","starting_lineup","Right Winger","19",0
+"8d87e76f94c4ea95aaedc1715e9d0417","2021-12-29",3621467,324803,2420,"Nicolas Janvier","starting_lineup","Central Midfield","98",0
+"203a75ec7477a5866acb8133903adf0c","2018-10-06",3081033,83877,1390,"Diego Farias","substitutes","Left Winger","17",0
+"188ed3a881cbb0213101f8ca2c85ee23","2021-08-27",3614534,241923,276,"Lorenzo Montipò","starting_lineup","Goalkeeper","96",0
+"6491ac8cebaac6c5c27c0c15bb202548","2019-03-03",3080828,372246,1049,"Carlos Soler","substitutes","Right Midfield","8",0
+"1dbbb4f4c72ba9de6c4851820e5c3577","2019-11-02",3274376,33862,1096,"Sinan Bolat","starting_lineup","Goalkeeper","1",0
+"50f313d782c713ee99ab1fa994f51bc2","2020-01-26",3223176,55524,2293,"Alper Uludağ","starting_lineup","Left-Back","25",0
+"3a08e637233a50695df8e28a52d76253","2019-08-25",3216061,299121,1269,"Rick Dekker","starting_lineup","Centre-Back","19",0
+"00054d0d0c3c4b75c3a2609d2df1e2fb","2016-10-15",2704270,53669,41,"Matthias Ostrzolek","substitutes","Left-Back","22",0
+"906ac8f10067649a8ae3dd6292c428bb","2017-11-05",2872223,282823,148,"Alfie Whiteman","substitutes","Goalkeeper","41",0
+"54b69feb9ce3479fd502350ce0c5035b","2017-02-05",2718911,60445,1050,"Jonathan dos Santos","starting_lineup","Right Midfield","8",0
+"a309a4658b0a2eaa5b722f495d3844b4","2014-09-21",2475217,193098,367,"Álex Moreno","substitutes","Left-Back","27",0
+"820eee8921acbbaf4bdbac68058371c8","2018-08-18",3048425,119277,82,"Yannick Gerhardt","starting_lineup","Central Midfield","13",0
+"d5fc83ec2e6d31217b83600e8c284136","2023-06-07",3860433,230746,589,"Erdal Rakip","starting_lineup","Central Midfield","6",0
+"4495d214b98bcc47e038f9888f2b2001","2022-07-07",3836631,299149,43032,"Kevagn Ronco","starting_lineup","Right-Back","32",0
+"5679cb647af0363b1d5fb88436c1a92e","2022-02-12",3610348,206947,367,"Kévin Rodrigues","starting_lineup","Left-Back","19",0
+"efb7792ecb509f5447ee3da1a9028668","2020-03-01",3309819,12880,653,"Dimitrios Sotiriou","starting_lineup","Goalkeeper","32",0
+"69becd05d71e2c2973f5c0ba6db0237c","2019-01-23",3047719,259025,1160,"Umut Bozok","substitutes","Centre-Forward","19",0
+"ebe5877958543212f67c9e9bef75a0cd","2014-04-05",2331138,17693,750,"Sébastien Roudet","starting_lineup","Attacking Midfield","18",0
+"13e4a840b67cf9d02a2dd2d183f56746","2017-08-09",2873166,52477,1083,"Sergey Parshivlyuk","starting_lineup","Right-Back","4",0
+"f5b664dc44c2ec17531da8506f9ae74d","2020-01-22",3307691,195337,52397,"Carlos de la Nava","starting_lineup","Centre-Forward","10",0
+"6bb28ff6b031350ffd95cac37d2a29e7","2021-01-09",3394744,315283,1421,"Kaj Sierhuis","substitutes","Centre-Forward","9",0
+"53b2882f57e1dc3913b3694bf9948bb0","2015-01-24",2475372,37337,13,"Mario Suárez","starting_lineup","Central Midfield","4",0
+"6a51c6ec5e370fb393947984edd055fe","2014-04-01",2334974,199553,987,"Jack Leitch","starting_lineup","Central Midfield","26",0
+"db82f4cf425e5aa6f0300f5a4c2a1626","2018-04-14",2891629,112461,441,"Áxel Juárez","starting_lineup","Central Midfield","30",0
+"fbfc4ceafff654109ff70136781d4e1d","2018-02-03",2942787,110116,1416,"Jean-Christophe Bouet","substitutes","Goalkeeper","16",0
+"e45ef23967fbd91a50cbe97396aeb921","2020-09-27",3394604,314912,1158,"Jérôme Hergault","substitutes","Right-Back","14",0
+"0326f586a0efe29bde28347015ae37fb","2023-01-30",4013661,670848,379,"Divin Mubama","substitutes","Centre-Forward","72",0
+"68938cf013ff590fc8267b37a44c2aeb","2016-08-10",2723366,340384,21216,"Artem Merkushov","starting_lineup","Left Winger","7",0
+"a53f380151aa98732392a7ab2f8496da","2018-08-19",3088889,263905,932,"Dmitriy Barinov","substitutes","Attacking Midfield","6",0
+"e739f235dbdf7a3f3b86a1e408206551","2021-05-07",3451450,616369,681,"Ander Barrenetxea","substitutes","Left Winger","22",0
+"fe053b06b32dcdc2c5e8ed108d74ee86","2015-08-15",2577883,37011,2288,"Nathan Dyer","substitutes","Right Winger","12",0
+"232affb04fe3d8e0bc12ceedceadf7b0","2015-10-20",2618582,129771,119,"Eitan Tibi","starting_lineup","Right-Back","18",0
+"022e685859e5f83ea69038f18039d2a7","2021-01-16",3413136,39106,39,"Ádám Szalai","substitutes","Centre-Forward","28",0
+"0f202a976136573ca34635f1cdf951d3","2017-08-29",2911703,103118,20108,"Jan Rasmussen","substitutes","Right-Back","2",0
+"73a6e79cefc56523a31c7ca1cc354755","2019-10-30",3264074,323864,46345,"Aaron Bruijn","starting_lineup","Defensive Midfield","3",0
+"28c1b5ef8a28447dce40e595ba866ab8","2020-02-19",3219229,285548,379,"Fabián Balbuena","substitutes","Centre-Back","4",0
+"02bafd86615055d8423fcd48b6da6263","2019-08-17",3226491,467241,60551,"Oleksandr Safronov","substitutes","Right-Back","3",0
+"8340586f3950f1f67fef52798efdb19e","2022-07-28",3838488,346095,10586,"Mihlali Mayambela","starting_lineup","Right Winger","21",0
+"f41de31539a7ec7d31ca7ac6b6ba2de3","2021-12-17",3598349,366045,2715,"Ablie Jallow","starting_lineup","Right Winger","36",0
+"b704fe667311592ac199ab8196f95951","2023-01-08",3889100,179643,605,"Vladimir Darida","starting_lineup","Central Midfield","16",0
+"b5ea0625e404b55adb739f6d634456af","2020-11-25",3461769,33947,683,"Rafinha","starting_lineup","Left-Back","13",0
+"70b9badaa952d04827f883ea6dc7d4d2","2013-09-28",2342334,45511,192,"Mitchell Donald","starting_lineup","Attacking Midfield","14",0
+"90b5cf43a35c3bb744b94aa4359d1e7b","2016-08-13",2698551,4811,969,"Hilton","starting_lineup","Centre-Back","4",1
+"5cb8efe5a39c6a9fc75daeb075cabf85","2021-07-20",3584558,342389,865,"Anders Dreyer","starting_lineup","Right Winger","36",0
+"4f0a35586a56f2f2d82029a4fc497733","2016-02-01",2594690,58115,367,"Yoel Rodríguez","substitutes","Goalkeeper","25",0
+"2bca0752b02df0a671b2b438039d2d6b","2022-03-14",3621557,601883,336,"Matheus Nunes","starting_lineup","Central Midfield","8",0
+"ca53e44bec405ba3b04524351a62eded","2019-02-17",3139995,207877,1184,"Ruslan Malinovskyi","starting_lineup","Central Midfield","18",0
+"f0f561f2ab4241eab6eee2e87bbe3596","2021-07-16",3580162,93315,865,"Henrik Dalsgaard","starting_lineup","Right-Back","14",0
+"509cd29b2388b32cab7efd6c32bb6d6b","2023-04-08",3860390,79110,10484,"Fodé Koita","substitutes","Centre-Forward","9",0
+"dbb9237c5c94eb7bb37ebcc1a7fe3335","2014-10-31",2481084,36637,2578,"Gary Miller","substitutes","Defensive Midfield","19",0
+"5c7feb7f947693b1e074441f77c210d4","2018-08-08",3086931,55336,232,"Denis Glushakov","substitutes","Central Midfield","8",0
+"e12451c8faa39096963f06fdfbaba709","2022-03-14",3610433,369081,418,"Federico Valverde","starting_lineup","Central Midfield","15",0
+"3dbcdb972672b17fc3dde9baef810d79","2020-01-22",3307692,283394,13241,"Diego Mendoza","substitutes","Centre-Forward","18",0
+"dac43431e92b669b43924e635229f55c","2013-12-15",2352011,44177,6418,"Rafael Bracali","starting_lineup","Goalkeeper","1",0
+"203a6d0c02fdc146ce18b83a0828d324","2014-12-14",2459724,182581,234,"Tonny Vilhena","substitutes","Central Midfield","21",0
+"97c17fdba35ddd8daf48cd8ded3d86d6","2018-12-30",3050353,14086,985,"Ashley Young","starting_lineup","Right-Back","18",1
+"60bebf7921ee6f57a28197897c48c7a3","2018-12-08",3050324,116648,931,"Marcus Bettinelli","substitutes","Goalkeeper","1",0
+"3f6c777d7c5fa60f0c93f2a6e8fce93d","2018-11-24",3050295,26267,281,"Fernandinho","starting_lineup","Defensive Midfield","25",0
+"78662e25a5fb3e8464f21551a476490f","2016-01-12",2647662,7983,897,"Cani","substitutes","Attacking Midfield","6",0
+"1b666b7cd3db43e940a8873d2300418f","2013-09-25",2367649,91362,33179,"Ivan Shishkin","substitutes","Left-Back","14",0
+"9cbc361f9eab39627aa3a5d9b3409c3e","2022-01-23",3610295,404839,418,"Andriy Lunin","substitutes","Goalkeeper","13",0
+"451e8331c859a64e1b714152eda8e0ed","2017-04-25",2719041,357565,1050,"Rodri","substitutes","Defensive Midfield","16",0
+"1631ea0895b3e59cbc7329346c8c834b","2019-04-11",3167769,55735,11,"Henrikh Mkhitaryan","substitutes","Attacking Midfield","7",0
+"a4aac6272f16df5173e47b091e3a6223","2018-02-17",2942809,118303,273,"Mehdi Zeffane","substitutes","Right-Back","2",0
+"9ab10ff3145d429ea280ed904b939c6d","2015-02-01",2459762,4489,234,"Khalid Boulahrouz","substitutes","Right-Back","23",0
+"2484e055b090ba894320eb58b613bd7e","2016-03-05",2578172,107427,1010,"Ikechi Anya","substitutes","Right-Back","21",0
+"b1a54c92cbdec74b3fac5207a111781b","2021-11-06",3602516,58568,3729,"Ruslan Kambolov","starting_lineup","Defensive Midfield","2",0
+"b172592473b861fa0797332d90609e93","2013-09-22",2359238,205054,1627,"Norbert Gyomber","substitutes","Centre-Back","24",0
+"232091dccb16a5016fc77a287e1d50d6","2017-04-02",2726764,165900,1025,"Federico Viviani","starting_lineup","Defensive Midfield","6",0
+"e48707dfc1b77742028142d635002188","2014-11-02",2459684,4334,132,"Jelle ten Rouwelaar","starting_lineup","Goalkeeper","1",1
+"bdc4fec6162c148b20cfcbd2d3bcbb56","2015-08-09",2576669,118161,2,"Marius Müller","starting_lineup","Goalkeeper","1",0
+"100213ea22e6c57724346276065c6aaf","2015-04-20",2557038,25889,4128,"Ivan Cherenchikov","starting_lineup","Centre-Back","23",1
+"c5749a7d3b9fde0267c989fd4554a062","2014-03-16",2335268,25889,4128,"Ivan Cherenchikov","substitutes","Centre-Back","23",0
+"54d6a9826cc0387fbd57dfe919388024","2019-09-01",3216072,393238,1090,"Zakaria Aboukhlal","substitutes","Right Winger","17",0
+"0958f1f71a2043a8b6466dfdd5e61446","2021-11-27",3602296,467241,16239,"Oleksandr Safronov","starting_lineup","Centre-Back","3",0
+"07292d1daae7721652084e7363e67433","2015-10-03",2594532,81988,1533,"Sergi Enrich","substitutes","Centre-Forward","9",0
+"bb999ff8bb7a3ab9734c7c9a0e9f779a","2020-01-11",3229350,266302,398,"Sergej Milinkovic-Savic","starting_lineup","Central Midfield","21",0
+"437d93a49a7232988de9c6923227ae34","2020-01-22",3292294,33031,60949,"Vangelis Ikonomou","substitutes","Centre-Back","21",0
+"39a51bbe9ae8eedd94c87a7a5408c730","2017-04-01",2818574,56761,21957,"Vanderson","starting_lineup","Left Midfield","27",1
+"0ad72597c98a1c62e26a8ad8473de298","2022-10-23",3840071,138055,3911,"Haris Belkebla","substitutes","Central Midfield","7",0
+"cc8aa0952565974de096dcef800104e0","2021-01-24",3508018,102258,1132,"Matthew Lowton","substitutes","Right-Back","2",0
+"7d85e510ae373185250719216f6146fa","2021-07-06",3583628,167821,1167,"Kamer Qaka","starting_lineup","Attacking Midfield","95",0
+"ea1a438d8e8881935d95624bd8b996fe","2014-04-13",2359531,6793,1038,"Angelo Palombo","starting_lineup","Defensive Midfield","17",0
+"cbfe1d44b671ad72aa0fd133765f9bb6","2013-08-25",2321060,121404,23,"Omar Elabdellaoui","starting_lineup","Right-Back","14",0
+"3eea32fc58b000acb049982983bdd23f","2015-08-16",2589247,39247,10484,"Tunay Torun","starting_lineup","Left Winger","7",0
+"9cc6a3f6a0c5dfd398ea789018bbc1af","2022-11-06",3844859,55735,46,"Henrikh Mkhitaryan","starting_lineup","Central Midfield","22",0
+"d8f71e59b1c1caa495390f8e9d1739de","2014-02-16",2428043,65072,1091,"Juan Manuel Insaurralde","starting_lineup","Centre-Back","29",0
+"1215eeb92bc4a4f3bd7d3db2db6e7ce9","2016-01-09",2594656,59248,16795,"Miguel Lopes","substitutes","Right-Back","25",0
+"7480dba41269c262607d6cfb8734fc9c","2022-11-12",3840108,572326,273,"Christopher Wooh","starting_lineup","Centre-Back","15",0
+"e171f13374c6cecc664b1505ea0aa110","2022-11-01",3941372,987923,3243,"Dinar Shaykhutdinov","starting_lineup","Left-Back","26",0
+"37e714bb0385c63d8c2f1f2206329389","2015-08-29",2613515,61397,2700,"Sergey Pesjakov","starting_lineup","Goalkeeper","33",0
+"2e95c9d63f1e53b8f92b319851112139","2023-01-28",3839315,353826,167,"Robert Gumny","starting_lineup","Right-Back","2",0
+"7f6fc08ea2a0a5643e340ab4d05e6f92","2013-10-19",2351994,16444,3060,"Michalis Sifakis","starting_lineup","Goalkeeper","33",0
+"e3b23e2692d5530fb8c4a5056e805e57","2022-04-20",3589543,51118,1095,"Adil Rami","starting_lineup","Centre-Back","23",1
+"f591b51fbeda7549e41dfdab04e2e40f","2020-01-17",3223172,168163,2293,"Deni Milosevic","starting_lineup","Left Winger","11",0
+"a5bd0fc3734a7b190312f8a5ed6d9a94","2016-09-18",2697560,260838,2414,"Jonas Gemmer","substitutes","Central Midfield","14",0
+"e6d07c2de9f83ec037e780be16f08387","2019-04-14",3174476,48987,232,"Andrey Eshchenko","substitutes","Right-Back","38",0
+"3342ecf7ace37200034bb805efec2cff","2023-04-04",4019301,516716,506,"Bremer","starting_lineup","Centre-Back","3",0
+"ba7e8febbed00be4098920fd6d331340","2023-02-26",3889149,110668,3060,"Laurens De Bock","starting_lineup","Left-Back","28",0
+"63b57e62a6b0f54257ff102da83ddf41","2023-04-24",4056162,726445,232,"Daniil Zorin","substitutes","Attacking Midfield","87",0
+"c827d810b72c5d1423681a9c5eac1f87","2017-07-06",2866277,351795,5862,"Leon Marinic","substitutes","Right Winger","30",0
+"63e5722d19ece9c264c2dff1fd13cb15","2017-10-21",2921382,6871,2698,"Gökdeniz Karadeniz","substitutes","Left Winger","61",0
+"a1a6d75b85813ed679e2ce19db136512","2021-05-09",3451451,202984,366,"Roque Mesa","starting_lineup","Central Midfield","17",0
+"744a56dcfb93d31fc413b763a24ce07f","2021-12-09",3651136,459655,800,"Matteo Lovato","substitutes","Centre-Back","66",0
+"82fda84b1b9244900c3962857cd29fc4","2022-05-14",3589588,414908,1421,"Marshall Munetsi","starting_lineup","Central Midfield","15",0
+"881386097d42530b247b19ae649b3ca0","2020-10-06",3446604,832165,21006,"Kasper Gram-Jensen","starting_lineup","Right-Back","4",1
+"59eeff2be784363c9cb383cb7e6dce38","2015-10-17",2593958,66280,20,"Cristobal Jorquera","starting_lineup","Central Midfield","14",0
+"fd6dec2225aa07725d31f6f273bf6447","2022-08-21",3839819,420465,1082,"Tiago Djaló","substitutes","Centre-Back","3",0
+"e3126bc633123497f73c3551d663dbd8","2016-10-01",2704266,60632,86,"Theodor Gebre Selassie","starting_lineup","Right-Back","23",0
+"b7de6d54a5046531568e9e23c146db80","2016-09-25",2758529,242638,1091,"Efthymios Koulouris","starting_lineup","Centre-Forward","20",0
+"a8621507630330464d36635807ce5af4","2014-10-26",2475262,27486,714,"Kiko Casilla","starting_lineup","Goalkeeper","13",0
+"a931405a124c7594ec255fb01bff3232","2014-05-10",2341356,42373,1049,"Diego Alves","starting_lineup","Goalkeeper","1",0
+"f35be3692f5579ca9344f8a9d0d524ee","2020-08-20",3419746,215433,38208,"Domingo Ferrer","starting_lineup","Attacking Midfield","24",0
+"f5417e5a06fff1420ffd514fedb02fd9","2021-12-09",3683259,222209,398,"Thomas Strakosha","starting_lineup","Goalkeeper","1",0
+"245a6e4b96d7f4fe83f609582cf58fbb","2019-09-25",3208687,149498,1049,"Gabriel Paulista","starting_lineup","Centre-Back","5",0
+"deaf67aca90c10333006a23f9910913d","2021-12-14",3598263,469211,475,"Liberato Cacace","starting_lineup","Left Midfield","13",0
+"e7dd53563dd5a7860d4e2f406e1b1f21","2016-10-29",2732199,41100,475,"Steven De Petter","starting_lineup","Defensive Midfield","6",1
+"368b283c9d8ee79f11c0352c7e698042","2019-05-18",3058721,486031,79,"Nicolás González","substitutes","Centre-Forward","22",0
+"a525a57384e9c8cb7e2de22056b25823","2014-10-04",2503715,56789,172,"Lynel Kitambala","substitutes","Centre-Forward","99",0
+"8b585cc87d439b039e0277d0eecc207d","2015-12-19",2581781,109256,24,"Haris Seferovic","starting_lineup","Centre-Forward","9",0
+"2b4b802c83e6623bb4d8d2908b384e5e","2022-05-02",3592219,164770,985,"Raphaël Varane","starting_lineup","Centre-Back","19",0
+"6dcd199f0d06e1a77864c0b534ff77d2","2024-01-30",4095289,144028,11,"Leandro Trossard","substitutes","Left Winger","
+                  19
+                ",0
+"599668b3c3f3424df31b4b360752b4b1","2023-01-07",3974021,192875,1010,"William Troost-Ekong","starting_lineup","Centre-Back","5",1
+"48a431cedfda6b9a7191ee75ab75d030","2020-12-01",3461805,278332,18,"Florian Neuhaus","starting_lineup","Central Midfield","32",0
+"23f18c8f947935e91e2bb0c098dc698c","2019-10-06",3264429,15570,2410,"Igor Akinfeev","starting_lineup","Goalkeeper","35",1
+"0df0ab2ac8c4c1e20fe94d16b8548aee","2023-04-04",4019301,182913,506,"Adrien Rabiot","starting_lineup","Central Midfield","25",0
+"1e3ed36614f8c381e6ee1f1dd85dd46d","2023-04-09",3860395,118287,114,"Rachid Ghezzal","starting_lineup","Right Winger","18",0
+"ea34886856d8e0027c7558ff3c5df6e8","2023-01-18",3997413,800175,150,"Luiz Henrique","starting_lineup","Right Winger","11",0
+"7b47b250fbe48af2d4883185df57d147","2013-08-29",2360966,33729,24,"Stefano Celozzi","starting_lineup","Right-Back","22",0
+"9446b9109e840f6409a28f0d512c802d","2018-09-26",3098548,361627,20423,"Vadym Khokhlov","starting_lineup","Defensive Midfield","20",0
+"a2e3c8b80fc1d9a47e1769d6eb44536c","2021-01-17",3433359,96341,46,"Romelu Lukaku","starting_lineup","Centre-Forward","9",0
+"2d9d0a209c742c2946e3fab76df7f671","2019-03-09",3058645,125714,60,"Mark Flekken","substitutes","Goalkeeper","26",0
+"03c7de7152679cef52937f2dfde12593","2022-01-16",3727220,466795,18687,"Josep Jaume","starting_lineup","Centre-Back","15",0
+"9c837528eba6cc03f94a6e806fcb8148","2018-08-10",3047435,123021,415,"François Moubandje","starting_lineup","Left-Back","29",0
+"dc1a158a2806ae6edb3a14062b50e18b","2019-10-24",3252476,130353,2410,"Hördur Magnússon","starting_lineup","Centre-Back","23",0
+"b3bd353bc6869945018975a18c486d96","2013-11-03",2330905,14949,1082,"Rio Mavuba","starting_lineup","Defensive Midfield","24",1
+"3e22cf1b1f13a2568f4d753828f101d6","2023-01-14",3860359,291750,2293,"Soner Dikmen","substitutes","Central Midfield","14",0
+"65123cee48c4664e6b8869d694bbf47c","2015-10-31",2588983,123520,192,"Benjamin van Leer","starting_lineup","Goalkeeper","1",0
+"6e585fd901d742491daccd6f95fa07e4","2021-01-09",3394753,355641,2969,"Mounir Chouiar","substitutes","Left Winger","21",0
+"205d4edd8ba1db0103b3dd1a781663fc","2020-11-20",3420676,295613,48726,"Ivan Brikner","substitutes","Central Midfield","14",0
+"1e2cf1471c365f3aac38fe8bf1f77d89","2017-04-16",2842422,48510,3691,"Pavel Golyshev","starting_lineup","Centre-Forward","7",1
+"b5bd2b1f1dc004c1bc37311bc65abac7","2022-08-20",3890048,220496,465,"Charles Dunne","starting_lineup","Centre-Back","18",0
+"690c66a0fdbbcdceaca8d05c3ddc7a21","2014-07-26",2479508,130521,10140,"Tiago Moreira","starting_lineup","Right-Back","20",0
+"09cbf7a944327949f323fe80cfe06a65","2014-08-29",2501174,18999,441,"Georgios Georgiou","starting_lineup","Centre-Back","23",0
+"8a3fde8e5e66cd390e885fe776754af1","2014-02-02",2359417,21782,46,"Hugo Campagnaro","starting_lineup","Centre-Back","14",0
+"cff4b414a62f40f76936602ebb6cec19","2016-10-26",2728529,41726,2578,"Michael Coulson","substitutes","Right Winger","17",0
+"cae2f694d88c8167b28900640f88f5e2","2018-10-06",3061067,357176,1269,"Alessandro Tripaldelli","substitutes","Left-Back","13",0
+"3a31be82f08cd39c03cc0b5c2913be57","2016-11-30",2747352,253857,3522,"Alessandro Piu","substitutes","Left Winger","23",0
+"165e5aff460a3bf914491174f2e7f98f","2023-01-29",3886513,709187,621,"Nico Williams","starting_lineup","Right Winger","11",0
+"2ff585b64f2f57d290fb115051ce61a2","2023-03-18",3860397,175383,589,"Helton Leite","starting_lineup","Goalkeeper","90",0
+"d6045ac43e3009bf66ac94e6e30f015b","2016-01-26",2636399,258835,982,"Ricardo Gomes","substitutes","Centre-Forward","27",0
+"26a8c24f97ebabc3867f3232d01df40c","2020-10-22",3462274,189912,413,"Thomas Goiginger","substitutes","Right Winger","27",0
+"2c596015c709bad7a569b6b810687bdd","2013-09-14",2335114,63170,232,"Pavel Yakovlev","starting_lineup","Left Winger","14",0
+"9e66587df9f9102f5d397e1b5014acf9","2019-12-03",3219322,263856,873,"Víctor Camarasa","substitutes","Central Midfield","23",0
+"fe2b594ddcd45e26974f6170d9b8a27a","2018-11-08",3098751,315604,409,"Diadié Samassékou","starting_lineup","Defensive Midfield","8",0
+"2f52a2836c7dbacfe10a1c4f86bddc77","2022-12-28",3889088,458565,553,"Georgios Servilakis","substitutes","Left-Back","18",0
+"3844b15ba7759a827b5eef620fdb11fb","2015-07-22",2587339,24134,21875,"Veigar Páll Gunnarsson","substitutes","Second Striker","10",0
+"04e8c07bb6d36780304098f06ca17e76","2021-01-03",3451077,298575,331,"Kike Barja","starting_lineup","Left Winger","11",0
+"8360b587699d4dbe8964ad9de94f3083","2021-08-08",3588770,531949,826,"Ignatius Ganago","starting_lineup","Centre-Forward","9",0
+"3fcd03883814a3f58744dceb80a1ad18","2018-07-26",3076856,429070,282,"Vladan Kovacevic","substitutes","Goalkeeper","13",0
+"8274404f9057980780330126b5116929","2015-01-24",2482321,148368,1082,"Divock Origi","substitutes","Centre-Forward","27",0
+"a8d8b64b21cb5d756ed13abe01da6883","2013-07-04",2323474,34764,2531,"Tomas Jirsak","starting_lineup","Central Midfield","16",0
+"fe05f0a6286b4e719f27071bae2bf48d","2018-03-03",2987613,92164,354,"Mats Rits","starting_lineup","Right Winger","11",1
+"1022c93b3f74748a9a49070451b685be","2015-05-03",2526246,351978,979,"Ença Fati","substitutes","Right Winger","17",0
+"fdc3495fcad9926e152f570778d290a1","2014-12-03",2486608,95435,289,"Connor Wickham","starting_lineup","Left Winger","10",0
+"62ee888de2d7ea7bc0dcc3f1bb774365","2014-10-04",2482190,93726,969,"Paul Lasne","starting_lineup","Right Midfield","17",0
+"59e96606c50141e1d9a0f683c226d36c","2018-09-26",3096326,172981,39200,"Marat Sagirov","starting_lineup","Left Midfield","7",0
+"628ecce6e821ccc81fc2922ad6b316af","2021-11-27",3602301,401987,61825,"Siaka Bagayoko","substitutes","Left-Back","3",0
+"ad5226fc2f2783f1f1c3b302f3f8075d","2019-05-04",3180403,190188,3725,"Vitaliy Gudiev","substitutes","Goalkeeper","33",0
+"3e74638a3a42ff98502830e279b48823","2022-04-22",3613170,503482,36,"Min-jae Kim","starting_lineup","Centre-Back","3",0
+"e5c983dd0a39d5a6241fe69c648cb02d","2013-10-19",2329722,79972,2861,"Baptiste Schmisser","substitutes","Centre-Back","6",0
+"708db0222e83cecf4ee99670dbaad15b","2013-09-24",2361075,224884,65,"Abdul Rahman Baba","starting_lineup","Left-Back","18",0
+"0e97e4a53530662480c67ada07e29005","2019-09-21",3199416,172153,2969,"Mickaël Alphonse","starting_lineup","Right-Back","2",0
+"b43781197329af63444e72068c723c68","2022-11-10",3844868,631007,276,"Filippo Terracciano","starting_lineup","Right Midfield","24",0
+"2191ca462d879a2aef39ccd441e934d9","2020-02-05",3201758,326230,370,"Ryan Hedges","starting_lineup","Attacking Midfield","11",0
+"952b7a787d309376dad4a260bdd811ac","2022-09-07",3911786,720038,131,"Pablo Torre","substitutes","Central Midfield","32",0
+"dda2baa6a60d03bc88f9b6cea67998be","2017-09-23",2903734,141871,2578,"Stefan Scougall","starting_lineup","Right Midfield","21",0
+"110630a4826dd954182659e42c9fc567","2018-09-23",3061055,298796,383,"Érick Gutiérrez","substitutes","Attacking Midfield","25",0
+"efd644c36909d3540416ccee53564860","2017-11-29",2925781,470758,4585,"Georgios Tzellos","substitutes","Defensive Midfield","21",0
+"52d6eb3732b4efb17eeb90d52d4abb11","2016-12-05",2726622,86793,410,"Gabriele Angella","substitutes","Centre-Back","4",0
+"0517bb6cd22d63f45ace3071ad9b80b5","2015-09-21",2609356,249994,1301,"José Sá","substitutes","Goalkeeper","93",0
+"8b5beca3bb13806b225ced1bac43fc5f","2017-12-03",2891505,9850,6418,"Vangelis Moras","starting_lineup","Centre-Back","18",0
+"ae3cf5616cc879fcb6d377a8c5b132f1","2015-03-15",2512216,42976,979,"Marcelo Oliveira","starting_lineup","Centre-Back","26",0
+"78c35cc6f92ffe8edd5422b70868a4b7","2021-04-04",3536491,543493,2740,"Najeeb Yakubu","starting_lineup","Left-Back","5",0
+"02bb85de6dc0b4eb6788bb4ba2e74aac","2022-09-20",3927716,618031,2821,"Lars Klomp","substitutes","Left-Back","23",0
+"0a1f27900081653567fd0a16fd244c98","2022-08-04",3889668,801031,1090,"Lewis Schouten","substitutes","Central Midfield","43",0
+"bfa318d9e1b5318aaf6f56c4aea4d12c","2017-08-13",2864721,31168,1410,"Carl Murphy","starting_lineup","Left-Back","28",0
+"b146dc2bd1468cd47f45df0d0e1d7820","2020-09-17",3433578,464627,2784,"Dimitrios Priniotaki","substitutes","Goalkeeper","12",0
+"143ff716d46dfc6b3a26b12762f82e93","2024-01-27",4268996,488656,337,"Siriki Dembélé","starting_lineup","Left Winger","
+                  17
+                ",0
+"d4c18a6406a47b6c780ed1dab7763bc4","2018-07-12",3055760,122592,10301,"Maksim Zhestokov","starting_lineup","Centre-Back","66",0
+"a92ca1b80dcc0a3a024b385e1f9a455f","2014-04-27",2346359,4902,589,"Lamine Diarra","starting_lineup","Centre-Forward","26",0
+"93c9f91bd7aede0604c833a812310f1f","2019-05-19",3081399,400001,862,"Strahinja Tanasijevic","substitutes","Centre-Back","3",0
+"c3013f2c541b2671a3aadf9b2caaa4e1","2013-10-30",2370535,74297,499,"Gaël Kakuta","starting_lineup","Left Winger","20",0
+"968286c0da75f52766cf9e0f7a647dfb","2015-08-22",2586790,164451,1162,"Jeff Louis","substitutes","Left Winger","14",0
+"cbc47939a7f58c6b13496d460d0282a1","2019-01-20",3081225,145581,749,"Afriyie Acquah","starting_lineup","Central Midfield","18",0
+"52e8cffff80ec654351d8eff81948915","2017-12-21",2978677,16375,169,"Panagiotis Kormpos","starting_lineup","Defensive Midfield","7",1
+"2bb1ca0267c039be84fb6aba6465bf85","2015-03-21",2478864,26105,862,"Valter Birsa","starting_lineup","Left Winger","23",0
+"eb3626e5e22d52d8e33033b90b4eaa89","2021-10-24",3612928,244285,3840,"Sinan Kurt","starting_lineup","Central Midfield","8",0
+"889127c7da80e717dfe7774b2c05bc69","2018-02-04",2899748,74857,131,"Marc-André ter Stegen","starting_lineup","Goalkeeper","1",0
+"b65eba719c7ffcc927dbe0e77125c791","2018-09-22",3050223,260806,1110,"Isaac Mbenza","substitutes","Right Winger","18",0
+"6e9f58f522eeda0ae2401dd559eaf219","2021-09-19",3612880,55605,6890,"Hasan Ali Kaldırım","substitutes","Left-Back","3",0
+"39cc2c060842bce57521ef1c77f29fc8","2015-01-11",2478763,73794,6195,"Duván Zapata","substitutes","Centre-Forward","91",0
+"d7df8f10491528219e4616ae3f5ec774","2022-09-11",3889549,137179,1124,"Sergey Bryzgalov","starting_lineup","Centre-Back","92",0
+"e42d91531b867d92cc9ed4adf8b0ac18","2018-05-11",2884534,153207,3325,"William","starting_lineup","Centre-Forward","11",0
+"1d8e6a40ff15eda97c5edc8d623a451a","2019-09-20",3256797,287015,28095,"Olivier Thill","starting_lineup","Second Striker","10",0
+"99440f4b8a8b9c1387b7eeff07c197d0","2013-08-24",2342294,27304,1268,"Gianni Zuiverloon","substitutes","Left-Back","51",0
+"6c86d0fe95d515c52aa4f4416c8e2528","2013-09-26",2335142,23914,932,"Lassana Diarra","substitutes","Defensive Midfield","85",0
+"25d53e720b640a0fdf3f898b739476ea","2021-09-22",3588929,373714,826,"Wuilker Fariñez","substitutes","Goalkeeper","1",0
+"fa22b95e5927a50ebf604065c1522ad4","2020-08-07",3291940,206746,1041,"Kenny Tete","substitutes","Right-Back","23",0
+"279d7fde5dfb8f14b6675a8bd4428f1d","2023-01-04",3989542,449496,366,"Álvaro Aguado","substitutes","Central Midfield","6",0
+"dfc75a60151439669ea35d7c958936e5","2016-10-23",2764478,7520,683,"Esteban Cambiasso","substitutes","Defensive Midfield","19",0
+"c96d66b8e63656f8f92a174fb6b0ff5b","2024-01-21",4098025,565424,383,"Johan Bakayoko","starting_lineup","Right Winger","
+                  11
+                ",0
+"ee1cf22e7ce778579b05e5e2ae7e65fa","2014-07-22",2460612,53354,713,"Vitaliy Rodionov","starting_lineup","Centre-Forward","20",1
+"9c1e1e31f4511b1c584d3f14817d585f","2022-08-13",3884483,509700,33432,"Marlon Luchtenberg","starting_lineup","Right Winger","11",0
+"4ebfeb5a676ba09283d01ed01b53a6d7","2022-05-15",3598033,255748,468,"Michaël Heylen","substitutes","Right Midfield","14",0
+"8d21fc513f611beebe0c38b3b1ef9962","2013-08-17",2329695,113378,354,"Sheldon Bateau","starting_lineup","Centre-Back","6",0
+"f983b11aca8bb9985505c9d55c83def0","2018-05-12",2872097,251295,79,"Dzenis Burnic","substitutes","Defensive Midfield","24",0
+"8745074534fd96c11c92b3622fa30ddd","2019-11-08",3223108,176354,36,"Sadık Çiftpınar","substitutes","Right-Back","18",0
+"480f3d6d74205f5f54c79012203676a2","2022-10-27",3912563,429901,150,"Paul Akouokou","starting_lineup","Defensive Midfield","4",0
+"16b0b49a0e885ee85f517021e08af6f7","2020-07-14",3212676,380409,7179,"João Jaquité","substitutes","Defensive Midfield","5",0
+"8be55a15cf56a84cc07176bb83b41259","2013-12-21",2330979,60604,14171,"Eric Tié Bi","starting_lineup","Central Midfield","4",0
+"929d3f647fb8d521355f163db02e4599","2014-10-18",2494359,127236,6676,"Juan Munafo","starting_lineup","Central Midfield","5",0
+"a56c0c3b32ecb93dc6da65ad37d85ec1","2017-08-19",2899565,15693,681,"Xabi Prieto","starting_lineup","Central Midfield","10",1
+"e6b96a35d40355c00110517acca24bad","2021-01-08",3491222,654173,405,"Brad Young","substitutes","Left Winger","68",0
+"db67c1a83e0637c12d3b02058901db74","2021-05-22",3451474,341272,1533,"Alejandro Pozo","substitutes","Right-Back","22",0
+"2f076298c8a975a45a413d7e3532c6a0","2021-05-05",3421004,396401,6993,"Maksym Chekh","substitutes","Defensive Midfield","6",0
+"2218a6e667b6ef8ee6a970bacf210db9","2019-07-25",3222973,228885,255,"Carlitos","starting_lineup","Second Striker","9",0
+"24430d5405ccf7e0387abb5486d6f47d","2022-05-15",3598015,618086,317,"Max Bruns","substitutes","Centre-Back","38",0
+"ec0c4aff82ca3914777796d02c9c6eb0","2019-12-14",3208803,255508,621,"Iñaki Williams","starting_lineup","Right Winger","9",0
+"293b5bce1a71d978b41a10a27e974d5c","2013-08-21",2360890,112062,31614,"Júnior Caiçara","starting_lineup","Right-Back","80",0
+"e1cdced1b73377240546ebe68dd8cc41","2015-12-28",2578276,27394,379,"Alex Song","starting_lineup","Central Midfield","4",0
+"e9c461303adebe3dc0cf9cb43c557b7a","2015-08-26",2613774,167268,985,"Paddy McNair","substitutes","Centre-Back","33",0
+"19a3b560686dedd555992d821555b0ce","2021-04-16",3545310,326585,1519,"Jamie Robson","starting_lineup","Left-Back","17",0
+"ea56611adbdeeac832a2b4be26096ddc","2016-03-20",2589140,19299,202,"Peter van der Vlag","substitutes","Goalkeeper","26",0
+"cc419573cef10e29003ef6448030ffad","2018-11-23",3047594,137745,1041,"Marçal","starting_lineup","Centre-Back","20",0
+"a1bbec8692d95c72df7c2f958280d754","2014-12-21",2478745,37418,1038,"Éder","starting_lineup","Left Winger","23",0
+"e503a16f19678247621944292146439a","2016-12-17",2704437,10471,82,"Luiz Gustavo","starting_lineup","Centre-Back","22",0
+"7c221ba78f5da4ad48040b4948b27862","2021-12-11",3588348,193004,79,"Waldemar Anton","starting_lineup","Centre-Back","2",0
+"fe60639369d66639cb911dcbb08b38bc","2019-11-28",3252524,52723,279,"Dávid Gróf","substitutes","Goalkeeper","99",0
+"63a42a6aafac27c0b3061e6546ff6f52","2015-08-11",2579895,13946,2578,"Steven MacLean","substitutes","Centre-Forward","9",0
+"51fcb8b695a5a0e85a89d30ac881a9ca","2018-03-17",2942844,126681,273,"Abdoulaye Diallo","substitutes","Goalkeeper","1",0
+"21f26e858eb1e5e72e23b97b022dd2f0","2017-02-14",2824797,148919,1270,"David Hopkirk","substitutes","Centre-Forward","10",0
+"db9ff64b292aa024121bb5b47b1666d2","2016-01-30",2594688,41355,150,"Ricky van Wolfswinkel","substitutes","Centre-Forward","9",0
+"7ea8e725793bd3f607e97de3bb5747d5","2020-03-14",3298471,349936,14589,"Aleksandr Rudenko","substitutes","Goalkeeper","1",0
+"3b344438990bdc1b789c916295ece2e7","2023-03-14",3956690,198116,46,"Federico Dimarco","starting_lineup","Left Midfield","32",0
+"26387f21cde75ee93f1e3dcdbda6c48e","2023-01-04",3989541,95926,12351,"Hugo Díaz","starting_lineup","Centre-Forward","7",0
+"518adfdd7dad524d1e6e92c1f46cd610","2020-10-29",3462282,539134,5,"Daniel Maldini","substitutes","Left Winger","27",0
+"1f25f3420ab973edc65255f8e2776354","2017-12-03",2883949,197711,2381,"Hakan Bilgiç","substitutes","Right-Back","17",0
+"e3c60cf84b2e583454f3c6339380aa2f","2016-01-23",2653887,96228,354,"Laurens Paulussen","starting_lineup","Right-Back","2",0
+"a163bc725172ff69e43dbb0e82ccd84f","2021-09-22",3646602,441098,49702,"Lucas Masoero","starting_lineup","Centre-Back","5",0
+"8e55563f8278ecf8a69927871784b725","2020-02-16",3209962,206947,1244,"Kévin Rodrigues","starting_lineup","Left Winger","24",0
+"9cb37240fdfb9584870c5d064909056b","2017-09-14",2919797,110695,2293,"Ömer Ali Şahiner","starting_lineup","Right Winger","7",0
+"b796151ca95b88126bd178d2c3dd804f","2022-08-11",3889795,427151,10481,"Bagdat Kairov","starting_lineup","Right-Back","24",0
+"21006a21c98e486c5bd27b2515d2e640","2020-10-27",3461737,302371,720,"Toni Martínez","substitutes","Centre-Forward","29",0
+"cbea6e1df4a24e2264349bbbb4bc0937","2014-04-03",2449286,125250,1090,"Celso Ortiz","starting_lineup","Defensive Midfield","26",0
+"f1e7278c98d1750e75a01e25a8cf7f8f","2023-05-13",3840421,743515,667,"Robin Risser","substitutes","Goalkeeper","40",0
+"acb7f55babf5f965a22af7bc0893fdb5","2017-01-10",2811644,78496,6676,"Tomas Kosicky","substitutes","Goalkeeper","1",0
+"9199540b7f057d7015461c05742f24df","2018-01-17",2942756,127610,273,"Mexer","starting_lineup","Centre-Back","4",0
+"677982620cb968ef950e7aaadfb54965","2014-09-23",2460669,6645,33,"Tranquillo Barnetta","substitutes","Attacking Midfield","27",0
+"4f2ee402b3c3a35bd45f69a8fc19b219","2021-01-03",3451071,338425,621,"Álex Berenguer","starting_lineup","Left Winger","12",0
+"f427d7697aacd40246b3296157e137e1","2018-11-26",3079469,51046,681,"Héctor Moreno","starting_lineup","Centre-Back","6",0
+"31e09976ed705876fdec8879df880d6f","2016-11-18",2771355,37933,1083,"Andrei Prepeliță","substitutes","Defensive Midfield","28",0
+"de3cad9c10bb74c04fac6f261b6abd3b","2018-09-15",3080936,337670,130,"Alessio Da Cruz","substitutes","Attacking Midfield","7",0
+"a8872e91ae2d17d340ee3d1f3370a9fa","2017-09-17",2871656,270541,3,"Serhou Guirassy","substitutes","Centre-Forward","19",0
+"fd9428a7532dbcff65a28412c7c85061","2017-09-30",2924603,99863,601,"Pylyp Budkivskyi","starting_lineup","Centre-Forward","18",0
+"cf54db5e423bc8f8c90d5a6222b064b3","2022-01-08",3607622,212391,3368,"Roger Martí","starting_lineup","Centre-Forward","9",1
+"8fc64bcaea36228b95a3996097278a64","2018-10-07",3063647,42694,865,"Mikkel Andersen","substitutes","Goalkeeper","31",0
+"b73463c26a7ac515fdcb92d19084bade","2022-04-02",3592222,105470,31,"Alisson","starting_lineup","Goalkeeper","1",0
+"389f87a303d48e70096941c03594b174","2013-11-11",2351990,72490,128,"Manolis Bertos","substitutes","Centre-Back","4",0
+"62bd80fcec1910ff377c80ac43409ba0","2022-11-05",3869191,236997,2420,"Tiago Silva","starting_lineup","Central Midfield","10",0
+"a17a892b008d04a366c5b3c67b220823","2022-10-09",3840050,798404,3524,"Alidu Seidu","starting_lineup","Centre-Back","36",0
+"35fee182864ee57d7027751e909bb478","2017-04-22",2700908,261943,317,"Enis Bunjaki","substitutes","Centre-Forward","27",0
+"67b145a71d5f1cc92dcbd3635c62e7f5","2017-07-20",2882218,390685,3793,"Georginho","substitutes","Attacking Midfield","10",0
+"a224c9d60c19e4f6198a07d597bb3158","2014-03-02",2346215,34166,126,"Görkem Görk","starting_lineup","Centre-Back","24",0
+"018ebca676fb6e992dc6b914389b58d9","2022-09-10",3851266,522791,2715,"Sambou Sissoko","starting_lineup","Defensive Midfield","27",0
+"ced338d6d8036f6ba7faf0ace6f71316","2019-12-07",3216164,578459,1426,"Aaron Bastiaans","substitutes","Left Winger","25",0
+"b4bd4c5bfde965e27b28d404f8979a0e","2022-11-13",3844881,57280,430,"Giacomo Bonaventura","substitutes","Central Midfield","5",0
+"b6e095078e56d07b53e5e891b00327f7","2019-12-04",3219335,77100,148,"Lucas Moura","starting_lineup","Right Winger","27",0
+"8610dc2ab871107db708f0e9e70497fb","2021-01-06",3394739,485960,3911,"Lilian Brassier","substitutes","Centre-Back","3",0
+"481f271358670e5383b0276305f02a60","2017-03-11",2704577,6288,82,"Mario Gómez","starting_lineup","Centre-Forward","33",0
+"c5b31b1ee622ad6e941f9365809cb68e","2018-11-27",3098037,52920,1041,"Marcelo","starting_lineup","Centre-Back","6",0
+"6fd692dd24fcd35dc4e973ec8c39e4d2","2021-09-12",3597811,433805,499,"Patrick Vroegh","substitutes","Central Midfield","36",0
+"7774fd7b455a2335f2a9c682ec960b67","2016-04-30",2681468,36724,2578,"Chris Millar","starting_lineup","Central Midfield","7",0
+"a12240a297fb1028e1b43cf09398476e","2017-04-29",2847882,444833,11127,"Nikita Glushkov","starting_lineup","Left Winger","32",0
+"29d56c555db15055d06b65a0a4ec1eda","2019-11-28",3252529,33793,114,"Gökhan Gönül","substitutes","Right-Back","77",0
+"91c383b2b728fce4e3d46f92b725ec4f","2014-09-25",2475220,64399,3709,"Vicente Guaita","starting_lineup","Goalkeeper","25",0
+"5678a4a999320f288e05563945d058d8","2017-03-11",2704569,379960,24,"Noel Knothe","substitutes","Centre-Back","35",0
+"4b598fd8edd35e4afa548e51c1eff9fa","2019-12-01",3286596,136536,6699,"Ryan Bowman","starting_lineup","Centre-Forward","12",0
+"2da1c94a0a9beb10b222bdf4ad8228d5","2015-09-12",2620441,16791,932,"Manuel Fernandes","substitutes","Attacking Midfield","4",0
+"983fb8b1ad133a23d5501df6d6dfc69d","2021-01-02",3451076,108390,418,"Thibaut Courtois","starting_lineup","Goalkeeper","1",0
+"d320879c79f2be7ea164c2ee8e766198","2015-01-28",2524767,162567,2425,"William Jebor","starting_lineup","Centre-Forward","33",0
+"d76e078fb29ff43a75bb8f9a12cf3f16","2016-05-07",2578261,108354,405,"Jordan Ayew","starting_lineup","Centre-Forward","19",0
+"a1bdb12150b77a2a7674348cbbf35f38","2016-12-04",2702796,39910,618,"Stéphane Ruffier","starting_lineup","Goalkeeper","16",0
+"e48e401974326a5388ad73bf7439e878","2016-09-24",2722629,58378,6890,"Mehmet Batdal","starting_lineup","Centre-Forward","9",0
+"3ef42848133302a498efa231a0b1de63","2015-01-04",2505069,331089,465,"Stevie Mallan","starting_lineup","Attacking Midfield","-",0
+"7b29814cd0baaeb79ca08e7cb75ffb85","2014-12-16",2460761,201737,60,"Christopher Jullien","substitutes","Centre-Back","5",0
+"cd1933764aec83d23a1908df39b647ff","2019-03-02",3069915,148550,126,"Koray Altınay","substitutes","Right-Back","44",0
+"d92f3be3ae4ad1cdc48c9f46499bb1a1","2020-08-19",3418670,578872,1041,"Jean Lucas","substitutes","Central Midfield","22",0
+"eae14b08491aadfd6b7daf5985651db1","2015-02-28",2510833,91448,23611,"Kyrylo Doroshenko","starting_lineup","Attacking Midfield","5",0
+"95fb24331174b02d3ba9d415f245441e","2013-10-26",2330912,5639,1423,"José Saez","substitutes","Central Midfield","23",0
+"c12136d8389c586142e6d8a52ee8a3eb","2015-07-24",2581208,103434,5817,"Troels Klöve","starting_lineup","Right Midfield","15",0
+"da96507fd8fa5327b0acd770ac955d32","2020-08-09",3413842,405397,475,"Keito Nakamura","starting_lineup","Left Midfield","15",0
+"03c7d9a1d7a953aef80799d31ded35fe","2020-07-08",3229473,273132,800,"Robin Gosens","starting_lineup","Left Midfield","8",0
+"31fcdd1dbdf41bc90def6a580edbe250","2022-11-09",3844869,321528,46,"Denzel Dumfries","starting_lineup","Right Midfield","2",0
+"7a2605392a5270749b8b12326f179cf9","2020-06-24",3229433,256339,1038,"Emil Audero","starting_lineup","Goalkeeper","1",0
+"f1c4cb0137b3f3a9d3710ad8418b5e8e","2021-07-28",3584561,323874,865,"Evander","starting_lineup","Central Midfield","10",0
+"3721b1e9d9c5678bc7d83f4689028e3c","2019-03-15",3069936,366948,36,"Jailson","substitutes","Defensive Midfield","32",0
+"9925f759823ad23f9e848bcf26e40442","2015-09-02",2597515,29322,8626,"Sigourney Bandjar","starting_lineup","Right-Back","-",0
+"b2db77bc7f2d49b74774d2ea1e08ae3f","2019-07-25",3222966,372119,43162,"Kristers Cudars","substitutes","Defensive Midfield","19",0
+"01a81069ded21fe7deec9bb8c297fb0b","2021-09-18",3652867,866695,23619,"Iain MacKenzie","substitutes","Goalkeeper","21",0
+"642e31ef66bda83164566bc702b69159","2015-08-08",2586771,27305,417,"Mathieu Bodmer","starting_lineup","Centre-Back","24",1
+"275b3f2da9eb89e223a47b2ae243320f","2015-04-16",2547357,204040,339,"Alexandru Vlad","substitutes","Left-Back","2",0
+"d7494a159f794f8ddc8095e6c4d66b74","2013-12-07",2384204,302459,1150,"Sam Ling","substitutes","Right-Back","27",0
+"447f5e2cac2b350fd4a5c33bbe2d8df4","2021-08-08",3580188,50577,190,"Pierre Neurath Bengtsson","substitutes","Left-Back","3",0
+"2f400c5dd3ff515024f7d4aee75ad33b","2016-01-20",2656742,161267,940,"Josep Señé","substitutes","Attacking Midfield","23",0
+"03abe2091adec6d45a937cbcf47558b9","2017-11-18",2934677,9424,3023,"Andy Dowie","starting_lineup","Centre-Back","4",1
+"3001ca719265ee8fcc480a01c11dfda2","2022-07-29",3845629,520061,16704,"Dmitriy Kratkov","substitutes","Defensive Midfield","26",0
+"1dd7c54492ea7c6f8b2be0106019a9c4","2022-08-20",3844749,198116,46,"Federico Dimarco","starting_lineup","Left Midfield","32",0
+"28837fdc947c71b2abc8a09bb9725507","2015-12-07",2594608,286415,714,"Pau López","starting_lineup","Goalkeeper","13",0
+"73dac21ad0a1f0160039583b926b2cc2","2017-03-18",2735576,39913,273,"Ludovic Baal","starting_lineup","Left-Back","24",0
+"1454f06dd55e8a94661e86e1d5ede20f","2013-12-10",2383731,48483,3034,"Mark Docherty","starting_lineup","Left-Back","3",0
+"7928369a613a81e65474edf8211e3f29","2024-02-23",4103722,413565,1025,"Jhon Lucumí","starting_lineup","Centre-Back","
+                  26
+                ",0
+"b841f749b48cc2a5574b9d07ee97505d","2020-09-27",3431930,213260,331,"Rubén García","starting_lineup","Left Winger","14",0
+"7a90885b99f28129e9b4c79fa2358aab","2022-02-06",3621530,176997,2423,"Anderson Carvalho","starting_lineup","Defensive Midfield","8",1
+"5aa80b8ac7795d0b7666fe4901f509e0","2020-02-11",3216226,333640,317,"Joël Drommel","starting_lineup","Goalkeeper","16",0
+"30b76981f3b12bc072c4deaec2a84476","2014-11-06",2492391,58295,669,"Petar Skuletic","starting_lineup","Centre-Forward","32",0
+"5267e0f20617891f3e975515742bba47","2022-01-15",3592120,614603,543,"Chem Campbell","substitutes","Attacking Midfield","77",0
+"869e7a9d38b7e67c1a3296840f57df8b","2024-02-07",4279371,296582,698,"Max O'Leary","starting_lineup","Goalkeeper","
+                  1
+                ",0
+"f287c83e29043cfaef47e0cdf8f04692","2021-01-10",3432079,401736,2457,"Yaya Sithole","starting_lineup","Defensive Midfield","15",0
+"0a3a2bb18b4f76fc167dfcd414b2cd5f","2019-01-12",3050376,41384,379,"Marko Arnautovic","starting_lineup","Centre-Forward","7",0
+"d413ffd883e162effdc56f7ab2c21f13","2016-09-25",2700686,264429,499,"Yuning Zhang","substitutes","Centre-Forward","9",0
+"4cc22396380959f0658b52bd2a98dc87","2022-11-13",3869135,908936,2420,"Zé Carlos","starting_lineup","Right Midfield","28",0
+"e69aff50673d3bb41b8828cecb15aa57","2014-12-03",2505176,199369,131,"Sandro Ramírez","substitutes","Left Winger","29",0
+"34949b5e6727f2096164d49f6a0a87d5","2020-03-07",3219133,337800,148,"Gedson Fernandes","substitutes","Central Midfield","30",0
+"0ee9ee285aec935d6d90da5ec81506b8","2021-08-29",3588830,395234,1420,"Batista Mendy","starting_lineup","Defensive Midfield","2",0
+"0e03ad09417e99656bfdf07e8537cd9c","2022-09-18",3844800,347253,2919,"Dany Mota","starting_lineup","Centre-Forward","47",0
+"fb94facef5fd4d46aa40429e48189742","2018-04-29",2897513,35747,6574,"Simone Missiroli","starting_lineup","Central Midfield","7",0
+"9d5a42dc9c055026e7ab19f839d9d3ea","2014-12-26",2512841,13078,29228,"Pieter-Jan Monteyne","starting_lineup","Left-Back","5",0
+"e821fe89bd5cc286f25354f876ab7583","2018-03-03",2982763,70869,11127,"Gregor Balazic","starting_lineup","Centre-Back","4",0
+"2369e146b64421cb24658a5e023f85f7","2016-04-03",2594774,54155,368,"Mariano","starting_lineup","Right-Back","25",0
+"73e2e8a44c9d79e97c60f634ec5f0f4a","2019-09-21",3209369,537469,6418,"Dimitrios Fytopoulos","substitutes","Attacking Midfield","20",0
+"a4c56affa48390bc7aca29ddf03984dc","2017-04-09",2726777,253765,398,"Wesley Hoedt","substitutes","Centre-Back","2",0
+"dc3bf5da364e66415b9ad64407071442","2020-10-22",3462267,357778,144,"Sandro Kulenovic","starting_lineup","Centre-Forward","99",0
+"ff037199619684aeba72d5bb083a398c","2022-05-12",3611494,35518,681,"David Silva","starting_lineup","Attacking Midfield","21",0
+"b5e1591c51f8dc96bc648c9e5658f340","2013-08-11",2358327,32098,2331,"Francesco Millesi","starting_lineup","Attacking Midfield","11",0
+"4fb6571ee31374a6f02af4504260a669","2020-06-17",3210041,476352,13,"Renan Lodi","starting_lineup","Left-Back","12",0
+"cab74cdbaa40426aaa49d4e2c01aaac2","2013-07-04",2321978,166103,28633,"Enric Triquell","substitutes","Centre-Back","16",0
+"78acb92dc709da6ff357799c37ffb36c","2016-08-24",2752900,182409,3719,"Yan Kazaev","starting_lineup","Defensive Midfield","10",0
+"66f4b3288d213e295cdb0d1d09d0ad0f","2017-10-13",2921364,55336,232,"Denis Glushakov","starting_lineup","Defensive Midfield","8",1
+"503c6c1e86f9c0c35c7578b5f22cb6d0","2022-08-28",3839842,810411,1158,"Pablo Pagis","substitutes","Centre-Forward","29",0
+"deed37ccfb5fd57b9183909ec0ed1ee7","2021-03-20",3450791,317593,202,"Patrick Joosten","starting_lineup","Centre-Forward","14",0
+"40a523a5b83c93d4645d85fbc3959f69","2015-11-21",2604101,291432,506,"Mattia Vitale","substitutes","Central Midfield","40",0
+"343dbda2c9b324567892cf72b862ce14","2021-03-20",3420966,537854,6993,"Artem Bondarenko","starting_lineup","Attacking Midfield","21",0
+"efd3849270851d1ad255c7b48ebbb83e","2021-08-24",3643352,212630,279,"Franck Boli","starting_lineup","Centre-Forward","70",0
+"2357139c1273fdfe89eb0a949959348c","2014-07-28",3376127,401750,20529,"Sergey Venskikh","substitutes","Centre-Forward","-",0
+"1ae78601dc95bee81b59b4fa3574f12f","2015-08-14",2588900,55972,499,"Guram Kashia","starting_lineup","Centre-Back","37",1
+"9ffa8fc0653eb26d05bdc9e2f9890c40","2018-09-30",3047538,127610,273,"Mexer","starting_lineup","Centre-Back","4",0
+"f9c26e92d2517c05306fded0b6cfb803","2020-09-13",3422908,93586,254,"Julius Biada","starting_lineup","Attacking Midfield","10",0
+"51de33aa7c02a87fbc94f6a85d6ef5a9","2022-05-15",3598015,721470,234,"Patrik Walemark","substitutes","Right Winger","23",0
+"00ff3373719b951ec8aa13708b4cef54","2018-10-26",3069789,46658,20,"Bogdan Stancu","starting_lineup","Centre-Forward","28",0
+"e93fc7a7aee8e275be9b39fe58c4544e","2016-02-21",2662190,163724,28643,"Laurent Jans","starting_lineup","Right-Back","21",0
+"e71ba232e665490d4afc9d05b8020553","2013-12-01",2332072,3202,31,"Kolo Touré","starting_lineup","Centre-Back","4",0
+"4531abf7dd88495d7293fdb85a1803ae","2022-08-09",3887479,121831,3716,"Aaron Wildig","substitutes","Central Midfield","24",0
+"507c52c8f3c796e75c0ac1ddf500deac","2016-08-28",2697546,23160,678,"Stephan Petersen","substitutes","Right Winger","7",0
+"d069165e3be27c3b88521e8a45c36861","2014-12-13",2460759,21327,42,"Ron-Robert Zieler","starting_lineup","Goalkeeper","1",0
+"8f958db36b0439c1f727fcf2cde20b58","2020-12-06",3426894,64016,126,"Yasin Pehlivan","substitutes","Defensive Midfield","6",0
+"cc304128eed0b4c6c81ac3b5e496ec49","2020-11-07",3420667,242272,18303,"Yevgen Banada","starting_lineup","Central Midfield","44",0
+"336b40885aea6d2329d82385c3b4db0f","2020-08-30",3394579,358515,618,"Jean-Philippe Krasso","substitutes","Centre-Forward","14",0
+"2dc882b3842fef978d9ba6c5f765a69e","2020-02-16",3211832,61743,2457,"André Santos","starting_lineup","Central Midfield","26",0
+"a71addfdf41d1214116b1611ffae09e1","2015-03-14",2512217,63837,2420,"André André","starting_lineup","Central Midfield","11",1
+"c6dc19eab7f5dba5cc8b7c3d7e4634f7","2015-04-26",2478898,291266,1390,"Godfred Donsah","substitutes","Central Midfield","30",0
+"e5e7b5070ed98d861fc5f9df69273cc9","2015-04-15",2547349,126664,583,"Lucas Digne","substitutes","Left-Back","21",0
+"63a28fdd3a2a9453112a40288326d380","2013-10-07",2351931,42296,6418,"Damian Bellon","substitutes","Attacking Midfield","89",0
+"5a0bf1c31c9a676dc586c054d530ce2c","2018-01-28",2899757,167228,472,"Raúl Lizoain","substitutes","Goalkeeper","1",0
+"c7a0383c35473abdb0deb53242565a35","2016-02-21",2581854,82243,16,"Moritz Leitner","starting_lineup","Attacking Midfield","14",0
+"088dfb12ae0069b773aa48901955fd73","2022-05-14",3813442,29241,631,"Thiago Silva","starting_lineup","Centre-Back","6",0
+"30b4f0a0c3ccd062beffece0e4f999bc","2015-09-27",2626459,75458,1091,"Robin Olsen","starting_lineup","Goalkeeper","25",0
+"9078139c2957c36f4dc340505ed744df","2021-07-26",3616787,527881,2420,"Maga","substitutes","Right-Back","68",0
+"5cd57fe321b59d06b6515d311372b252","2013-07-16",2323267,120518,713,"Ilya Aleksievich","starting_lineup","Central Midfield","9",0
+"d6df18a1c88ec07bd82e594dedd95f5a","2021-11-27",3682480,145834,3016,"Grant Anderson","substitutes","Right Midfield","11",0
+"1b100bef0aa328b0fde311b76a56ba1d","2015-12-19",2600635,79893,855,"Yannis Salibur","starting_lineup","Left Winger","19",0
+"d5fe9e15b1075ab217e7f60c173dd1d9","2017-11-05",2942668,290862,244,"Maxime López","substitutes","Defensive Midfield","27",0
+"4a49a74d4a0131fcdc4d547a239c9f67","2017-12-02",2958577,160222,58,"Uros Spajic","substitutes","Centre-Back","5",0
+"8e2ff62c85db1fec14a5813286b67cc2","2015-09-13",2586812,23914,244,"Lassana Diarra","starting_lineup","Defensive Midfield","10",0
+"774802f4e18c3cda1c1c6e31674f0e74","2022-07-05",3837920,204682,4644,"Antonio Kalanoski","substitutes","Centre-Forward","7",0
+"c0e7f5fda4ff6e9e2a15ed3fcb272456","2017-10-14",2930329,235776,23692,"Paul McCafferty","starting_lineup","Attacking Midfield","10",0
+"5a6e752d6bf6d570912b5d76fc0116d0","2014-03-08",2445998,96452,265,"Georgios Koutroubis","starting_lineup","Centre-Back","4",0
+"8a042f80503142ad1cfcb7ec998a9420","2020-02-28",3264448,274058,60551,"Francisco Di Franco","starting_lineup","Attacking Midfield","20",0
+"f0cade0e7d01cc3a4fc1a14455db0c11","2015-08-16",2589250,45593,3216,"Welliton","starting_lineup","Centre-Forward","11",0
+"d91f4b281a29495ad1187e6ab265bd87","2019-07-17",3211531,43077,195,"Mike Jensen","substitutes","Central Midfield","7",0
+"93b85bcab01ed9522d0950453df4bb83","2019-03-31",3047814,178313,162,"Jean-Eudes Aholou","starting_lineup","Defensive Midfield","4",0
+"c53cf2167e560840a4998c5f63376197","2019-01-19",3136373,369267,28643,"Maximiliano Caufriez","starting_lineup","Centre-Back","23",0
+"f68f422b8c9f72464b3705e355a28392","2021-09-22",3648396,139199,26488,"Jos Peltzer","starting_lineup","Centre-Forward","15",0
+"da53771e1b585001e39bc9cd624066d8","2016-01-23",2578107,171424,1003,"Riyad Mahrez","starting_lineup","Right Winger","26",0
+"52a7f40d6aa7fda084d13f26c3a076db","2016-08-21",2732072,103284,157,"Dieumerci Ndongala","starting_lineup","Right Midfield","88",0
+"b06296263174390efeba02693685b22f","2016-02-13",2604216,87282,8970,"Aleksandar Tonev","starting_lineup","Right Winger","19",0
+"e3e60e8ecd5872090d734cbe85ac50b8","2015-05-16",2559116,281873,2698,"Timur Akmurzin","substitutes","Goalkeeper","45",0
+"2151978557ef5a0a6b509c8538d3aa99","2017-09-24",2924597,140803,2282,"Anthony Limbombe","starting_lineup","Left Midfield","17",0
+"002c4e02c7fea80658bde2e18f8d98b6","2017-01-27",2700797,214798,468,"Craig Goodwin","substitutes","Left Winger","16",0
+"f0fa76fb57b35c39e6c3752961cdd8ae","2020-08-27",3424053,190456,5411,"Jerry Voutilainen","starting_lineup","Central Midfield","6",0
+"56ad12079270652412b92465453a7dbd","2016-05-14",2581996,21327,42,"Ron-Robert Zieler","starting_lineup","Goalkeeper","1",1
+"77247d42b6df1ebfd1e5f8370e050426","2018-08-07",3086935,196961,159,"Marko Gobeljic","substitutes","Right-Back","77",0
+"b9430eefcc7722d82a9f282fd7283db7","2014-02-08",2331034,36500,273,"Ola Toivonen","starting_lineup","Centre-Forward","9",0
+"8da2556a5513b8df9db46cb2c7619087","2015-07-09",2583567,379626,42246,"Kelvin Morgan","substitutes","Centre-Forward","17",0
+"b46644f063a6b569a75771ac7bc326a6","2021-04-11",3433477,14086,46,"Ashley Young","starting_lineup","Left Midfield","15",0
+"f12f4edbd8b1375ffd894f887d53f0f3","2022-09-18",3889018,59337,6676,"Pichu Atienza","substitutes","Centre-Back","18",0
+"283a7d1db5659e261fc6ba795bd90620","2017-05-07",2726821,300137,398,"Marius Adamonis","substitutes","Goalkeeper","31",0
+"d45e6606e9d262ab6aca49109e9c3bd8","2014-04-05",2335802,58000,339,"Artem Fedetskyi","starting_lineup","Right-Back","44",0
+"a69d65132ffc9221c0feece529c785dd","2022-11-12",3839263,146714,167,"Tomas Koubek","substitutes","Goalkeeper","40",0
+"ea40099c0c4fa492f3348e3beb30a61e","2014-01-22",2385456,109305,200,"Adam Sarota","starting_lineup","Right Midfield","19",0
+"aa4feb841da19ef155d1457b5fc2709f","2014-03-30",2359509,56790,1038,"Nenad Krsticic","starting_lineup","Central Midfield","10",0
+"947b582d3f2225d49e7cccd60da3579f","2021-04-06",3537799,25727,16,"Lukasz Piszczek","substitutes","Right-Back","26",0
+"43adfc1cca5d53ed27d89d5f7f731655","2014-08-06",2478447,13561,371,"Kris Commons","starting_lineup","Attacking Midfield","15",0
+"4c72e0bcb88f8c723183dcd54ecc367d","2018-12-22",3081197,341705,430,"Gerson","substitutes","Central Midfield","8",0
+"212b5659db26616e02a049046cfe3a90","2015-11-01",2609393,177184,8024,"Nuno Valente","starting_lineup","Central Midfield","50",0
+"a6b398383b23904b70516081c7e9079f","2020-07-10",3212663,373300,2423,"Cryzan","substitutes","Centre-Forward","23",0
+"0811976271897b8cc13e2f848dc47927","2019-11-29",3203547,19112,89,"Christian Gentner","starting_lineup","Central Midfield","34",0
+"b7d80dfb79f02cf38ce45be929a5ae95","2018-05-12",2872099,282660,44,"Maximilian Mittelstädt","substitutes","Right Midfield","17",0
+"c6acbb75ca9edd0b816bac1f8794f55c","2023-03-03",3828526,678277,678,"Mathias Sauer","substitutes","Central Midfield","41",0
+"da9d8a6d10d3d359eee04d9bb69a1811","2022-04-23",3613166,467312,3840,"Mustafa Kapı","substitutes","Central Midfield","18",0
+"6883c04805340f98a8bcc19a99f90673","2022-08-28",3839844,982855,417,"Reda Belahyane","substitutes","Defensive Midfield","37",0
+"1a494582fba0b47d6e2baaafb57c1be5","2018-09-21",3047515,236045,1160,"Denis Bouanga","substitutes","Left Winger","10",0
+"8765e2d9b4afb89beeb18e42574c22b9","2022-07-06",3837913,657113,10481,"Aybar Zhaksylykov","starting_lineup","Centre-Forward","44",0
+"88a1582a509ea4d3cfba86343aa4fd19","2016-10-18",2754924,257448,336,"Gelson Martins","starting_lineup","Right Midfield","77",0
+"d4c99523f9c498f102127c5abda47de6","2022-02-26",3598389,364370,475,"Mory Konaté","starting_lineup","Defensive Midfield","6",0
+"751b238bacaee7cd57e6f93d686f5d53","2024-03-01",4129691,157178,2381,"Ali Şaşal Vural","starting_lineup","Goalkeeper","
+                  35
+                ",0
+"aa92c8ad704ff72e1ba69502d79a6cdb","2020-12-29",3421832,410708,399,"Pascal Struijk","starting_lineup","Centre-Back","21",0
+"951fbf68c339240a30d8b6f2c9a4fce0","2022-11-09",3839250,451276,23826,"Dominik Szoboszlai","starting_lineup","Right Midfield","17",0
+"f9c48334f03215119ca213fede494371","2021-12-23",3597960,93637,468,"Mario Engels","starting_lineup","Centre-Forward","9",0
+"c0a0656a3ed0807d6d14f31b54934768","2022-05-22",3613211,34453,3840,"Birkir Bjarnason","substitutes","Central Midfield","67",0
+"6e15d25794fde80bf22b135aba045fc6","2013-09-14",2384489,32615,4602,"Egutu Oliseh","starting_lineup","Defensive Midfield","32",0
+"dd7307dd9399d745d4644846987d16ab","2017-08-06",2875111,47772,206,"Paulus Arajuuri","starting_lineup","Centre-Back","23",0
+"383803043c903552b3df7eb1b5913160","2021-02-02",3502340,329324,127,"Johannes Dörfler","substitutes","Right-Back","16",0
+"6c698afd9430172231eab33261fdd80c","2019-12-08",3229312,277167,6574,"Gian Marco Ferrari","substitutes","Centre-Back","31",0
+"17ec873677f1f9d514064f6faf889fa5","2019-12-07",3203553,19305,18,"Oscar Wendt","substitutes","Left-Back","17",0
+"9a057b9ab9f7bdee3d1e6f974d854e8e","2014-04-12",2321324,21227,39,"Zdenek Pospech","starting_lineup","Right-Back","3",0
+"36c91996f30ae803d11d1d806df49a6e","2016-12-08",2765923,190289,39,"Gerrit Holtmann","substitutes","Left Winger","38",0
+"0d3b5a21e61e59c853897602fb398b36","2022-04-23",3614876,197929,3522,"Ivan Provedel","starting_lineup","Goalkeeper","94",0
+"31b4f7da34248091fe8647f39644bb10","2021-02-04",3512437,379548,621,"Jokin Ezkieta","substitutes","Goalkeeper","13",0
+"25f1d5b04b2eb3da867be1c5b9d32366","2018-09-20",3098676,171676,496,"Marcus Antonsson","starting_lineup","Centre-Forward","23",0
+"10e93188919701120475a1e99771bb9b","2021-08-31",3646189,201604,5947,"Nick Trier","starting_lineup","Attack","11",0
+"ca6b20920b65eb8922a18551b5d4618a","2016-10-02",2758386,53286,964,"Maurício","substitutes","Defensive Midfield","8",0
+"f19549a05160a42c51adfc332c9371b6","2013-11-23",2342363,213671,192,"Mitchel Paulissen","substitutes","Attacking Midfield","19",0
+"931f1ce7a3ec76555a48cd656d0a16e3","2020-03-07",3216256,500067,306,"Chidera Ejuke","starting_lineup","Centre-Forward","8",0
+"ed1a212ca51b76ca9002a8418338fe63","2013-09-14",2367421,74873,3459,"Michael Finnis","starting_lineup","Centre-Back","-",0
+"a20d65f023a20646b37dbe4120e40a7f","2023-04-27",4019304,195335,2239,"Michele Castagnetti","substitutes","Defensive Midfield","19",0
+"53f863009d168fb86b16741a9ef010c6","2022-08-02",3887497,203746,162,"Ruben Aguilar","substitutes","Right-Back","26",0
+"ad20cca14953d151d1656844d6221200","2021-05-15",3433545,34198,252,"Andrea Masiello","starting_lineup","Centre-Back","55",0
+"365577d7b0808ac5779b39a1f10c7ed4","2020-02-01",3203610,34542,167,"Marek Suchy","substitutes","Centre-Back","5",0
+"3adaddf316d2904ae653283c6ba5debb","2014-09-27",2486526,76277,11,"Laurent Koscielny","starting_lineup","Centre-Back","6",0
+"e3f2afbd09ad3e8cc8bbc2e43fc1414d","2023-03-19",3852728,412940,133,"Remco Balk","starting_lineup","Right Winger","30",0
+"fad29b6a479e5459a0bcc9a04133a0b0","2017-01-29",2704481,230541,39,"Yoshinori Muto","starting_lineup","Centre-Forward","9",0
+"0871cea8327f4771b218d12ed805361e","2014-05-04",2335778,106928,2227,"Sergiy Sitalo","substitutes","Goalkeeper","31",0
+"d3fa952ae3c9e3d60f7c502fa684863b","2024-02-03",4098926,667903,172,"Youssuf Sylla","starting_lineup","Centre-Forward","
+                  80
+                ",0
+"ec39b98c4efec5c81fae24b2d9298642","2016-12-17",2726634,5878,749,"Alberto Gilardino","substitutes","Centre-Forward","18",0
+"4882068ad6ef8852ed7225a9c166bcc2","2020-01-19",3208833,131667,16795,"Ramon Azeez","starting_lineup","Attacking Midfield","12",0
+"12eb1f4d2af718480b9ccec1374e4967","2017-09-27",2917384,12688,371,"Scott Brown","starting_lineup","Defensive Midfield","8",1
+"377068c09e85e66f9727179a976145c7","2014-09-13",2478603,5023,506,"Gianluigi Buffon","starting_lineup","Goalkeeper","1",1
+"bb140d06ba01306b36def1d1c1955e16","2016-07-24",2724885,449594,33535,"Anton Bunin","substitutes","Goalkeeper","91",0
+"828db1b9e871229db6109a134ef47d72","2023-04-26",3886641,148928,13,"Saúl Ñíguez","substitutes","Central Midfield","17",0
+"6b39a49624a5909c66eaf74f281184cf","2016-10-31",2720824,153207,3325,"William","substitutes","Centre-Forward","99",0
+"8a39da0c4abea0ac2d5a5356eec5c704","2019-10-06",3223069,216603,6890,"İrfan Can Kahveci","starting_lineup","Central Midfield","17",0
+"d5a997d9aa5b27c61363812dc5f5a1e7","2016-03-11",2603934,96455,338,"Yevgen Makarenko","substitutes","Defensive Midfield","27",0
+"a519c5968e4be3b6932d1ba752749c2e","2015-05-13",2470329,64016,6894,"Yasin Pehlivan","starting_lineup","Defensive Midfield","27",0
+"2c1f93f4790fcafcc0dc4441b2ecf61a","2020-07-16",3210135,7663,150,"Joaquín","starting_lineup","Left Winger","17",1
+"bf12761a9b3b675491c1a51185043bb4","2023-03-05",3844978,54906,46,"Matteo Darmian","starting_lineup","Centre-Back","36",0
+"5301746e4fd95007ef709a2ff30a6c46","2013-08-04",2351289,224990,839,"Andrea Zanchi","substitutes","Left-Back","-",0
+"2c9c42f8ea141512fd5d4f94a3bec1a3","2017-01-07",2808929,346780,11177,"Jack Sowerby","substitutes","Defensive Midfield","28",0
+"dcea30c091b96061167687fb8432486d","2015-09-09",2630363,215435,12605,"Javi Gallardo","substitutes","Left-Back","-",0
+"6b6c1e95969bbcbfc49669d8c6a3a04d","2014-11-29",2470026,137614,6894,"İlker Sayan","substitutes","Right Winger","17",0
+"b1229607535eb4b9f48665eb9b28a697","2019-07-30",3222960,309676,53453,"Petros Avetisyan","starting_lineup","Attacking Midfield","77",0
+"32cb646a5a99c335e2b86c9b9c54bdcb","2018-11-03",3058496,153084,27,"Leon Goretzka","substitutes","Right Midfield","18",0
+"932f648b6794069f2208b78083c96e05","2022-04-24",3614869,162961,749,"Valerio Verre","starting_lineup","Attacking Midfield","7",0
+"8078cf44ac58de550b3efb1d7ab57065","2016-01-29",2581814,85864,39,"Loris Karius","starting_lineup","Goalkeeper","1",0
+"fa5c320bd63aa215198c7901294b8d21","2015-11-07",2581720,68033,533,"Steven Zuber","substitutes","Left Winger","17",0
+"47ccc007f90ddde7b5a8aa04c9641853","2015-03-07",2470263,251444,20,"Süheyl Çetin","substitutes","Centre-Back","18",0
+"44bc4f789a25c3161ed716b6b14dc42c","2020-01-11",3199553,391376,1160,"Lamine Fomba","substitutes","Defensive Midfield","12",0
+"529c2722ba45f3ea4c7a945948f0ccee","2021-11-20",3602288,504882,18303,"Claudio Spinelli","substitutes","Centre-Forward","9",0
+"a3d6628eb3265bcce865e307f2caee72","2014-11-01",2475270,195171,1084,"Samu Castillejo","starting_lineup","Left Winger","29",0
+"d811fbc2eca6cb21222f38c53357ec09","2016-12-17",2726636,29260,506,"Giorgio Chiellini","starting_lineup","Centre-Back","3",0
+"2d796164680b0907a4c232f2ef538c4c","2024-02-17",4096158,124410,89,"Rani Khedira","starting_lineup","Defensive Midfield","
+                  8
+                ",0
+"e7475fe236f4269898ef3b5923f85701","2022-04-11",3613152,337516,7775,"Fatih Kurucuk","starting_lineup","Centre-Back","22",0
+"8fefa9c1d278d2fc3a6f2d317e8cbdcc","2021-03-14",3420954,168292,16239,"Levan Arveladze","substitutes","Left Midfield","9",0
+"7cbc0edd3a38acc372b282d86c2ff062","2022-09-18",3839136,789898,533,"Muhammed Damar","substitutes","Attacking Midfield","35",0
+"abccde43badea9575fc29ef3370e80a0","2022-10-18",3942784,724039,60949,"Georgios Koutsias","starting_lineup","Centre-Forward","19",0
+"6e23587aeed11dfb03efac64cc201b6c","2022-08-28",3828451,663424,5724,"Lasse Berg Johnsen","starting_lineup","Central Midfield","6",0
+"40f704a92dca635a903bf0a634896059","2018-08-14",3055425,613847,5957,"Tonni Petersen","starting_lineup","Attack","-",0
+"2e9517244cd304288d5a5802769a9ac9","2019-02-09",3139983,44624,1096,"Dieumerci Mbokani","starting_lineup","Centre-Forward","70",0
+"883cb3b47f8bc2c9fe37814d1736b37c","2015-02-06",2482336,39893,826,"Jérôme Le Moigne","starting_lineup","Defensive Midfield","6",1
+"c7c28a7146807b13c5e12b3252a87353","2015-09-12",2577952,75471,873,"Yannick Bolasie","starting_lineup","Centre-Forward","10",0
+"e12bd51a9cf8af32ad01d22e4f278408","2022-10-23",3840074,242273,995,"Pedro Chirivella","starting_lineup","Defensive Midfield","5",0
+"ed1f75879ccc71a99c86fdb13c89b990","2017-01-18",2814294,112988,180,"Cédric Soares","substitutes","Right-Back","2",0
+"2bb6b8aa8807b8b457aef9ec7c10daf3","2020-09-17",3433587,464489,195,"Filip Brattbakk","substitutes","Right Winger","23",0
+"d99612f237da64ab5a1a2818c6b914c6","2016-05-29",2581396,253664,2778,"Pascal Gregor","substitutes","Centre-Back","3",0
+"ab5bfbc95e69c0fda686942773896a05","2018-08-19",3048415,207593,10,"Prince Osei Owusu","starting_lineup","Centre-Forward","17",0
+"eb3168f8b6d9f066d2729a51bd44ca44","2013-09-29",2359263,6442,6574,"Antonio Rosati","substitutes","Goalkeeper","22",0
+"7555c1cf183fb3158352a2e15df34e75","2021-11-24",3710372,87884,6195,"Mário Rui","starting_lineup","Left-Back","6",0
+"34e8f8d5a507e5c91b06386d0f77f498","2013-08-11",2358317,160322,22045,"Marco Baldan","starting_lineup","Centre-Back","24",0
+"39c467f16cd46e4ba60b33b78e7b95b0","2020-06-21",3298483,25879,28095,"Pavel Alikin","substitutes","Centre-Back","3",0
+"726e68af06eca9a1818598315283f660","2023-01-07",3851118,129585,2861,"Guillaume Hubert","substitutes","Goalkeeper","28",0
