@@ -235,7 +235,7 @@ server <- function(input, output, session) {
       JOIN appearances a ON p.player_id = a.player_id
       GROUP BY p.player_id
       ORDER BY total_goals DESC
-      LIMIT 10;
+      LIMIT 200;
     ")
     
     plot_ly(data, x = ~name, y = ~total_goals, type = 'bar', 
@@ -277,7 +277,7 @@ server <- function(input, output, session) {
       LEFT JOIN players p ON c.club_id = p.current_club_id
       GROUP BY c.club_id, c.name, c.squad_size, c.average_age
       ORDER BY total_players DESC
-      LIMIT 10;
+      LIMIT 200;
     ")
     
     datatable(data, 
@@ -309,7 +309,7 @@ server <- function(input, output, session) {
       FROM players p
       LEFT JOIN clubs c ON p.current_club_id = c.club_id
       LEFT JOIN appearances a ON p.player_id = a.player_id
-      GROUP BY p.player_id, p.name, p.country_of_birth, p.date_of_birth
+      GROUP BY p.player_id, p.name, p.country_of_birth
       HAVING 1=1
     "
     
@@ -318,14 +318,14 @@ server <- function(input, output, session) {
     }
     
     query <- paste0(query, " AND total_goals >= ", input$minGoals)
-    query <- paste0(query, " ORDER BY total_goals DESC LIMIT 50;")
+    query <- paste0(query, " ORDER BY total_goals DESC LIMIT 500;")
     
     getData(query)
   })
   
   output$playerTable <- renderDT({
     datatable(playerData(),
-              options = list(pageLength = 10, scrollX = TRUE),
+              options = list(pageLength = 7, scrollX = TRUE),
               rownames = FALSE)
   })
   
@@ -347,28 +347,31 @@ server <- function(input, output, session) {
   # Klub Tab
   clubData <- reactive({
     query <- "
-      SELECT 
-        c.club_id,
-        c.name,
-        ANY_VALUE(comp.name) AS league,
-        c.squad_size,
-        c.average_age,
-        COUNT(DISTINCT p.player_id) AS total_players,
-        COUNT(DISTINCT g.game_id) AS total_games
-      FROM clubs c
-      JOIN competitions comp ON c.domestic_competition_id = comp.competition_id
-      LEFT JOIN players p ON c.club_id = p.current_club_id
-      LEFT JOIN games g ON c.club_id = g.home_club_id OR c.club_id = g.away_club_id
-      GROUP BY c.club_id, c.name, c.squad_size, c.average_age
-      HAVING 1=1
-    "
+    SELECT 
+      c.club_id,
+      c.name,
+      ANY_VALUE(comp.name) AS league,
+      c.squad_size,
+      c.average_age,
+      COUNT(DISTINCT p.player_id) AS total_players,
+      COUNT(DISTINCT g.game_id) AS total_games
+    FROM clubs c
+    JOIN competitions comp ON c.domestic_competition_id = comp.competition_id
+    LEFT JOIN players p ON c.club_id = p.current_club_id
+    LEFT JOIN games g ON c.club_id = g.home_club_id OR c.club_id = g.away_club_id
+    WHERE 1=1
+  "
     
     if (input$clubCompetition != "Semua") {
       query <- paste0(query, " AND comp.name = '", input$clubCompetition, "'")
     }
     
+    # Add squad_size filter to WHERE clause
     query <- paste0(query, " AND c.squad_size BETWEEN ", input$squadSizeRange[1], " AND ", input$squadSizeRange[2])
-    query <- paste0(query, " ORDER BY total_players DESC LIMIT 50;")
+    
+    # Add GROUP BY after WHERE clause
+    query <- paste0(query, " GROUP BY c.club_id, c.name, c.squad_size, c.average_age")
+    query <- paste0(query, " ORDER BY total_players DESC LIMIT 200;")
     
     getData(query)
   })
@@ -420,12 +423,11 @@ server <- function(input, output, session) {
   transferData <- reactive({
     query <- "
       SELECT 
-        t.transfer_id,
+        t.player_id,
         t.player_name,
         t.transfer_date,
         ANY_VALUE(f.name) AS from_club,
         ANY_VALUE(t2.name) AS to_club,
-        t.transfer_type,
         t.transfer_fee
       FROM transfers t
       JOIN clubs f ON t.from_club_id = f.club_id
@@ -437,11 +439,7 @@ server <- function(input, output, session) {
       query <- paste0(query, " AND t.transfer_date BETWEEN '", input$transferDateRange[1], "' AND '", input$transferDateRange[2], "'")
     }
     
-    if (input$transferType != "Semua") {
-      query <- paste0(query, " AND t.transfer_type = '", input$transferType, "'")
-    }
-    
-    query <- paste0(query, " GROUP BY t.transfer_id, t.player_name, t.transfer_date, t.transfer_type, t.transfer_fee")
+    query <- paste0(query, " GROUP BY t.player_id, t.player_name, t.transfer_date, t.transfer_fee")
     query <- paste0(query, " ORDER BY t.transfer_date DESC LIMIT 100;")
     
     getData(query)
@@ -451,10 +449,10 @@ server <- function(input, output, session) {
     datatable(transferData(),
               options = list(pageLength = 10, scrollX = TRUE),
               rownames = FALSE) %>%
-      formatStyle('transfer_type', 
-                  backgroundColor = styleEqual(
-                    c('Permanent', 'Loan'), 
-                    c('#00a65a', '#f39c12')
+      formatStyle('transfer_fee',
+                  backgroundColor = styleInterval(
+                    c(1000000, 10000000), 
+                    c('#f39c12', '#00a65a', '#dd4b39')
                   ),
                   color = 'white',
                   fontWeight = 'bold')
@@ -531,13 +529,17 @@ server <- function(input, output, session) {
     datatable(data %>% select(date, home_team, result, away_team, season),
               options = list(pageLength = 10, scrollX = TRUE),
               rownames = FALSE) %>%
-      formatStyle('result', 
-                  backgroundColor = function(data, row) {
-                    home_goals <- as.numeric(sub(" - .*", "", data))
-                    away_goals <- as.numeric(sub(".* - ", "", data))
-                    ifelse(home_goals > away_goals, '#dff0d8',
-                           ifelse(home_goals < away_goals, '#f2dede', '#fcf8e3'))
-                  })
+      formatStyle('result',
+                  backgroundColor = styleEqual(
+                    levels = unique(data$result),
+                    values = sapply(unique(data$result), function(res) {
+                      parts <- as.numeric(unlist(strsplit(res, " - ")))
+                      if(parts[1] > parts[2]) return('#dff0d8')
+                      else if(parts[1] < parts[2]) return('#f2dede')
+                      else return('#fcf8e3')
+                    })
+                  )
+      )
   })
   
   output$scoreDistributionPlot <- renderPlotly({
