@@ -325,7 +325,7 @@ server <- function(input, output, session) {
   
   output$playerTable <- renderDT({
     datatable(playerData(),
-              options = list(pageLength = 7, scrollX = TRUE),
+              options = list(pageLength = 10, scrollX = TRUE),
               rownames = FALSE)
   })
   

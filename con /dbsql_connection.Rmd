@@ -14,17 +14,17 @@ install.packages(c("DBI", "RMySQL", "glue"))
 library(DBI)
 library(RMySQL)
 library(dplyr)
-library(readrnumber)
+library(readr)
 library(glue)
 ```
 
 ```{r}
 db_config <- list(
-  host = "127.0.0.1",
-  port = 3309,          # Port MySQL di DBngin
-  user = "root",
-  password = "",
-  dbname = "mds_db"    # Nama database yang akan dibuat
+  host = "172.20.3.32",
+  port = "",
+  user = "yudith",
+  password = "Yudith@32",
+  dbname = "mds_kel_1_p1"    # Nama database yang akan dibuat
  )
 ```
 
@@ -33,7 +33,6 @@ db_config <- list(
 con <- dbConnect(
   MySQL(),
   host = db_config$host,
-  port = db_config$port,
   user = db_config$user,
   password = db_config$password,
   dbname = db_config$dbname,
